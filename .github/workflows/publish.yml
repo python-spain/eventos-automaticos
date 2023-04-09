@@ -17,5 +17,12 @@ jobs:
           cache: 'pip' # caching pip dependencies
       - name: Install requirements
         run: pip install -r requirements.txt
+      - name: Clone events directory
+        run: git clone git@github.com:PyCampES/telegram-python-es.git events
       - name: Run main.py
         run: python main.py
+        with: # Set the secret as an input
+          MEETUP_KEY: ${{ secrets.MEETUP_KEY }}
+          MEETUP_SECRET: ${{ secrets.MEETUP_SECRET }}
+      - name: Push events directory
+        run: cd events && git checkout events && git commit -am "Updated events." && git push && cd ..
