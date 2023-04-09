@@ -25,4 +25,4 @@ jobs:
           MEETUP_KEY: ${{ secrets.MEETUP_KEY }}
           MEETUP_SECRET: ${{ secrets.MEETUP_SECRET }}
       - name: Push events directory
-        run: cd events && git commit -am "Updated events." && git push && cd ..
+        run: cd events && git config --global user.name "Python ES" && git config --global user.email "contacto@es.python.org" && git commit -am "Updated events." && git push && cd ..
