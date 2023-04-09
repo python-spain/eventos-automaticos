@@ -1,4 +1,5 @@
 import httpx
+from typing import Any
 import jwt
 import datetime as dt
 import os
@@ -33,4 +34,15 @@ def auth():
                 "assertion": signed_jwt,
             },
         )
-        return r
+        return r.json()
+
+def query_event(event_id: str):
+    query = 'query($eventId: ID) {\n  event(id: $eventId) {\n    title\n    description\n    dateTime\n  }\n}'
+    token = auth().get("access_token")
+    with httpx.Client() as cli:
+        response = cli.post(
+            "https://api.meetup.com/gql",
+            headers={"content_type": "application/json", "authorization": f"Bearer {token}"},
+            json={"query": query, "variables": {"eventId": event_id}}
+        )
+        return response
