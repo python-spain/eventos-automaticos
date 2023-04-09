@@ -37,7 +37,7 @@ def auth():
 
 def query_event(event_id: str):
     query = (
-        'query($eventId: ID) {\n  '
+        'query($eventId: ID) {\n'
         'event(id: $eventId) {\n'
         'id\n'
         'title\n'
