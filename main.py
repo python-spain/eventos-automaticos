@@ -8,7 +8,7 @@ meetup_secret = os.environ["MEETUP_SECRET"]
 
 
 def main():
-    print(f"Hello Meetup! (secret {meetup_secret[:2]}{meetup_secret[2:] * '*'})")
+    print(f"Hello Meetup! (secret {meetup_secret[:2]}{len(meetup_secret[2:]) * '*'})")
 
 
 if __name__ == '__main__':
