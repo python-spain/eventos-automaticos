@@ -35,41 +35,45 @@ def auth():
         )
         return r.json()
 
+
 def query_event(event_id: str):
     query = (
-        'query($eventId: ID) {\n'
-        'event(id: $eventId) {\n'
-        'id\n'
-        'title\n'
-        'eventUrl\n'
-        'description\n'
-        'shortDescription\n'
-        'group {\n'
-            'id\n'
-            'name }\n'
-        'isOnline\n'
-        'eventType\n'
-        'venue {\n'
-            'id\n'
-            'name\n'
-            'address\n'
-            'city\n'
-            'postalCode\n'
-            'lng\n'
-            'lat }\n'
-        'onlineVenue {\n'
-            'url }\n'
-        'dateTime\n'
-        'duration\n'
-        'timezone\n'
-        'endTime\n'
-        '}\n}'
+        "query($eventId: ID) {\n"
+        "event(id: $eventId) {\n"
+        "id\n"
+        "title\n"
+        "eventUrl\n"
+        "description\n"
+        "shortDescription\n"
+        "group {\n"
+        "id\n"
+        "name }\n"
+        "isOnline\n"
+        "eventType\n"
+        "venue {\n"
+        "id\n"
+        "name\n"
+        "address\n"
+        "city\n"
+        "postalCode\n"
+        "lng\n"
+        "lat }\n"
+        "onlineVenue {\n"
+        "url }\n"
+        "dateTime\n"
+        "duration\n"
+        "timezone\n"
+        "endTime\n"
+        "}\n}"
     )
     token = auth().get("access_token")
     with httpx.Client() as cli:
         response = cli.post(
             "https://api.meetup.com/gql",
-            headers={"content_type": "application/json", "authorization": f"Bearer {token}"},
-            json={"query": query, "variables": {"eventId": event_id}}
+            headers={
+                "content_type": "application/json",
+                "authorization": f"Bearer {token}",
+            },
+            json={"query": query, "variables": {"eventId": event_id}},
         )
         return response.json()
