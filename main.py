@@ -4,7 +4,7 @@ Publish meetup events to Telegram.
 """
 import os
 
-meetup_secret = os.environ.get("MEETUP_SECRET")
+meetup_secret = os.environ["MEETUP_SECRET"]
 
 
 def main():
