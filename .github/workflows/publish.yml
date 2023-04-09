@@ -1,20 +1,21 @@
 name: Publish
 
-       # Controls when the workflow will run
 on:
   # Triggers the workflow every 5 minutes
   schedule:
     - cron: "*/5 * * * *"
 
-     # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "cron"
   cron:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          cache: 'pip' # caching pip dependencies
+      - name: Install requirements
+        run: pip install -r requirements.txt
+      - name: Run main.py
+        run: python main.py
