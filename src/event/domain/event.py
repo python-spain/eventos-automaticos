@@ -1,11 +1,11 @@
+from dateutil.parser import parse
 
 class Event:
 
     def __init__(self, community_name, title, date, venue, description, link):
         self.community_name = community_name
         self.title = title
-        self.day = self.__get_day(date)
-        self.hour = self.__get_hour(date)
+        self.date = self.__parse_date(date);
         self.venue = venue
         self.description = description
         self.link = link
@@ -21,8 +21,5 @@ class Event:
             json_dict['link'],
         )
 
-    def __get_day(self, date):
-        return date.split('T')[0]
-
-    def __get_hour(self, date):
-        return date.split('T')[1]
+    def __parse_date(self, date):
+        return parse(date)
