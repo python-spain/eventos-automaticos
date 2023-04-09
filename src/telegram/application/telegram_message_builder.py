@@ -16,6 +16,6 @@ class TelegramMessageBuilder:
             f'*Descripción:* {self.__clean_chars(event.description)}'
         )
 
-    def __clean_chars(self, text):
+    @staticmethod
+    def __clean_chars(text):
         return re.sub(r"[_()*~`>#+-=|{}.!\[\]]", r"\\\g<0>", text)
-

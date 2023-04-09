@@ -21,8 +21,10 @@ class Event:
             json_dict['link'],
         )
 
-    def __get_day(self, date):
+    @staticmethod
+    def __get_day(date):
         return date.split('T')[0]
 
-    def __get_hour(self, date):
+    @staticmethod
+    def __get_hour(date):
         return date.split('T')[1]

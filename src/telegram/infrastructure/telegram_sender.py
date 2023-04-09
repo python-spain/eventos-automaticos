@@ -6,6 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 URL = os.getenv('TELEGRAM_API_URL')
 TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
+
 CHANNEL_ID = os.getenv('TELEGRAM_CHANNEL_ID')
 
 
@@ -21,8 +22,9 @@ class TelegramSender:
         response = httpx.post(request, data=data)
         self.__message_sent_log(response.status_code)
 
-    def __message_sent_log(self, status_code):
+    @staticmethod
+    def __message_sent_log(status_code):
         if 200 == status_code:
-            print("Message sent succesfully")
+            print("Message sent successfully")
         else:
             print("There was a problem sending this message")
