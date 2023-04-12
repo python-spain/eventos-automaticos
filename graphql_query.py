@@ -108,7 +108,7 @@ def query_group_events(urlname: str):
         }
       }
     }"""
-    token = auth().get("access_token")
+    token = auth()["access_token"]
     with httpx.Client() as cli:
         response = cli.post(
             "https://api.meetup.com/gql",
