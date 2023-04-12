@@ -96,16 +96,6 @@ def query_group_events(urlname: str):
             cursor
           }
         }
-        eventSearch(filter: {query: ""}) {
-          count
-          edges {
-            node {
-              id
-              title
-              dateTime
-            }
-          }
-        }
       }
     }"""
     token = auth()["access_token"]
