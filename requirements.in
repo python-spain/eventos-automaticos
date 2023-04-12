@@ -3,4 +3,6 @@ python-dateutil
 python-dotenv
 PyJWT
 cryptography==39.0.0
-python-dotenv==0.21.1
+python-dotenv>=0.21.1
+tenacity>=8.0.0
+toml>=0.10.2
