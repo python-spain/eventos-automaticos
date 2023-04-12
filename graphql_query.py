@@ -145,15 +145,16 @@ def collect_upcoming_events():
     with open("communities.toml") as f:
         data = toml.load(f)
     communities = data["communities"]
-    upcoming_events = {}
+    communities_upcoming_events = {}
     for community in communities:
         try:
             url = community["url"]
             urlname = url.replace("https://www.meetup.com/", "").replace("/", "")
-            upcoming_events[urlname] = collect_group_upcoming_events(urlname, token)
+            upcoming_events = collect_group_upcoming_events(urlname, token)
+            if upcoming_events:
+                communities_upcoming_events[urlname] = upcoming_events
         except Exception as e:
             logging.exception(
                 f"Could not collect upcoming_events of community {url}", exc_info=e
             )
-            upcoming_events[urlname] = {}
-    return upcoming_events
+    return communities_upcoming_events
