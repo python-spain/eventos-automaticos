@@ -1,29 +1,29 @@
-name: Publish
+name: "Fetch events"
 
 on:
-  # Triggers the workflow every 5 minutes
+  # Triggers the workflow every day
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "0 22 * * *"
 
 jobs:
   cron:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4
         with:
-          python-version: '3.9'
+          python-version: '3.11'
           cache: 'pip' # caching pip dependencies
       - name: Install requirements
         run: pip install -r requirements.txt
-      - name: Clone events directory
-        run: mkdir events && cd events && cp -r ../.git . && git pull && git checkout events && cd ..
+      # - name: Clone events directory
+      #   run: mkdir events && cd events && cp -r ../.git . && git pull && git checkout events && cd ..
       - name: Run main.py
-        run: python main.py
+        run: fetch_upcoming_events -c communities.toml
         env: # Set the secret as an input
-          MEETUP_KEY: ${{ secrets.MEETUP_KEY }}
-          MEETUP_SECRET: ${{ secrets.MEETUP_SECRET }}
-      - name: Push events directory
-        run: cd events && git config --global user.name "Python ES" && git config --global user.email "contacto@es.python.org" && git commit -am "Updated events." && git push && cd ..
-        continue-on-error: true
+          MEETUP_CLIENT_KEY: ${{ secrets.MEETUP_CLIENT_KEY }}
+          MEETUP_MEMBER_ID: ${{ secrets.MEETUP_MEMBER_ID }}
+          MEETUP_JWT_KEY: ${{ secrets.MEETUP_JWT_KEY }}
+      # - name: Push events directory
+      #   run: cd events && git config --global user.name "Python ES" && git config --global user.email "contacto@es.python.org" && git commit -am "Updated events." && git push && cd ..
+      #   continue-on-error: true
