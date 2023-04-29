@@ -7,9 +7,15 @@ name = "telegram_python_es"
 authors = [{name = "Equipo PyCamp España", email = "pycampes@gmail.com"}]
 readme = "README.md"
 dynamic = ["version", "description"]
-requires-python = "python >=3.11"
+requires-python = ">=3.11"
 dependencies = [
-  "httpx",
+    "httpx",
+    "python-dateutil",
+    "python-dotenv",
+    "PyJWT",
+    "cryptography==39.0.0",
+    "python-dotenv>=0.21.1",
+    "tenacity>=8.0.0",
 ]
 
 [project.urls]
