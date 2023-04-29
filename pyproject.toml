@@ -20,3 +20,9 @@ dependencies = [
 
 [project.urls]
 Home = "https://pycamp.es/"
+
+[project.scripts]
+fetch_upcoming_events = "telegram_python_es.cli:cli"
+
+[tools.isort]
+profile = "black"

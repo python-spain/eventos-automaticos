@@ -1,21 +1,18 @@
-import tomllib
-import httpx
-import jwt
 import datetime as dt
+import logging
 import os
 
+import httpx
+import jwt
 from dotenv import load_dotenv
 from tenacity import retry
+from tenacity.retry import retry_if_exception_type
 from tenacity.stop import stop_after_attempt
 from tenacity.wait import wait_exponential_jitter
-from tenacity.retry import retry_if_exception_type
-
-import logging
 
 load_dotenv()
 
 meetup_client_key = str(os.environ["MEETUP_CLIENT_KEY"])
-meetup_client_secret = str(os.environ["MEETUP_CLIENT_SECRET"])
 meetup_member_id = str(os.environ["MEETUP_MEMBER_ID"])
 private_key = os.environ["MEETUP_JWT_KEY"].encode()
 
@@ -140,16 +137,13 @@ def collect_group_upcoming_events(urlname: str, token: str):
     return events
 
 
-def collect_upcoming_events():
+def collect_upcoming_events(communities):
     token = auth()["access_token"]
-    with open("communities.toml") as f:
-        data = tomllib.load(f)
-    communities = data["communities"]
     communities_upcoming_events = {}
     for community in communities:
         try:
             url = community["url"]
-            urlname = url.replace("https://www.meetup.com/", "").replace("/", "")
+            urlname = url.rstrip("/").split("/")[-1]
             upcoming_events = collect_group_upcoming_events(urlname, token)
             if upcoming_events:
                 communities_upcoming_events[urlname] = upcoming_events
