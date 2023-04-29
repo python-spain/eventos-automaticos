@@ -1,4 +1,4 @@
-import toml
+import tomllib
 import httpx
 import jwt
 import datetime as dt
@@ -143,7 +143,7 @@ def collect_group_upcoming_events(urlname: str, token: str):
 def collect_upcoming_events():
     token = auth()["access_token"]
     with open("communities.toml") as f:
-        data = toml.load(f)
+        data = tomllib.load(f)
     communities = data["communities"]
     communities_upcoming_events = {}
     for community in communities:
