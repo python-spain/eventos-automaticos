@@ -15,7 +15,6 @@ import logging
 load_dotenv()
 
 meetup_client_key = str(os.environ["MEETUP_CLIENT_KEY"])
-meetup_client_secret = str(os.environ["MEETUP_CLIENT_SECRET"])
 meetup_member_id = str(os.environ["MEETUP_MEMBER_ID"])
 private_key = os.environ["MEETUP_JWT_KEY"].encode()
 
