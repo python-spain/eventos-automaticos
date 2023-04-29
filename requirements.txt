@@ -14,6 +14,8 @@ certifi==2022.12.7
     #   httpx
 cffi==1.15.1
     # via cryptography
+click==8.1.3
+    # via telegram-python-es
 cryptography==39.0.0
     # via telegram-python-es
 h11==0.14.0
