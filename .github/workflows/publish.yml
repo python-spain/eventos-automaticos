@@ -1,6 +1,7 @@
 name: "Fetch events"
 
 on:
+  workflow_dispatch:
   # Triggers the workflow every day
   schedule:
     - cron: "0 22 * * *"
