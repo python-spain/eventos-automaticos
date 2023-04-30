@@ -40,6 +40,8 @@ def auth():
                 "assertion": signed_jwt,
             },
         )
+        r.raise_for_status()
+
         return r.json()
 
 
