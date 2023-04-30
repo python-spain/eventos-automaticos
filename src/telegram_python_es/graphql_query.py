@@ -17,6 +17,10 @@ meetup_member_id = str(os.environ["MEETUP_MEMBER_ID"])
 private_key = os.environ["MEETUP_JWT_KEY"].encode()
 
 
+class MeetupAuthenticationError(RuntimeError):
+    pass
+
+
 @retry(
     stop=stop_after_attempt(10),
     wait=wait_exponential_jitter(initial=1, max=15, exp_base=2, jitter=0.2),
@@ -40,6 +44,11 @@ def auth():
                 "assertion": signed_jwt,
             },
         )
+        if not r.is_success:
+            raise MeetupAuthenticationError(
+                f"Could not perform authentication: {r.json()}"
+            )
+
         return r.json()
 
 
