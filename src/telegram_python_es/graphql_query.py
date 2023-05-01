@@ -65,6 +65,7 @@ def query_event(event_id: str, token: str):
           id
           name
         }
+        isNetworkEvent
         isOnline
         eventType
         venue {
@@ -86,6 +87,9 @@ def query_event(event_id: str, token: str):
       }
     }
     """
+    # TODO: There is supposedly a networkEvent subfield,
+    # but it's completely undocumented
+
     with httpx.Client() as cli:
         response = cli.post(
             "https://api.meetup.com/gql",
