@@ -21,6 +21,10 @@ class MeetupAuthenticationError(RuntimeError):
     pass
 
 
+class MeetupQueryError(RuntimeError):
+    pass
+
+
 @retry(
     stop=stop_after_attempt(10),
     wait=wait_exponential_jitter(initial=1, max=15, exp_base=2, jitter=0.2),
@@ -99,6 +103,9 @@ def query_event(event_id: str, token: str):
             },
             json={"query": query, "variables": {"eventId": event_id}},
         )
+        if not response.is_success:
+            raise MeetupQueryError(f"{response.json()['errors']}")
+
         return response.json()
 
 
