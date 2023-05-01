@@ -151,11 +151,12 @@ def collect_upcoming_events(communities):
     communities_upcoming_events = {}
     for community in communities:
         try:
+            slug = community["slug"]
             url = community["url"]
             urlname = url.rstrip("/").split("/")[-1]
             upcoming_events = collect_group_upcoming_events(urlname, token)
             if upcoming_events:
-                communities_upcoming_events[urlname] = upcoming_events
+                communities_upcoming_events[slug] = upcoming_events
         except Exception as e:
             logging.exception(
                 f"Could not collect upcoming_events of community {url}", exc_info=e
