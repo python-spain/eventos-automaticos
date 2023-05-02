@@ -1,11 +1,15 @@
 import json
+import logging
 import tomllib
 from pathlib import Path
 
 import click
+import structlog
 from dateutil.parser import parse as parse_date
 
 from .graphql_query import collect_upcoming_events
+
+logger = structlog.get_logger()
 
 
 def event_name_from_data(event):
@@ -20,7 +24,14 @@ def event_name_from_data(event):
     "--communities", "-c", "communities_path", type=click.Path(), required=True
 )
 @click.option("--destination-dirname", "-d", type=click.Path(), default="_events")
-def cli(communities_path, destination_dirname):
+@click.option("--verbose", "-v", is_flag=True)
+def cli(communities_path, destination_dirname, verbose):
+    structlog.configure(
+        wrapper_class=structlog.make_filtering_bound_logger(
+            logging.INFO if verbose else logging.WARNING
+        ),
+    )
+
     with open(communities_path, "rb") as f:
         communities_data = tomllib.load(f)
     communities = communities_data["communities"]

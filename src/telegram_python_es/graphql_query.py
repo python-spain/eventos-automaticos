@@ -1,13 +1,15 @@
 import datetime as dt
-import logging
 import os
 
 import httpx
 import jwt
+import structlog
 from tenacity import retry
 from tenacity.retry import retry_if_exception_type
 from tenacity.stop import stop_after_attempt
 from tenacity.wait import wait_exponential_jitter
+
+logger = structlog.get_logger()
 
 meetup_client_key = str(os.environ["MEETUP_CLIENT_KEY"])
 meetup_member_id = str(os.environ["MEETUP_MEMBER_ID"])
@@ -140,17 +142,17 @@ def query_group_events(urlname: str, token: str):
     retry=retry_if_exception_type(httpx.ConnectTimeout),
 )
 def collect_group_upcoming_events(urlname: str, token: str):
-    logging.info("Collecting upcoming events for group: %s", urlname)
+    logger.info("Collecting upcoming events for group: %s", urlname)
     result = query_group_events(urlname=urlname, token=token)
     upcoming_events = result["data"]["groupByUrlname"]["upcomingEvents"]
     count = upcoming_events["count"]
     if count == 0:
-        logging.info("There isn't any upcoming event for: %s", urlname)
+        logger.info("There isn't any upcoming event for: %s", urlname)
         return {}
     events = [
         query_event(item["node"]["id"], token) for item in upcoming_events["edges"]
     ]
-    logging.info("Collected upcoming events for group: %s", urlname)
+    logger.info("Collected upcoming events for group: %s", urlname)
     return events
 
 
@@ -166,7 +168,7 @@ def collect_upcoming_events(communities):
             if upcoming_events:
                 communities_upcoming_events[slug] = upcoming_events
         except Exception as e:
-            logging.exception(
+            logger.exception(
                 f"Could not collect upcoming_events of community {url}", exc_info=e
             )
     return communities_upcoming_events
