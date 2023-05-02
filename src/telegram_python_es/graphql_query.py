@@ -90,8 +90,8 @@ def query_event(event_id: str, token: str):
       }
     }
     """
-    # TODO: There is supposedly a networkEvent subfield,
-    # but it's completely undocumented
+    # TODO: There are supposedly networkEvent and series subfields,
+    # but they are completely undocumented
 
     with httpx.Client() as cli:
         response = cli.post(
