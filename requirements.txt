@@ -34,8 +34,6 @@ pyjwt==2.6.0
     # via telegram-python-es
 python-dateutil==2.8.2
     # via telegram-python-es
-python-dotenv==1.0.0
-    # via telegram-python-es
 rfc3986[idna2008]==1.5.0
     # via httpx
 six==1.16.0

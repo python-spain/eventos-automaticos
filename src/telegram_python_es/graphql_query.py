@@ -4,13 +4,10 @@ import os
 
 import httpx
 import jwt
-from dotenv import load_dotenv
 from tenacity import retry
 from tenacity.retry import retry_if_exception_type
 from tenacity.stop import stop_after_attempt
 from tenacity.wait import wait_exponential_jitter
-
-load_dotenv()
 
 meetup_client_key = str(os.environ["MEETUP_CLIENT_KEY"])
 meetup_member_id = str(os.environ["MEETUP_MEMBER_ID"])
