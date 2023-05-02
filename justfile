@@ -9,3 +9,4 @@ commit-events:
     cp -r _events/* events/
     git add ./events
     git commit --allow-empty -m "Commit new events $(date -I)"
+    git push origin {{events_branch}}
