@@ -2,6 +2,7 @@ communities = [
     { slug = 'python-madrid' , url = 'https://www.meetup.com/python-madrid/' },
     { slug = 'pydata-madrid' , url = 'https://www.meetup.com/pydata-madrid/' },
     # { slug = 'python-vigo' , url = 'https://www.python-vigo.es/' },
+    { slug = 'python-coruña' , url = 'https://www.meetup.com/python-a-coruna/' },
     { slug = 'pydata-salamanca' , url = 'https://www.meetup.com/PyData-Salamanca/' },
     { slug = 'python-girona' , url = 'https://www.meetup.com/PythonGirona/' },
     { slug = 'pyladies-barcelona' , url = 'https://www.meetup.com/PyLadies-BCN/' },
