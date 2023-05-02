@@ -1,0 +1,28 @@
+{
+  "id": "292052657",
+  "title": "PyBeers Girona Maig'23 \ud83c\udf7b\ud83d\udc0d",
+  "eventUrl": "https://www.meetup.com/pythongirona/events/292052657",
+  "description": "\ud83c\udf7a\ud83d\udc0d\ud83d\udc65 Vine al Meetup de Python aquest **dijous 4 de maig a les 19h**! \ud83d\udc65\ud83d\udc0d\ud83c\udf7a\n\n\ud83e\udd1d\ud83c\udffd Uneix-te a la comunitat de Python mentre prenem una cervesa \ud83c\udf7b i compartim les nostres experi\u00e8ncies i projectes! \ud83d\udcbb\ud83c\udf1f\n\n\ud83d\udc49\ud83c\udffd Tant si ets una persona experta en Python com si acabes de comen\u00e7ar, tothom \u00e9s benvingut per aprendre, compartir i passar una bona estona! \ud83e\udd13\ud83d\udcac\n\n\ud83d\udce2 **Actualitzaci\u00f3 important!** Hem canviat d'ubicaci\u00f3! En comptes del centre cultural de la Merc\u00e8, ens trobarem a la cerveseria Kerunta.\n\ud83d\udccdhttps://maps.app.goo.gl/YoznLkzNMs5cTvMm6\n\n\ud83c\udf89 No t'ho perdis! Vine i passa una nit divertida i informativa amb nosaltres. \ud83c\udf89",
+  "shortDescription": null,
+  "group": {
+    "id": "20691695",
+    "name": "Python Girona"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27568209",
+    "name": "Cerveseria Kerunta ",
+    "address": "C/ Anselm Clav\u00e9, 9,",
+    "city": "Girona ",
+    "postalCode": "meetup74",
+    "lng": 2.823044,
+    "lat": 41.98527
+  },
+  "onlineVenue": null,
+  "dateTime": "2023-05-04T19:00+02:00",
+  "duration": "PT1H30M",
+  "timezone": "Europe/Madrid",
+  "endTime": "2023-05-04T20:30+02:00"
+}

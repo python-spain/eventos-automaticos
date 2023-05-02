@@ -1,0 +1,28 @@
+{
+  "id": "spcqdtygcgbrb",
+  "title": "PyBirras Coru\u00f1a Mayo 2023",
+  "eventUrl": "https://www.meetup.com/python-a-coruna/events/spcqdtygcgbrb",
+  "description": "Convocatoria de PyBirras\n\nPresentaci\u00f3ns:\n\n* Dataclasses\n* Por determinar.\n\nPra calquer detalle adicional sobre o evento podedes vir a consultarnos por calquera das v\u00edas listadas en:\n\nhttps://linktr.ee/pythoncoruna\n\nPor favor, apuntadevos pra asistir e contactadenos pra calquer d\u00fabida ou aportaci\u00f3n que te\u00f1ades.",
+  "shortDescription": null,
+  "group": {
+    "id": "36742904",
+    "name": "Python A Coru\u00f1a"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27561952",
+    "name": "Ateneo",
+    "address": "R\u00faa Reverendo Padre Jos\u00e9 \u00c1lvarez Cabezas, 1",
+    "city": "A Coru\u00f1a",
+    "postalCode": "15011",
+    "lng": -8.417,
+    "lat": 43.369785
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-04-13T18:30+02:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-04-13T20:30+02:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "292888022",
+  "title": "JupyterCon 2023",
+  "eventUrl": "https://www.meetup.com/pydata-mallorca/events/292888022",
+  "description": "Learn more and buy your ticket at https://www.jupytercon.com/.\n\nJupyterCon, May 10-12, is a 3-day conference in Paris, France that brings together data scientists, business analysts, researchers, educators, developers, and core project maintainers for in-depth training, insightful keynotes, networking events, and practical talks exploring the Jupyter ecosystem.",
+  "shortDescription": null,
+  "group": {
+    "id": "20418738",
+    "name": "PyData Mallorca"
+  },
+  "isNetworkEvent": true,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "26204213",
+    "name": "City of Science and Industry",
+    "address": "30 Av. Corentin Cariou",
+    "city": "Paris",
+    "postalCode": "75019",
+    "lng": 2.3879,
+    "lat": 48.895596
+  },
+  "onlineVenue": null,
+  "dateTime": "2023-05-10T08:00+02:00",
+  "duration": "PT57H30M",
+  "timezone": "Europe/Madrid",
+  "endTime": "2023-05-12T17:30+02:00"
+}
