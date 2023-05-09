@@ -1,0 +1,28 @@
+{
+  "id": "293349125",
+  "title": "Meetup Python Alicante!",
+  "eventUrl": "https://www.meetup.com/python_alc/events/293349125",
+  "description": "\u00a1 MeetUp Python Alicante !\nO lo que es lo mismo, una quedada informal d\u00f3nde hablaremos sobre Python, nuestros proyectos en los que estamos trabajando tanto de forma profesional como por afici\u00f3n.\nAl ser un evento informal, no hace falta que tengas ning\u00fan conocimiento previo, solo inter\u00e9s por la programaci\u00f3n en general y en Python en particular; as\u00ed que es una buena oportunidad si quieres empezar.\n\n\u2022 Qu\u00e9 has de traer\nGanas de participar y hacer comunidad.",
+  "shortDescription": null,
+  "group": {
+    "id": "26484481",
+    "name": "Python Alicante"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27417020",
+    "name": "Mad Pilots",
+    "address": "C. Decano, 2",
+    "city": "San Vicente del Raspeig",
+    "postalCode": "03690",
+    "lng": -0.509449,
+    "lat": 38.386276
+  },
+  "onlineVenue": null,
+  "dateTime": "2023-05-25T19:00+02:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2023-05-25T21:00+02:00"
+}
