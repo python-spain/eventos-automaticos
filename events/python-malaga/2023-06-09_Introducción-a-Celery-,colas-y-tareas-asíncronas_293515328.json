@@ -1,0 +1,28 @@
+{
+  "id": "293515328",
+  "title": "Introducci\u00f3n a Celery ,colas y tareas as\u00edncronas",
+  "eventUrl": "https://www.meetup.com/python_malaga/events/293515328",
+  "description": "En esta charla veremos como empezar a trabajar con celery para que podamos gestionar tareas as\u00edncronas y colas con cargas de trabajo grandes de una manera f\u00e1cil y simple\n\nEsta charla tendr\u00e1 lugar dentro del evento opensouthcode de m\u00e1laga\nhttps://www.opensouthcode.org/conferences/opensouthcode2023",
+  "shortDescription": null,
+  "group": {
+    "id": "33344430",
+    "name": "Python M\u00e1laga"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "26178960",
+    "name": "La T\u00e9rmica",
+    "address": "Av. de los Guindos, 48",
+    "city": "M\u00e1laga",
+    "postalCode": "29004",
+    "lng": -4.445437,
+    "lat": 36.68937
+  },
+  "onlineVenue": null,
+  "dateTime": "2023-06-09T19:00+02:00",
+  "duration": "PT1H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2023-06-09T20:00+02:00"
+}
