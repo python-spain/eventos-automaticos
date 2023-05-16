@@ -2,6 +2,12 @@ events_branch := "events"
 git_committer_name := "Python España"
 git_committer_email := "contacto@es.python.org"
 
+clean-future:
+    pyevents clean-after -l $(date -I)
+
+fetch-upcoming:
+    pyevents fetch-upcoming -c communities.toml
+
 commit-events:
     git fetch
     # This assumes the branch does not exist yet
