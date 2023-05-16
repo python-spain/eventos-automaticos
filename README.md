@@ -1,6 +1,6 @@
-# telegram-python-es
+# Eventos Automáticos
 
-Publicación de eventos de Meetup de la comunidad de Python España en Telegram.
+Publicación de eventos de Meetup de la comunidad de Python España en Telegram y otras fuentes.
 
 ## Uso
 
