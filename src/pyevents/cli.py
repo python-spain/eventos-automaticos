@@ -1,3 +1,4 @@
+import datetime as dt
 import json
 import logging
 import tomllib
@@ -22,6 +23,37 @@ def event_name_from_data(event):
 @click.group()
 def cli():
     pass
+
+
+@cli.command()
+@click.option(
+    "--cutoff-date",
+    "-l",
+    "cutoff_datetime",
+    type=click.DateTime(["%Y-%m-%d"]),
+    default=dt.date.today().strftime("%Y-%m-%d"),
+)
+@click.option("--destination-dirname", "-d", type=click.Path(), default="_events")
+@click.option("--verbose", "-v", is_flag=True)
+def clean_after(cutoff_datetime, destination_dirname, verbose):
+    structlog.configure(
+        wrapper_class=structlog.make_filtering_bound_logger(
+            logging.INFO if verbose else logging.WARNING
+        ),
+    )
+
+    cutoff_date = cutoff_datetime.date()
+
+    for event_path in Path(destination_dirname).glob("**/*.json"):
+        logger.debug("Event file found", event_path=event_path)
+        event_date = dt.datetime.strptime(
+            event_path.name.split("_")[0], "%Y-%m-%d"
+        ).date()
+        if event_date > cutoff_date:
+            logger.info(
+                "Deleting event file", event_path=event_path, event_date=event_date
+            )
+            event_path.unlink()
 
 
 @cli.command()

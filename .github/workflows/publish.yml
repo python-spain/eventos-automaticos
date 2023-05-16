@@ -20,7 +20,9 @@ jobs:
         run: pip install -r requirements.txt
       # - name: Clone events directory
       #   run: mkdir events && cd events && cp -r ../.git . && git pull && git checkout events && cd ..
-      - name: Run main.py
+      - name: Cleanup future events
+        run: pyevents clean-after -l $(date -I)
+      - name: Fetch upcoming events
         run: pyevents fetch-upcoming -c communities.toml
         env: # Set the secret as an input
           MEETUP_CLIENT_KEY: ${{ secrets.MEETUP_CLIENT_KEY }}
