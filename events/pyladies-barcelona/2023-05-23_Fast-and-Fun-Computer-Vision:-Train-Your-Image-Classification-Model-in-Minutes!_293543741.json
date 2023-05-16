@@ -1,0 +1,28 @@
+{
+  "id": "293543741",
+  "title": "Fast and Fun Computer Vision: Train Your Image Classification Model in Minutes!",
+  "eventUrl": "https://www.meetup.com/pyladies-bcn/events/293543741",
+  "description": "Join us for an exciting workshop on image classification using the fastai library!\n\nIn this hands-on session, you'll learn how to train a computer vision model to classify any type of images you want. Whether you're interested in cats vs. dogs, in distinguishing different dog breeds, or any other image classification task that strikes your fancy! (it doesn't have to be related with our furry friends!) You'll see how easy it is to create your own custom model with just a few lines of code.\n\nWe'll be using free GPU instances provided by Google Colab and Kaggle, so you don't need any special hardware or software to participate. Just bring your curiosity and enthusiasm to learn! (and your laptop)\n\nWhat to bring:\nThis is a hands-on workshop, so you will need to bring your own laptop.\n\nSpeaker: Amalia Vradi\nLevel: Beginner/Intermediate\nLanguage: English\n\n***\n\n\u2022 Access Control (IMPORTANT!)\n\nThe security access control requires an attendee list. Provide your full name (first name and surname) in your profile, otherwise you will be removed from the list.\n\n\u2022 Please remember our attendance policy: https://www.meetup.com/PyLadies-BCN/messages/81834174/.\n\nIn short:\n\n\u2022 If you are a man with a non-male friend attending the meetup: join the meetup and indicate which PyLady invited you\n\n\u2022 If you do not have any friend that can add you as their +1, don\u2019t worry! RSVP and send a brief message to the meetup organizer explaining why are you interested in attending that particular meetup.\n\n\u2022 Code of Conduct\nThis event is for everybody, so feel free to bring your friends! For security reasons they will need to join the meetup, so they appear in the attendee list. Please keep in mind our Code of Conduct: http://www.pyladies.com/CodeOfConduct/",
+  "shortDescription": null,
+  "group": {
+    "id": "12994802",
+    "name": "PyLadies BCN"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "26090270",
+    "name": "Can\u00f2drom - Ateneu d'Innovaci\u00f3 Digital i Democr\u00e0tica",
+    "address": "C/ de Concepci\u00f3n Arenal, 165",
+    "city": "Barcelona",
+    "postalCode": "08027",
+    "lng": 2.183353,
+    "lat": 41.42751
+  },
+  "onlineVenue": null,
+  "dateTime": "2023-05-23T19:00+02:00",
+  "duration": "PT1H30M",
+  "timezone": "Europe/Madrid",
+  "endTime": "2023-05-23T20:30+02:00"
+}
