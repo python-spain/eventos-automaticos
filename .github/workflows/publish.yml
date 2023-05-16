@@ -18,8 +18,6 @@ jobs:
           cache: 'pip' # caching pip dependencies
       - name: Install requirements
         run: pip install -r requirements.txt
-      # - name: Clone events directory
-      #   run: mkdir events && cd events && cp -r ../.git . && git pull && git checkout events && cd ..
       - name: Install just
         uses: extractions/setup-just@v1
       - name: Cleanup future events
