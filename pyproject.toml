@@ -3,7 +3,7 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "telegram_python_es"
+name = "pyevents"
 authors = [{name = "Equipo PyCamp España", email = "pycampes@gmail.com"}]
 readme = "README.md"
 dynamic = ["version", "description"]
@@ -22,7 +22,7 @@ dependencies = [
 Home = "https://pycamp.es/"
 
 [project.scripts]
-fetch_upcoming_events = "telegram_python_es.cli:cli"
+pyevents = "pyevents.cli:cli"
 
 [tools.isort]
 profile = "black"

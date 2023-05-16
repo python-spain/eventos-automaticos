@@ -18,16 +18,16 @@ jobs:
           cache: 'pip' # caching pip dependencies
       - name: Install requirements
         run: pip install -r requirements.txt
-      # - name: Clone events directory
-      #   run: mkdir events && cd events && cp -r ../.git . && git pull && git checkout events && cd ..
-      - name: Run main.py
-        run: fetch_upcoming_events -c communities.toml
+      - name: Install just
+        uses: extractions/setup-just@v1
+      - name: Cleanup future events
+        run: just clean-future
+      - name: Fetch upcoming events
+        run: just fetch-upcoming
         env: # Set the secret as an input
           MEETUP_CLIENT_KEY: ${{ secrets.MEETUP_CLIENT_KEY }}
           MEETUP_MEMBER_ID: ${{ secrets.MEETUP_MEMBER_ID }}
           MEETUP_JWT_KEY: ${{ secrets.MEETUP_JWT_KEY }}
-      - name: Install just
-        uses: extractions/setup-just@v1
       - name: Push events directory
         run: |
           git config --global user.name "Python España"

@@ -3,7 +3,7 @@ import locale
 import re
 
 
-from telegram_python_es.event.domain.event import Event
+from pyevents.event.domain.event import Event
 
 
 class TelegramMessageBuilder:
