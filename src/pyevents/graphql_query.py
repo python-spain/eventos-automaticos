@@ -11,10 +11,6 @@ from tenacity.wait import wait_exponential_jitter
 
 logger = structlog.get_logger()
 
-meetup_client_key = str(os.environ["MEETUP_CLIENT_KEY"])
-meetup_member_id = str(os.environ["MEETUP_MEMBER_ID"])
-private_key = os.environ["MEETUP_JWT_KEY"].encode()
-
 
 class MeetupAuthenticationError(RuntimeError):
     pass
@@ -30,6 +26,11 @@ class MeetupQueryError(RuntimeError):
     retry=retry_if_exception_type(httpx.ConnectTimeout),
 )
 def auth():
+    # TODO: Convert to function parameters
+    meetup_client_key = str(os.environ["MEETUP_CLIENT_KEY"])
+    meetup_member_id = str(os.environ["MEETUP_MEMBER_ID"])
+    private_key = os.environ["MEETUP_JWT_KEY"].encode()
+
     with httpx.Client(base_url="https://secure.meetup.com/oauth2/") as cli:
         # private_key = b"""-----BEGIN RSA PRIVATE KEY-----
         data = {
