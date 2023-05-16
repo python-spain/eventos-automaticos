@@ -22,7 +22,7 @@ dependencies = [
 Home = "https://pycamp.es/"
 
 [project.scripts]
-fetch_upcoming_events = "pyevents.cli:cli"
+pyevents = "pyevents.cli:cli"
 
 [tools.isort]
 profile = "black"

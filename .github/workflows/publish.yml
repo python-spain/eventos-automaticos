@@ -21,7 +21,7 @@ jobs:
       # - name: Clone events directory
       #   run: mkdir events && cd events && cp -r ../.git . && git pull && git checkout events && cd ..
       - name: Run main.py
-        run: fetch_upcoming_events -c communities.toml
+        run: pyevents fetch-upcoming -c communities.toml
         env: # Set the secret as an input
           MEETUP_CLIENT_KEY: ${{ secrets.MEETUP_CLIENT_KEY }}
           MEETUP_MEMBER_ID: ${{ secrets.MEETUP_MEMBER_ID }}

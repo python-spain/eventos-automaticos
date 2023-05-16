@@ -19,13 +19,18 @@ def event_name_from_data(event):
     )
 
 
-@click.command()
+@click.group()
+def cli():
+    pass
+
+
+@cli.command()
 @click.option(
     "--communities", "-c", "communities_path", type=click.Path(), required=True
 )
 @click.option("--destination-dirname", "-d", type=click.Path(), default="_events")
 @click.option("--verbose", "-v", is_flag=True)
-def cli(communities_path, destination_dirname, verbose):
+def fetch_upcoming(communities_path, destination_dirname, verbose):
     structlog.configure(
         wrapper_class=structlog.make_filtering_bound_logger(
             logging.INFO if verbose else logging.WARNING
