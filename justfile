@@ -14,5 +14,5 @@ commit-events:
     git switch -c {{events_branch}} --track origin/{{events_branch}}
     cp -r _events/* events/
     git add ./events
-    git commit --allow-empty -m "Commit new events $(date -I)"
+    git commit --allow-empty -m "Update events $(date -I)"
     git push origin {{events_branch}}
