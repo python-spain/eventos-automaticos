@@ -1,0 +1,28 @@
+{
+  "id": "293611597",
+  "title": "Desarrollando con ChatGPT: Optimizando Prompts y Abrazando el Software 2.0",
+  "eventUrl": "https://www.meetup.com/python-valencia-meetup/events/293611597",
+  "description": "## Descripci\u00f3n de la charla\n\nEn la era de la inteligencia artificial y el aprendizaje autom\u00e1tico, los programas del futuro estar\u00e1n escritos no s\u00f3lo en c\u00f3digo, sino tambi\u00e9n en los pesos de las redes neuronales. \u00danete a nosotros en esta fascinante charla donde desvelaremos c\u00f3mo estas estructuras de datos est\u00e1n redefiniendo el paisaje de la programaci\u00f3n y como sacarles el mayor partido posible.\n\n## Breve resumen de trayectoria laboral\n\nHian Ca\u00f1izares, graduado de ciencias de la Computaci\u00f3n en la Universidad de la Habana. Trabaj\u00f3 como profesor e investigador en la misma: Como docente ense\u00f1ando sistemas Operativos, Redes y Sistemas distribuidos mientras investigaba en temas de Natural Language Procesing y AutoML. Despu\u00e9s del Covid se mud\u00f3 a Espa\u00f1a, trabajando en diferentes compa\u00f1\u00edas como [swagup.com](https://buttondown.email/python-valencia/archive/novedades-de-octubre-2022-python-valencia/swagup.com) y [Revolut](https://www.revolut.com/?utm_source=python-valencia&utm_medium=email&utm_campaign=novedades-de-octubre-2022-python-valencia) donde he desepe\u00f1ado el rol de desde programador backend en Django, programador Serverless y coordinar un peque\u00f1o equipo de IA.",
+  "shortDescription": null,
+  "group": {
+    "id": "16514622",
+    "name": "Python Valencia"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "26105137",
+    "name": "Wayco",
+    "address": "Carrer de l'Almirall Cadarso, 26",
+    "city": "Val\u00e8ncia",
+    "postalCode": "46005",
+    "lng": -0.367519,
+    "lat": 39.46443
+  },
+  "onlineVenue": null,
+  "dateTime": "2023-05-26T19:00+02:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2023-05-26T21:00+02:00"
+}
