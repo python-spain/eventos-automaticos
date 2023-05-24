@@ -1,0 +1,28 @@
+{
+  "id": "293692260",
+  "title": "Python May Meetup: Working with units & Basic Web Scraping",
+  "eventUrl": "https://www.meetup.com/python-barcelona/events/293692260",
+  "description": "This month we have two awesome talks about **Decoupling Database and Domain layers** in your application and a session about **web scraping with beautiful soup**.\n\n***\n\n* \u27a1\ufe0f **What:** Working in Units: How to Decouple the Database and Domain Layers in Python\n* \ud83d\udce2 **Who**: Alvaro Duran ([LinkedIn](https://www.linkedin.com/in/alvaroduranbarata/))\n* \u23f1 **Duration**: \\~30\n* \ud83d\udc45 **Language**: English\n* \ud83e\uddd0 **Abstract**: A crucial element of architecting a software application for scale is the collaboration of domain experts and developers. For that to happen, the application must separate the domain layer\u2014 where elements that represent the real world reside\u2014from the infrastructure layer\u2014where these elements are translated into precise software processes.Within the Fintech team at Kiwi.com, we are rearchitecting a critical service to accept more payment providers. As part of this refactor, we are adopting the Unit of Work pattern to disentangle domain entities from the database processes that represent them. This way, domain experts can share their knowledge with developers more easily, and developers can find opportunities for optimization without the involvement of domain experts in the process.Attendees will gain a solid understanding of how to implement the UoW pattern in their Python applications, how it fits into the broader context of DDD, and how to prepare their code for future growth.\n\n***\n\n* \u27a1\ufe0f **What:** Basic web scraping with Beautiful Soup\n* \ud83d\udce2 **Who**: No\u00e9 Casas ([twitter](%5Bhttps://twitter.com/noecasas%5D(https://twitter.com/noecasas)), [LinkedIn](%5Bhttps://www.linkedin.com/in/noecasas/%5D(https://www.linkedin.com/in/noecasas/)))\n* \u23f1 **Duration**: \\~30-45 minutes\n* \ud83d\udc45 **Language**: English\n* \ud83e\uddd0 **Abstract**: Web scraping consists of different techniques to extract information from web pages. Beautiful Soup is one of the most popular web scraping Python frameworks. In this talk we will be having a practical live coding session, creating a web scraper to collect information from a web site.\n\n***\n\n\u27a1\ufe0f Only register if you can attend!\n\n* This is a reduced capacity event. Only register if you plan on attending, and if something comes up please free your spot so somebody else can pick it up!\n\n\u27a1\ufe0f Location\n\n* Kiwi.com ([Gran Via de les Corts Catalanes, 613, 4th Floor, 08007 Barcelona](https://goo.gl/maps/8XNLH9TptfNv8ydU6))\n\n\u27a1\ufe0f Access Control\n\n* \ud83d\udec2 The security access control requires an attendee list and a **means of identification**. Provide your full name in your profile, otherwise you will be REMOVED from the list. For the event, bring some form of identification (DNI, NIE, passport).\n* \ud83d\udd1e People under 18 years old only allowed accompanied by one parent or legal guardian.\n* \ud83d\udeb7 There are limited seats, please BE RESPONSIBLE when signing up. If you can't make it, please free up your seat, so someone else can attend. We keep a list with repeated offenders!\n\n\u27a1\ufe0f More\n\n* \ud83d\udce2 We need talk proposals! [Send yours](https://pybcn.org/pybcn_association/propose-a-talk/)\n* \ud83e\udd84 Wanna [publish a job offer](https://pybcn.org/job-offers)?\n* \ud83d\udc26 Follow [@PyBCN](https://twitter.com/pybcn) for pictures, slides, videos and more",
+  "shortDescription": null,
+  "group": {
+    "id": "831283",
+    "name": "Python Barcelona Meetup"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "26838955",
+    "name": "Gran Via de les Corts Catalanes, 613",
+    "address": "Gran Via de les Corts Catalanes, 613",
+    "city": "Barcelona",
+    "postalCode": "08007",
+    "lng": 2.16847,
+    "lat": 41.390343
+  },
+  "onlineVenue": null,
+  "dateTime": "2023-05-31T19:00+02:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2023-05-31T21:00+02:00"
+}
