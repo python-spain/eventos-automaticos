@@ -1,0 +1,28 @@
+{
+  "id": "292052661",
+  "title": "Python Girona juny'23-Convierte Jupyter notebooks en c\u00f3digo mantenible con Kedro",
+  "eventUrl": "https://www.meetup.com/pythongirona/events/292052661",
+  "description": "Bones Pythonistes!\n\nEn aquesta sessi\u00f3 tenim un convidat molt especial! [@astrojuanlu](https://github.com/astrojuanlu) ens torna a visitar! \ud83d\ude0d\n\nL'esdeveniment ser\u00e0 el **dimarts 13 de juny a les 19h al Centre Cultural de la Merc\u00e8, Girona.**\n\n\ud83c\udf55 Despr\u00e9s anirem a sopar al centre de Girona.\n\n**Ponent**\nJuan Luis Cano [@astrojuanlu](https://github.com/astrojuanlu) vindr\u00e0 expressament des de Madrid per parlar-nos de Kedro.\n\n\u00c9s soci fundador i ex-president de Python Espa\u00f1a, escriu el noticiari setmanal sobre Python Cient\u00edfic, desenvolupa la biblioteca poliastro per astrodin\u00e0mica interactiva, i col\u00b7labora amb diferents projectes de l'ecosistema PyData. Lidera el grup PyData Madrid i est\u00e0 molt posat en l'escena cient\u00edfic-tecnol\u00f2gica de la pen\u00ednsula.\n\n**Xerrada - Convierte tus notebooks de Jupyter en c\u00f3digo mantenible con Kedro**\n\nLos notebooks de Jupyter son excelentes para exploraci\u00f3n, visualizaci\u00f3n, y en definitiva: la \u201cciencia\u201d en \u201cciencia de datos\u201d. Pero cuando los notebooks empiezan a crecer en complejidad, surgen problemas - y adem\u00e1s, colaborar sobre ellos no es f\u00e1cil. \u00bfNo ser\u00eda genial que existiese una soluci\u00f3n?\nLos notebooks han sido fundamentales para el surgimiento de la ciencia de datos como campo, ya que brindan una interfaz f\u00e1cil de usar, ofrecen un feedback r\u00e1pido, y constituyen tanto un entorno de desarrollo como un formato de intercambio. Sin embargo, tambi\u00e9n se reconoce ampliamente que a menudo plantean problemas de reproducibilidad y mantenibilidad: el 90 % de los notebooks de Jupyter publicados no indican expl\u00edcitamente las dependencias de los paquetes (Wang et al, 2021), y el 96 % de ellos contener errores o estado oculto que impidi\u00f3 obtener los mismos resultados despu\u00e9s de volver a ejecutar (Pimentel et al, 2019).\nSe han propuesto varias herramientas y enfoques para mitigar los problemas de los notebooks para datos de producci\u00f3n. ciencia. En este taller, los autores proponen un flujo de trabajo que consiste en la refactorizaci\u00f3n iterativa de notebooks de Jupyter: mediante la extracci\u00f3n incremental de referencias de datos y l\u00f3gica de negocio en m\u00f3dulos reutilizables de Python, los participantes ser\u00e1n capaces de explotar las capacidades din\u00e1micas de los notebooks manteniendo su complejidad bajo control. Estos m\u00f3dulos de Python har\u00e1n uso de Kedro, un framework Python para crear tuber\u00edas de datos reproducibles, mantenibles y modulares.\n\nEl contenido es el siguiente:\n\u2b25 Introducci\u00f3n \u2b25 \u00bfQu\u00e9 es Kedro? \u2b25 Usando Kedro desde Jupyter \u2b25 Creando tu cat\u00e1logo de datos \u2b25 Convirtiendo tu notebook en una biblioteca Python reutilizable \u2b25 Creando tus primeras tuber\u00edas de Kedro \u2b25 Visualizando tu flujo de datos con Kedro Viz",
+  "shortDescription": null,
+  "group": {
+    "id": "20691695",
+    "name": "Python Girona"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27292681",
+    "name": "Centre Cultural de la Merc\u00e8",
+    "address": "Pujada de la Merc\u00e8, 12",
+    "city": "Girona",
+    "postalCode": "17004",
+    "lng": 2.82519,
+    "lat": 41.981735
+  },
+  "onlineVenue": null,
+  "dateTime": "2023-06-13T19:00+02:00",
+  "duration": "PT1H30M",
+  "timezone": "Europe/Madrid",
+  "endTime": "2023-06-13T20:30+02:00"
+}
