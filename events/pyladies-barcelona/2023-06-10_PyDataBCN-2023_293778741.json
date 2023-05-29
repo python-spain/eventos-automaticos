@@ -1,0 +1,28 @@
+{
+  "id": "293778741",
+  "title": "PyDataBCN 2023",
+  "eventUrl": "https://www.meetup.com/pyladies-bcn/events/293778741",
+  "description": "We are thrilled to announce the creation of PyDataBCN, our new annual event dedicated to bringing together the Data Engineering and Data Science community working with Python in Barcelona. PyDataBCN aims to provide a platform for knowledge-sharing, networking, and learning for professionals, enthusiasts, and students alike.\n\n\ud83d\udc49 Information and registration link (**Eventbrite**): [https://pybcn.org/events/pydatabcn/pydatabcn_2023](https://pybcn.org/events/pydatabcn/pydatabcn_2023)\n\ud83d\udea8 The registration will be managed through Eventbrite. We will **not** open the registration here.\n\nPyDataBCN will offer free hands-on workshops, lightning talks, and lots of fun activities. The **workshops** will be conducted by community members and will cover a range of topics related to data science, data engineering, machine learning, artificial intelligence, and more. Attendees will have the opportunity to learn new skills, get insights into the latest trends and best practices, and interact with like-minded individuals. The **lightning talks** will feature short and impactful presentations by speakers from academia and industry, who will share their experiences, insights, and perspectives on various topics related to data science and engineering. These talks will be followed by Q&A sessions, where attendees can ask questions and engage with the speakers.\n\nIn addition to the workshops and lightning talks, PyDataBCN will also host various fun activities, including **networking** events, **Kahoot** games, and more. We believe that learning should be enjoyable and that attendees should have the opportunity to connect and engage with each other in a relaxed and informal setting.\n\nPyDataBCN is a free non-profit event and is open to everyone, regardless of their level of experience or background. We encourage students, professionals, and enthusiasts to join us and become part of the vibrant and growing community of data scientists and engineers in Barcelona.\nWe look forward to seeing you at PyDataBCN and sharing our passion for Python, data science, and engineering!\n\n**\u2139\ufe0f Disclaimer**\nPyDataBCN would like to expressly clarify that it is an independent event and is not associated or affiliated with the PyData events organized by NumFOCUS. PyDataBCN operates autonomously with its own distinct goals, structure, and organization.",
+  "shortDescription": null,
+  "group": {
+    "id": "12994802",
+    "name": "PyLadies BCN"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27584667",
+    "name": "Can\u00f2drom - Ateneu d'Innovaci\u00f3 Digital i Democr\u00e0tica",
+    "address": "C/ de Concepci\u00f3n Arenal, 165",
+    "city": "Barcelona",
+    "postalCode": "meetup2",
+    "lng": 2.183368,
+    "lat": 41.42753
+  },
+  "onlineVenue": null,
+  "dateTime": "2023-06-10T09:00+02:00",
+  "duration": "PT9H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2023-06-10T18:00+02:00"
+}
