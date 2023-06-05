@@ -1,0 +1,28 @@
+{
+  "id": "293993243",
+  "title": "Web Scrapping con Python",
+  "eventUrl": "https://www.meetup.com/python-valencia-meetup/events/293993243",
+  "description": "\\#\\# Charla\n\nTodas las p\u00e1ginas web est\u00e1n construidas con c\u00f3digo HTML. El Web Scrapping lo que hace como t\u00e9cnica es obtener el c\u00f3digo HTML de la p\u00e1gina web de la que queremos extraer la informaci\u00f3n y procesar dicho contenido para extraer del mismo \u00fanicamente los apartados que nos interesen y de una forma lo m\u00e1s automatizada posible. Pero el Scrapping no siempre es f\u00e1cil, hay toda una pl\u00e9tora de problemas con los que nos podemos encontrar cuando intentamos extraer la informaci\u00f3n de una p\u00e1gina web. Informaci\u00f3n que est\u00e1 detr\u00e1s de un login, webs que se renderizan mediante javascript o APIs que intentan impedir que las consumas son algunos de los problemas con los que nos encontramos frecuentemente. En mi trabajo como programador, he pasado gran cantidad de mi tiempo de trabajo scrappeando informaci\u00f3n. En esta charla, compartir\u00e9 todas las lecciones aprendidas de mi d\u00eda a d\u00eda scrappeando informaci\u00f3n.\n\n\\#\\# Ponente: David Hern\u00e1ndez\n\nDespu\u00e9s de trabajar en varias empresas nacionales e internacionales, decid\u00ed dar un giro a mi carrera profesional y he dedicado los \u00faltimos dos a\u00f1os y medio a trabajar para una ONG, haciendo seguimiento parlamentario y proyectos de transparencia. Ahora, despu\u00e9s de cerrar esta etapa, estoy montando un equipo de desarrollo junto con unos compa\u00f1eros, centrado en el desarrollo y la automatizaci\u00f3n de procesos.",
+  "shortDescription": null,
+  "group": {
+    "id": "16514622",
+    "name": "Python Valencia"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27591803",
+    "name": "wayCO Cabanyal | Coworking Val\u00e8ncia",
+    "address": "Carrer de Mari\u00e0 Cuber, 17",
+    "city": "Val\u00e8ncia",
+    "postalCode": "46011",
+    "lng": 0,
+    "lat": 0
+  },
+  "onlineVenue": null,
+  "dateTime": "2023-07-27T19:00+02:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2023-07-27T21:00+02:00"
+}
