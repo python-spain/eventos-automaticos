@@ -1,0 +1,28 @@
+{
+  "id": "294116744",
+  "title": "Autodeployment de aplicaciones Python en Kubernetes",
+  "eventUrl": "https://www.meetup.com/python-valencia-meetup/events/294116744",
+  "description": "\\#\\# Charla\n\nEn esta charla, exploraremos c\u00f3mo optimizar el despliegue de aplicaciones Python en Kubernetes a trav\u00e9s de la automatizaci\u00f3n. Comenzaremos discutiendo la importancia del autodeployment en la eficiencia de los equipos de desarrollo y proporcionaremos una visi\u00f3n general de los conceptos de integraci\u00f3n continua y despliegue continuo (CI/CD). Pasaremos a explicar c\u00f3mo configurar un pipeline de CI/CD con GitLab para una aplicaci\u00f3n Python, que incluir\u00e1 la construcci\u00f3n de la aplicaci\u00f3n y su despliegue en un entorno Kubernetes. Adem\u00e1s, mostraremos c\u00f3mo manejar diferentes entornos como staging y producci\u00f3n. Nuestro foco principal ser\u00e1 la configuraci\u00f3n de Kubernetes, donde explicaremos c\u00f3mo definir y aplicar los recursos necesarios, como despliegues y servicios, para nuestra aplicaci\u00f3n. Para concluir, introduciremos Helm, un gestor de paquetes para Kubernetes, que puede simplificar a\u00fan m\u00e1s el despliegue de nuestra aplicaci\u00f3n. A lo largo de la charla, proporcionaremos fragmentos de c\u00f3digo y demostraremos su funcionamiento. Esta presentaci\u00f3n est\u00e1 dise\u00f1ada para aquellos con un conocimiento b\u00e1sico de Python, Docker, Kubernetes y GitLab que est\u00e9n buscando mejorar su flujo de trabajo de despliegue\n\n\\#\\# Ponente: Antony R\\. Goetzschel\n\nComo Administrador de Sistemas por formaci\u00f3n y desarrollador por pasi\u00f3n, he hallado mi utop\u00eda en el mundo de DevOps y SRE. Poseo m\u00e1s de 12 a\u00f1os de experiencia trabajando en el sector de Tecnolog\u00edas de la Informaci\u00f3n, experiencias adquiridas en dos continentes y tres pa\u00edses distintos. En mi trabajo diario, me dedico a ayudar a las empresas a resolver sus problemas en la nube y a orientarlas en la compleja selva de las tecnolog\u00edas modernas.\nDesde su nacimiento, Docker capt\u00f3 mi total atenci\u00f3n, fascin\u00e1ndome su simplicidad y eficacia a la hora de implementar y desplegar servicios en el entorno actual. Considero a Kubernetes como la evoluci\u00f3n y transformaci\u00f3n natural en este campo.\nEn la actualidad, me desempe\u00f1o como CEO de [CCSolutions.io](http://ccsolutions.io/) y [CCSTech.io](http://ccstech.io/), donde nuestra visi\u00f3n es asistir a las empresas en su transformaci\u00f3n digital aprovechando el poder del c\u00f3digo en la nube. Como apasionado del Python, estoy seguro de que podemos afrontar cualquier reto que se nos presente en este emocionante viaje hacia el futuro digital.",
+  "shortDescription": null,
+  "group": {
+    "id": "16514622",
+    "name": "Python Valencia"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "26105137",
+    "name": "Wayco",
+    "address": "Carrer de l'Almirall Cadarso, 26",
+    "city": "Val\u00e8ncia",
+    "postalCode": "46005",
+    "lng": 0,
+    "lat": 0
+  },
+  "onlineVenue": null,
+  "dateTime": "2023-06-29T19:00+02:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2023-06-29T21:00+02:00"
+}
