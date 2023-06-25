@@ -6,7 +6,7 @@ clean-future:
     pyevents clean-after -v -l $(date -I)
 
 fetch-upcoming:
-    pyevents fetch-upcoming -c communities.toml
+    pyevents fetch-upcoming -v -c communities.toml
 
 commit-events:
     git fetch
