@@ -3,10 +3,10 @@ git_committer_name := "Python España"
 git_committer_email := "contacto@es.python.org"
 
 clean-future:
-    pyevents clean-after -l $(date -I)
+    pyevents clean-after -v -l $(date -I)
 
 fetch-upcoming:
-    pyevents fetch-upcoming -c communities.toml
+    pyevents fetch-upcoming -v -c communities.toml
 
 commit-events:
     git fetch
