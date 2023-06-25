@@ -68,7 +68,7 @@ def clean_after(cutoff_datetime, destination_dirname, verbose):
 def fetch_upcoming(communities_path, destination_dirname, verbose):
     structlog.configure(
         wrapper_class=structlog.make_filtering_bound_logger(
-            logging.INFO if verbose else logging.WARNING
+            logging.DEBUG if verbose else logging.INFO
         ),
     )
 
@@ -76,10 +76,10 @@ def fetch_upcoming(communities_path, destination_dirname, verbose):
         communities_data = tomllib.load(f)
     communities = communities_data["communities"]
 
-    upcoming_events = collect_upcoming_events(communities)
-
     if not (destination_dir := Path(destination_dirname)).is_dir():
         destination_dir.mkdir()
+
+    upcoming_events = collect_upcoming_events(communities)
 
     for community_slug, events in upcoming_events.items():
         if not (community_dir := (destination_dir / community_slug)).is_dir():
@@ -87,8 +87,15 @@ def fetch_upcoming(communities_path, destination_dirname, verbose):
 
         for event_data in events:
             event = event_data["data"]["event"]
+            logger.debug("Saving new event", event_title=event["title"])
             with open(community_dir / f"{event_name_from_data(event)}.json", "w") as fh:
                 json.dump(event, fh, indent=2)
+        else:
+            logger.debug(
+                "No new events found for this community", community_slug=community_slug
+            )
+    else:
+        logger.info("No new events found")
 
 
 if __name__ == "__main__":
