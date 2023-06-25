@@ -38,22 +38,25 @@ def cli():
 def clean_after(cutoff_datetime, destination_dirname, verbose):
     structlog.configure(
         wrapper_class=structlog.make_filtering_bound_logger(
-            logging.INFO if verbose else logging.WARNING
+            logging.DEBUG if verbose else logging.INFO
         ),
     )
 
     cutoff_date = cutoff_datetime.date()
+    logging.debug("Cutoff date set", cutoff_date=cutoff_date)
 
     for event_path in Path(destination_dirname).glob("**/*.json"):
-        logger.debug("Event file found", event_path=event_path)
         event_date = dt.datetime.strptime(
             event_path.name.split("_")[0], "%Y-%m-%d"
         ).date()
+        logger.debug("Event file found", event_path=event_path, event_date=event_date)
         if event_date > cutoff_date:
             logger.info(
                 "Deleting event file", event_path=event_path, event_date=event_date
             )
             event_path.unlink()
+    else:
+        logger.info("No event files deleted")
 
 
 @cli.command()
