@@ -1,0 +1,28 @@
+{
+  "id": "296185692",
+  "title": "PyBirras Septiembre 2023",
+  "eventUrl": "https://www.meetup.com/python-sevilla/events/296185692",
+  "description": "Tras el par\u00f3n veraniego, ya es momento de la vuelta a la rutina, volver a vernos y empezar a planificar actividades para este nuevo curso.\n\n\u00bfNos vemos un rato, bebida en mano, para hablar del verano, de la PyconEs que ya est\u00e1 aqu\u00ed y de los eventos futuros? \u00bfEchamos un rato hablando de tecnolog\u00eda y Python?\n\nLas PyBeers es un evento que consiste en reunirnos en el sitio indicado para conocer a personas dentro de la comunidad Python, intercambiar opiniones y experiencias a cerca de Python y/o la tecnolog\u00eda en general.\n\nTodas las personas est\u00e1n invitadas a acercarse y participar tanto si eres especialista en Python, una persona reci\u00e9n llegada a la comunidad o si no has tenido ning\u00fan contacto con ella anteriormente.\n\nOs esperamos en Corral de Esquivel, Alameda de H\u00e9rcules, 38 Sevilla\n\nTenemos un [c\u00f3digo de conducta](https://github.com/python-sevilla/meetups/blob/code_of_conduct/code_of_conduct.md) y aprovechamos para recordar, que todos las personas que asistan a los eventos de Python Sevilla deben aceptarlo y respetarlo durante todas las actividades y comunicaciones relacionadas con el grupo.\n\nPara m\u00e1s informaci\u00f3n pod\u00e9is contactar con nosotros por Telegram en el canal https://t.me/pythonsevilla",
+  "shortDescription": null,
+  "group": {
+    "id": "18959885",
+    "name": "Python Sevilla"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27123395",
+    "name": "Corral de Esquivel",
+    "address": "Alameda de H\u00e9rcules, 38",
+    "city": "Sevilla",
+    "postalCode": "41002",
+    "lng": -5.994058,
+    "lat": 37.399857
+  },
+  "onlineVenue": null,
+  "dateTime": "2023-09-27T19:00+02:00",
+  "duration": "PT1H30M",
+  "timezone": "Europe/Madrid",
+  "endTime": "2023-09-27T20:30+02:00"
+}
