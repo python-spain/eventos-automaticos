@@ -1,0 +1,28 @@
+{
+  "id": "296209738",
+  "title": "Encontrando un trabajo en un pajar",
+  "eventUrl": "https://www.meetup.com/python-valencia-meetup/events/296209738",
+  "description": "Los desarrolladores somos unos privilegiados: hay innumerables ofertas de trabajo tocando a nuestra puerta. Sin embargo, \u00bfc\u00f3mo podemos encontrar la empresa ideal? \u00bfy la mejor oferta? En esta charla veremos ideas y m\u00e9todos para buscar el puesto que m\u00e1s se acerque a nuestro ideal.\n\n## Breve resumen de trayectoria laboral\n\nJulio Mart\u00ednez, Ingeniero en Inform\u00e1tica con master en NLP, lleva 20 a\u00f1os trabajando en la industria. Empez\u00f3 como desarrollador web, para especializarse en backend y m\u00e1s tarde en big data. Ha trabajado en compa\u00f1\u00edas como Ulabox (Barcelona), Hybrid Theory (Londres) y Datamaran (Valencia - Londres).",
+  "shortDescription": null,
+  "group": {
+    "id": "16514622",
+    "name": "Python Valencia"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27591803",
+    "name": "wayCO Cabanyal | Coworking Val\u00e8ncia",
+    "address": "Carrer de Mari\u00e0 Cuber, 17",
+    "city": "Val\u00e8ncia",
+    "postalCode": "46011",
+    "lng": -0.334373,
+    "lat": 39.464138
+  },
+  "onlineVenue": null,
+  "dateTime": "2023-09-28T19:00+02:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2023-09-28T21:00+02:00"
+}
