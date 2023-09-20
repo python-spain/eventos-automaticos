@@ -1,0 +1,28 @@
+{
+  "id": "296228684",
+  "title": "(TBC)",
+  "eventUrl": "https://www.meetup.com/pydata-madrid/events/296228684",
+  "description": "PyData Madrid vuelve en junio para hablar de Python, Datos, Visualizaci\u00f3n, Inteligencia Artificial, \u00a1y lo que surja!\n\nEl evento se realizar\u00e1 en las oficinas de Orange, que generosamente ha cedido su espacio.\n\n***Importante*** *\u26a0\ufe0f Necesitamos tu nombre completo y DNI, no olvides introducirlo en el formulario de registro. Usa el campo \"raz\u00f3n para asistir\" para el DNI. (TBC)*\n\nEn esta ocasi\u00f3n, tendremos el placer de contar con dos charlas:\n\n* **XXX** (19:15-19:45), TBC (en espa\u00f1ol).\n* **Pablo Rodr\u00edguez** (19:45-20:15), Data Scientist en Piperlab, hablar\u00e1 sobre c\u00f3mo utilizar Streamlit y Stlite entre otras herramientas para compartir c\u00f3digo con gente no t\u00e9cnica (en espa\u00f1ol).\n\nDespu\u00e9s de la reuni\u00f3n, haremos *networking* en un bar cercano (TBC).\n\nRecomendaciones generales:\n\n* \u00bfSabes mucho de Python y Datos? \u00bfSabes poco y quieres saber m\u00e1s? \u00a1En ambos casos, te damos la bienvenida!\n* Aplica \"la regla del comecocos\": si est\u00e1s en un c\u00edrculo, deja siempre un hueco para que otra persona se pueda unir.\n* Puede haber asistentes que no hablen bien espa\u00f1ol y que se manejen mejor en ingl\u00e9s. S\u00e9 paciente y \u00a1no dejes que se aburran!\n* En los eventos PyData rige un C\u00f3digo de Conducta [https://pydata.org/code-of-conduct/](https://pydata.org/code-of-conduct/) el resumen traducido: s\u00e9 amable, abstente de insultar y de hacer bromas sexistas, racistas, o excluyentes en general, y nada de insinuaciones sexuales a otras personas.\n\n\\*\\*\\*\nPyData Madrid comes back in May to talk about Python, Data, Visualization, Artificial Intelligence, and more!\n\nThe event will take place at the Orange offices (), who have generously offered their space.\n\n***Important*** *\u26a0\ufe0f We will need your full name and ID, don't forget to type it in the registration form. Use the field \"reason to attend\" for the ID. (TBC)*\n\nThis time, we will have the pleasure of having these two talks:\n\n* **XXX** (19:15-19:45), TBC (in Spanish).\n* **Pablo Rodr\u00edguez** (19:45-20:15), Data Scientist at Piperlab, will show how to use Streamlit and Stlite among other tools to share your code with non-technical people (in Spanish).\n\nAfter the meeting, we will go to a nearby bar to do some networking (TBC).\n\nGeneral recommendations:\n\n* Are you an expert in Python and Data? Are you a beginner and you want to learn more? In both cases, you are very welcome!\n* Apply the \"Pacman rule\": if you're in a circle, leave a gap so that someone else can join.\n* If you don't speak good Spanish, we will do our best to make you feel comfortable. But be mindful that other attendees might want to use their native language in larger conversations. Use this opportunity to practice your Spanish! If you are bored, feel free approach the organizers and say \u00abHi!\u00bb\n* At PyData events there is a Code of Conduct [https://pydata.org/code-of-conduct/](https://pydata.org/code-of-conduct/) super short version: be kind (all else is details), abstain from insulting others or making sexist, racist, or other exclusionary jokes, and do absolutely not make sexual advances to other attendees.",
+  "shortDescription": null,
+  "group": {
+    "id": "23965442",
+    "name": "PyData Madrid"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "26783348",
+    "name": "Tienda Orange",
+    "address": "Prta del Sol, 12",
+    "city": "Madrid",
+    "postalCode": "28013",
+    "lng": -3.703471,
+    "lat": 40.417286
+  },
+  "onlineVenue": null,
+  "dateTime": "2023-09-28T19:00+02:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2023-09-28T21:00+02:00"
+}
