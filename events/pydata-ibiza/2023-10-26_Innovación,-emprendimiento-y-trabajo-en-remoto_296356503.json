@@ -1,0 +1,28 @@
+{
+  "id": "296356503",
+  "title": "Innovaci\u00f3n, emprendimiento y trabajo en remoto",
+  "eventUrl": "https://www.meetup.com/pydata-eivissa-ibiza/events/296356503",
+  "description": "\u00a1Nos complace anunciar el primer evento de PyData en Ibiza en Octubre, donde hablaremos de Python, innovaci\u00f3n, emprendimiento y mucho m\u00e1s!\nEl evento se realizar\u00e1 en la sede de la Sociedad Cultural y Recreativa Casino de Ibiza, \"El Casino des Moll\", situado en Calle Barcelona, n\u00ba 1, Ibiza.\nPara este primer evento, tendremos tres charlas:\n\n* **Juan Luis Cano Rodr\u00edguez** (19:00-19:15), arrancar\u00e1 con una charla sobre Python y su impacto en la innovaci\u00f3n y el emprendimiento.\n* **Francisco Mu\u00f1oz** e **Itziar Zamena** (19:15-19:45), representando a APSL en el mundo IT, nos hablar\u00e1n sobre su trayectoria construida con datos, Python y trabajo en remoto (en espa\u00f1ol).\n* **Gerardo Richarte** (19:45-20:10), CTO de Satellogic, nos mostrar\u00e1 c\u00f3mo han innovado en el sector geoespacial, tambi\u00e9n apoyados en datos, Python y trabajo en remoto (en espa\u00f1ol).\n\nDespu\u00e9s de las charlas, ofreceremos bebidas y picoteo en el mismo lugar para continuar con el networking.\n\nRecomendaciones generales:\n\n* \u00bfSabes mucho de Python e innovaci\u00f3n? \u00bfSabes poco y quieres saber m\u00e1s? \u00a1En ambos casos, te damos la bienvenida!\n* Aplica \"la regla del comecocos\": si est\u00e1s en un c\u00edrculo, deja siempre un hueco para que otra persona se pueda unir.\n* Puede haber asistentes que no hablen bien espa\u00f1ol y que se manejen mejor en ingl\u00e9s. S\u00e9 paciente y \u00a1no dejes que se aburran!\n* En los eventos PyData rige un C\u00f3digo de Conducta https://pydata.org/code-of-conduct/ el resumen traducido: s\u00e9 amable, abstente de insultar y de hacer bromas sexistas, racistas, o excluyentes en general, y nada de insinuaciones sexuales a otras personas.\n\n\\*\\*\\*\n\nWe are excited to announce the first PyData event in Ibiza this October, where we'll talk about Python, innovation, entrepreneurship, and more!\nThe event will take place at the headquarters of the Sociedad Cultural y Recreativa Casino de Ibiza, \"El Casino des Moll\", located at Calle Barcelona, n\u00ba 1, Ibiza.\nFor this inaugural event, we'll kick off with three talks:\n\n* **Juan Luis Cano Rodr\u00edguez** (19:00-19:15), will start with a talk about Python and its impact on innovation and entrepreneurship.\n* **Francisco Mu\u00f1oz** and **Itziar Zamena** (19:15-19:45), representing APSL in the IT world, will share their journey built upon data, Python, and remote work (in Spanish).\n* **Gerardo Richarte** (19:45-20:10), CTO of Satellogic, will show how they have made strides in the geospatial sector, also leveraging data, Python, and remote work (in Spanish).\n\nAfter the talks, drinks and snacks will be available on-site for continued networking.\n\nGeneral recommendations:\n\n* Are you an expert in Python and innovation? Are you a beginner and you want to learn more? In both cases, you are very welcome!\n* Apply the \"Pacman rule\": if you're in a circle, leave a gap so that someone else can join.\n* If you don't speak good Spanish, we will do our best to make you feel comfortable. But be mindful that other attendees might want to use their native language in larger conversations. Use this opportunity to practice your Spanish! If you are bored, feel free approach the organizers and say \u00abHi!\u00bb\n* At PyData events there is a Code of Conduct https://pydata.org/code-of-conduct/ super short version: be kind (all else is details), abstain from insulting others or making sexist, racist, or other exclusionary jokes, and do absolutely not make sexual advances to other attendees.",
+  "shortDescription": null,
+  "group": {
+    "id": "36715005",
+    "name": "PyData Eivissa/Ibiza"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27669110",
+    "name": "Carrer Barcelona, 1",
+    "address": "Carrer Barcelona, 1",
+    "city": "Eivissa",
+    "postalCode": "07800",
+    "lng": 1.437799,
+    "lat": 38.909878
+  },
+  "onlineVenue": null,
+  "dateTime": "2023-10-26T19:00+02:00",
+  "duration": "PT1H30M",
+  "timezone": "Europe/Madrid",
+  "endTime": "2023-10-26T20:30+02:00"
+}
