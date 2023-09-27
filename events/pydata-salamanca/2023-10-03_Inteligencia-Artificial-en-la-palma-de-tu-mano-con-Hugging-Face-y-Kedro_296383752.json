@@ -1,0 +1,28 @@
+{
+  "id": "296383752",
+  "title": "Inteligencia Artificial en la palma de tu mano con Hugging Face y Kedro",
+  "eventUrl": "https://www.meetup.com/pydata-salamanca/events/296383752",
+  "description": "**\u00a1Reiniciamos PyData Salamanca!**\nEl pr\u00f3ximo \ud83d\udcc5 Martes 3 de Octubre de este 2023 estaremos de vuelta y nos traemos a Juan Luis Cano para que nos presente Kedro.\nTambi\u00e9n explicaremos los planes a futuro que se har\u00e1n en los pr\u00f3ximos meses para incentivar el desarrollo del mundo de los datos como parte del grupo.\n\n**#PyBeers**\nTras la charla se propondr\u00e1 un lugar para que nos juntemos y charlemos un rato, para que podamos conocernos un poco y compartir experiencias.\n\n**\ud83d\udce2 \u00a1Buscamos voluntarios!**\nSi te apasiona (o buscas que te apasione) el mundo de los datos, env\u00edanos un correo a pydata[at]dani-pi[dot]com para atenderos. Buscamos colaboradores y divulgadores \ud83d\ude04\n\n**Resumen de la presentaci\u00f3n**\n\"\"\"\nLa 'Inteligencia Artificial' est\u00e1 de moda, en gran parte gracias a sistemas generativos como ChatGPT, Midjourney, y similares. Estos sistemas comerciales son muy sofisticados y potentes, pero tambi\u00e9n un poco opacos si lo que quieres es aprender c\u00f3mo funcionan o adaptarlos a tus necesidades. \u00bfQu\u00e9 ocurre dentro de la 'caja negra'?\n\nPor suerte existen modelos de 'Inteligencia Artificial' abiertos y que puedes descargar c\u00f3modamente, estudiar sin restricciones, y ajustar para que hagan lo que t\u00fa quieres. Esto requiere de ciertos conocimientos t\u00e9cnicos, pero gracias a los modelos de Hugging Face, sus bibliotecas de Python extremadamente sencillas, y el cat\u00e1logo y los pipelines de Kedro, adentrarse en la 'Inteligencia Artificial' es m\u00e1s f\u00e1cil que nunca.\n\nEn esta charla contaremos qu\u00e9 es Kedro, c\u00f3mo podemos utilizar su cat\u00e1logo din\u00e1mico para descargar modelos y datasets de Hugging Face, y haremos una peque\u00f1a demo.\n\"\"\"",
+  "shortDescription": null,
+  "group": {
+    "id": "30890235",
+    "name": "PyData Salamanca"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "26066043",
+    "name": "Edificio Multiusos I+D+i Universidad de Salamanca",
+    "address": "C. Espejo, 2",
+    "city": "Salamanca",
+    "postalCode": "37007",
+    "lng": -5.671127,
+    "lat": 40.965298
+  },
+  "onlineVenue": null,
+  "dateTime": "2023-10-03T17:30+02:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2023-10-03T19:30+02:00"
+}
