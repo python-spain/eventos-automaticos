@@ -1,0 +1,28 @@
+{
+  "id": "296489967",
+  "title": "PyDayBCN 2023",
+  "eventUrl": "https://www.meetup.com/python-barcelona/events/296489967",
+  "description": "PyDayBCN 2023 is almost here! It will take place on November 11th at Universitat de Barcelona. Save the date!\n\nA day full of FREE python-related workshops for the Python community. Over the last six editions, PyDay has become a great opportunity to share our love for Python and engage users, companies and newcomers into it!\n\n[IMPORTANT] Information and register: https://pybcn.org/pyday-bcn-2023/\n\n[RSVPS WILL NOT OPEN. PLEASE REGISTER THROUGH EVENTBRITE FOLLOWING THE INFO IN https://pybcn.org/pyday-bcn-2023/ ]\n\n***\n\nCheers,\n\nThe PyDayBCN Team",
+  "shortDescription": null,
+  "group": {
+    "id": "831283",
+    "name": "Python Barcelona Meetup"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27246133",
+    "name": "Universitat de Barcelona",
+    "address": "Gran Via de les Corts Catalanes, 585",
+    "city": "Barcelona",
+    "postalCode": "08007",
+    "lng": 2.163866,
+    "lat": 41.386673
+  },
+  "onlineVenue": null,
+  "dateTime": "2023-11-11T09:00+01:00",
+  "duration": "PT9H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2023-11-11T18:00+01:00"
+}
