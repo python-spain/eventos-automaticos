@@ -1,0 +1,28 @@
+{
+  "id": "296703378",
+  "title": "Festa OpenSource Girona 2023 - GeeksCAT + GDG",
+  "eventUrl": "https://www.meetup.com/pythongirona/events/296703378",
+  "description": "Celebrem la tercera edici\u00f3 de la **Festa de l'OpenSource**!\nM\u00e9s informaci\u00f3 a [http://hacktoberfest.geeks.cat](http://hacktoberfest.geeks.cat/)\n\nRegistre obligatori a [https://www.eventbrite.es/e/entradas-festa-opensource-girona-2023-geekscat-gdg-718595698077](https://www.eventbrite.es/e/entradas-festa-opensource-girona-2023-geekscat-gdg-718595698077)\n\n## Qu\u00e8 farem?\n\nTrobada presencial a Girona on disposarem de sales on s'impartiran diverses xerrades i tallers relacionats amb l'opensource.\nEn paral\u00b7lel, qui vulgui podr\u00e0 dedicar l'estona a contribuir amb l'open source. Hi haur\u00e0 mentors que ajudaran a qui ho necessiti.\n\n## Agenda\n\n**Auditori**\n9:00 Obertura de portes\n9:30 Benvinguda\n10:00 Connectant la teva aplicaci\u00f3 amb la IA\n10:30 El m\u00f3n dels controladors leverless de hardware obert\n11:00 Descans\n11:30 Com extreure ofertes de feina a LinkedIn amb Puppeteer i RxJS\n12:30 Me suenas: c\u00f3mo nos conocimos antes de conocernos\n13:00 Virtualitzaci\u00f3 amb Proxmox / Sonic PI\n14:00 Dinar\n15:30 Presentaci\u00f3 programa de beques Google Summer of Code\n16:00 Detectant problemes de web performance amb DevTools.\n17:00 Models de llenguatge amb IA generativa: visi\u00f3 i experi\u00e8ncia\n18:00 Blazor Poet's Arena - Webapp emprant C# contra OpenAI ChatGPT\n19:00 Cloenda\n19:30 Tancament\n\n**Tallers A**\n10:00 Enginy-era prim\u00e0ria\n11:00 Descans\n11:30 Enginy-era secund\u00e0ria\n\n**Tallers B**\n10:00 Introducci\u00f3 a Kubernetes\n12:30 Introducci\u00f3n a Flutter\n15:30 Dom\u00f2tica amb HomeAssistant\n17:30 Peach Bitcoin. La forma m\u00e9s f\u00e0cil i segura de comen\u00e7ar en Bitcoin.\n\n**Open Room**\nT\ufeffot el dia marat\u00f3 de PRs i networking.\n\n## Quan ho farem?\n\nEl dissabte 21 d'Octubre, a l'espai de la Fundaci\u00f3 \u201dla Caixa\u201d de Girona\nLa jornada comen\u00e7ar\u00e0 a les 9h i acabarem a les 19h.\n\n## Dinar\n\nSi t'animes, anirem plegades a dinar a algun restaurant proper. Ho estem acabant de lligar, per\u00f2 molt probablement us podrem oferir un preu tancat.\nSi tens intenci\u00f3 de venir, marca-ho durant el registre i contactarem amb tu uns dies abans per confirmar el men\u00fa, validar prefer\u00e8ncies, intoler\u00e0ncies i al\u00b7l\u00e8rgies.\n\nM\u00e9s informaci\u00f3 a [https://hacktoberfest.geeks.cat](https://hacktoberfest.geeks.cat)\n\nO\ufeffrganitza Geeks.CAT + GDG Girona",
+  "shortDescription": null,
+  "group": {
+    "id": "20691695",
+    "name": "Python Girona"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27680463",
+    "name": "Espai Fundaci\u00f3 \"la Caixa\" Girona",
+    "address": "Pla\u00e7a Poeta Marquina, 10",
+    "city": "Girona",
+    "postalCode": "17002",
+    "lng": 2.817987,
+    "lat": 41.980434
+  },
+  "onlineVenue": null,
+  "dateTime": "2023-10-21T09:00+02:00",
+  "duration": "PT10H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2023-10-21T19:00+02:00"
+}
