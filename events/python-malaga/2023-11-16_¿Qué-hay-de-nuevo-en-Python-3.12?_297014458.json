@@ -1,0 +1,28 @@
+{
+  "id": "297014458",
+  "title": "\u00bfQu\u00e9 hay de nuevo en Python 3.12?",
+  "eventUrl": "https://www.meetup.com/python_malaga/events/297014458",
+  "description": "La \u00faltima versi\u00f3n de Python 3.12 no s\u00f3lo trae m\u00e1s velocidad. Tambi\u00e9n est\u00e1 cargadita de novedades: mejoras en los f-strings, ayudas en los mensajes de error, el decorador override, nuevas formas de tipado... Adem\u00e1s de m\u00f3dulos que se eliminan (como el conocido distutils) y otros que reciben novedades (tales como asyncio o pathlib). Comentamos qu\u00e9 trae de nuevo esta versi\u00f3n para todo el mundo y los m\u00e1s veteranos, para que no tengas que mirarlo por tu cuenta. \u00a1No te quedes atr\u00e1s en lo m\u00e1s nuevo de Python, en esta charla llena de ejemplos de c\u00f3digo y mucho humor!",
+  "shortDescription": null,
+  "group": {
+    "id": "33344430",
+    "name": "Python M\u00e1laga"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "26151065",
+    "name": "Codespace Academy",
+    "address": "C. Compositor Lehmberg Ruiz, 13",
+    "city": "M\u00e1laga",
+    "postalCode": "29007",
+    "lng": -4.433818,
+    "lat": 36.71779
+  },
+  "onlineVenue": null,
+  "dateTime": "2023-11-16T19:00+01:00",
+  "duration": "PT1H30M",
+  "timezone": "Europe/Madrid",
+  "endTime": "2023-11-16T20:30+01:00"
+}
