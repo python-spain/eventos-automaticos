@@ -1,0 +1,28 @@
+{
+  "id": "296794509",
+  "title": "4\u00ba MeetUp de PyData Granada (solo presencial)",
+  "eventUrl": "https://www.meetup.com/pydatagrx/events/296794509",
+  "description": "Tras el descanso veraniego y la vuelta al cole, \u00a1PyData Granada se enorgullece de anunciar su cuarto MeetUp!\n\n\u00bfQu\u00e9 es PyData? PyData es una comunidad diversa de personas interesadas en el uso y desarrollo de herramientas de an\u00e1lisis de datos con el objetivo de compartir ideas y aprender. Nos reunimos para discutir las mejores pr\u00e1cticas, nuevos enfoques y tecnolog\u00edas emergentes para la gesti\u00f3n de datos, procesamiento, an\u00e1lisis y visualizaci\u00f3n. Utilizamos muchos lenguajes de programaci\u00f3n, incluyendo (pero no limitado a) Python, Julia y R.\n\n**== AGENDA ==**\n\n**7:00pm** \\- Apertura de puertas y networking\n\n**7:05pm** \\- Breve presentaci\u00f3n de PyData Granada y bienvenida de nuestro patrocinador ELCA\n\n**7:15pm** **\\- C\u00f3mo hacer un Feature Store desde cero**\n\n**Ponente**: Ernesto Martinez del Pino\n\n**7:50pm - Matplotlib vs. Ggplot2**\n\u00a1Prep\u00e1rate para una batalla \u00e9pica de visualizaci\u00f3n de datos entre Matplotlib y ggplot2! Enfrentaremos a estos dos gigantes de la visualizaci\u00f3n y descubriremos qui\u00e9n gana en flexibilidad y control, y qui\u00e9n se alza con la victoria en elegancia y eficiencia \u00a1Esta es tu oportunidad para elegir tu bando y aprender cu\u00e1l de estas bibliotecas liderar\u00e1 tu pr\u00f3xima aventura en visualizaci\u00f3n de datos!\n**Ponente**: Rocio Romero Zaliz\n**Bio**: Roc\u00edo Romero Zaliz es docente e investigadora en el Departamento de Ciencias de la Computaci\u00f3n e Inteligencia Artificial de la Universidad de Granada. Forma parte del comit\u00e9 de difusi\u00f3n y comunicaci\u00f3n del Instituto Andaluz de Investigaci\u00f3n en Ciencia de Datos e Inteligencia Computacional (Instituto DaSCI) y es subdirectora de transferencia, docencia e investigaci\u00f3n del Centro de Investigaci\u00f3n en Tecnolog\u00edas de la Informaci\u00f3n y las Comunicaciones (CITIC-UGR). Se especializa en temas interdisciplinares en diversos campos, como la f\u00edsica, las matem\u00e1ticas, la biolog\u00eda y la medicina. Ademas es divulgadora cient\u00edfica ya que adem\u00e1s de dar charlas y participar en eventos como La Noche de los Investigadores, tambi\u00e9n es co-presentadora del podcast SintonIA (\"La IA en las ondas\") en donde divulga temas relacionados con la IA y la ciencia de datos.\n\n**8:25pm - Networking (patrocinado por ELCA)**\n\n\u00bfTe gustar\u00eda hablar en este meetup o en uno futuro? Env\u00edanos tu propuesta a trav\u00e9s de nuestras redes sociales.\n\n**Agradecimientos**\n\n* [NumFOCUS](https://numfocus.org/)\n* [Oficina de Software Libre de la Universidad de Granada](https://osl.ugr.es/)\n* [Python Espa\u00f1a](https://es.python.org/)\n* [ELCA Information Technology](https://www.elca.ch/en)",
+  "shortDescription": null,
+  "group": {
+    "id": "36725854",
+    "name": "PyData GRX"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27692533",
+    "name": "ELCA Information Technology",
+    "address": "Calle Andr\u00e9s Segovia 53, 3B",
+    "city": "Granada",
+    "postalCode": "meetup16",
+    "lng": -3.594947,
+    "lat": 37.158875
+  },
+  "onlineVenue": null,
+  "dateTime": "2023-11-16T19:00+01:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2023-11-16T21:00+01:00"
+}
