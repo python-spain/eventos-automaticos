@@ -1,0 +1,28 @@
+{
+  "id": "297136322",
+  "title": "Principios b\u00e1sicos para hacer un buen dise\u00f1o de visualizaci\u00f3n de datos",
+  "eventUrl": "https://www.meetup.com/python-valencia-meetup/events/297136322",
+  "description": "A caballo entre el dise\u00f1o, el desarrollo web y de aplicaciones, el periodismo o la investigaci\u00f3n cient\u00edfica, se encuentra la visualizaci\u00f3n de datos, una especializaci\u00f3n que desde el 2010 no deja de crecer y que en estos \u00faltimos a\u00f1os ha acelerado su presencia y crecimiento gracias a la aparici\u00f3n de herramientas interactivas, la evoluci\u00f3n de la velocidad del procesamiento de datos y la evoluci\u00f3n de la inteligencia artificial.\n\nAdem\u00e1s, la importancia de afrontar un buen dise\u00f1o en la visualizaci\u00f3n de datos cobra cada vez con mayor importancia en la realizaci\u00f3n de cuadros de mando para herramientas de an\u00e1lisis o en dise\u00f1os de cualquier interfaz de usuario sea tanto para escritorio, m\u00f3vil o web.\n\nUna oportunidad para adentrarse en el mundo de las visualizaciones y descubrir cu\u00e1l es su potencial informativo y su importancia tanto para grandes corporaciones como en peque\u00f1as empresas.\n\n\\#\\# Trayectoria laboral\n\nMar\u00eda Us\u00e1n Porta cuenta con m\u00e1s de 15 a\u00f1os de experiencia como dise\u00f1adora gr\u00e1fica y de producto. Tras unos inicios en el mundo del dise\u00f1o gr\u00e1fico y editorial en varias editoriales y empresas de publicidad, se especializ\u00f3 en dise\u00f1o web y marketing digital para adentrarse finalmente en el mundo del dise\u00f1o de producto trabajando en experiencia de usuario y dise\u00f1o de interfaces (UX / UI), actividad que desempe\u00f1a plenamente desde 2019 como freelance.\n\nActualmente compagina su actividad como directora creativa y dise\u00f1adora de producto en Sapps Studio con la de docencia en Idecrea - escuela de dise\u00f1o y creaci\u00f3n digital y VIU (Universidad Internacional de Valencia).",
+  "shortDescription": null,
+  "group": {
+    "id": "16514622",
+    "name": "Python Valencia"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27591803",
+    "name": "wayCO Cabanyal | Coworking Val\u00e8ncia",
+    "address": "Carrer de Mari\u00e0 Cuber, 17",
+    "city": "Val\u00e8ncia",
+    "postalCode": "46011",
+    "lng": -0.334373,
+    "lat": 39.464138
+  },
+  "onlineVenue": null,
+  "dateTime": "2023-11-30T18:30+01:00",
+  "duration": "PT1H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2023-11-30T19:30+01:00"
+}
