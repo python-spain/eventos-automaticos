@@ -1,0 +1,28 @@
+{
+  "id": "297536739",
+  "title": "Vamos a explorar IA con AutoGen",
+  "eventUrl": "https://www.meetup.com/python-sevilla/events/297536739",
+  "description": "\u00a1Traigan sus laptops y exploremos c\u00f3mo desarrollar aplicaciones de Inteligencia Artifical multi-agente!\n\nEste taller se organiza de forma conjunta con el grupo [IA Generativa Sevilla](https://www.meetup.com/es-ES/ia-generativa-sevilla/).\n\nEn este taller exploraremos [AutoGen](https://github.com/microsoft/autogen/); un framework para construir aplicaciones alrededor de m\u00faltiples agentes de IA. Esto les permite resolver problemas complejos teniendo varios agentes trabajando juntos.\n\nDaremos un repaso muy breve del framework y sus componentes clave, pero la gran mayor\u00eda del tiempo ser\u00e1 dedicada para que cada uno lo pruebe y vea lo que puede obtener de \u00e9l.\n\nPrepararemos algunos ejemplos para usar como punto de partida, y traigan algunas ideas sobre cosas que pueden intentar construir, \u00a1pero realmente depende de ustedes! \u00a1Vengan con curiosidad y entusiasmo y aprendamos a construir cosas geniales juntos!\n\n**Requisitos:**\n\n* Trae tu port\u00e1til. Es un taller pr\u00e1ctico, as\u00ed que es necesario para participar en el taller.\n* Es interesante tener una clave de OpenIA API. Puedes generar la tuya siguiendo este documento: https://help.openai.com/en/articles/4936850-where-do-i-find-my-api-key\n\nTe esperamos en las oficinas de CARTO en Sevilla\n\nLas plazas son muy limitadas, as\u00ed que, os rogamos que si por alg\u00fan motivo no pueden asistir, dejen libre su reserva para que otra persona pueda asistir.",
+  "shortDescription": null,
+  "group": {
+    "id": "18959885",
+    "name": "Python Sevilla"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27706404",
+    "name": "Carto",
+    "address": "C. Ebro, 1",
+    "city": "Sevilla",
+    "postalCode": "41012",
+    "lng": -5.982989,
+    "lat": 37.35537
+  },
+  "onlineVenue": null,
+  "dateTime": "2023-12-12T19:00+01:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2023-12-12T21:00+01:00"
+}
