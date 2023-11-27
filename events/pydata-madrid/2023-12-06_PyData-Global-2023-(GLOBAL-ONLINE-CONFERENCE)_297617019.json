@@ -1,0 +1,30 @@
+{
+  "id": "297617019",
+  "title": "PyData Global 2023 (GLOBAL ONLINE CONFERENCE)",
+  "eventUrl": "https://www.meetup.com/pydata-madrid/events/297617019",
+  "description": "## Details\n\nThe [PyData Global Online Conference](https://pydata.org/global2023/) is where users, contributors, and newcomers can share experiences to learn from one another and grow together. PyData provides a virtual forum for the international community of users and developers of data analysis tools to share ideas and learn from each other. The global PyData network promotes discussion of best practices, new approaches, and emerging technologies for data management, processing, analytics, and visualization. This three-day online event consists of talks, tutorials, and discussions to bring attendees the latest project features along with cutting-edge use cases.\n\nThe time span of the conference stretches beyond any single time zone, reflecting the global nature of our community. To accommodate our attendees, each session will be recorded and made available to attendees the following day. Following the Conference, all recordings will be posted to the PyData YouTube channel.\n\nTickets follow a pay-what-you-can model and can be found here: [https://pydata.org/global2023/tickets](https://pydata.org/global2023/tickets)\n\n**Why Charge for an Online Conference?**\nRevenue from the event will go to PyData and NumFOCUS, a nonprofit organization that supports open source scientific computer programming. NumFOCUS currently sponsors 60 Open Source Projects, and organizes community-driven educational programs for users and developers of open source scientific tools.\n\nWhile the 2023 PyData Global Conference has no costs for venue or catering, there are still costs associated with bringing the event online. We also need to continue paying fixed costs to keep NumFOCUS healthy, as well as continue supporting the open source community.\nFor this reason, we have chosen to sell tickets with a pay-what-you-can pricing model. We appreciate your support for us during this time so that we can keep supporting you in the future.",
+  "shortDescription": null,
+  "group": {
+    "id": "23965442",
+    "name": "PyData Madrid"
+  },
+  "isNetworkEvent": true,
+  "isOnline": true,
+  "eventType": "ONLINE",
+  "venue": {
+    "id": "26906060",
+    "name": "Online event",
+    "address": "",
+    "city": "",
+    "postalCode": "",
+    "lng": 179.1962,
+    "lat": -8.521147
+  },
+  "onlineVenue": {
+    "url": null
+  },
+  "dateTime": "2023-12-06T12:00+01:00",
+  "duration": "PT58H30M",
+  "timezone": "Europe/Madrid",
+  "endTime": "2023-12-08T22:30+01:00"
+}
