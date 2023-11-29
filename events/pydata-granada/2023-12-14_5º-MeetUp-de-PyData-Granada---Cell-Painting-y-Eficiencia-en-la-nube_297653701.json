@@ -1,0 +1,28 @@
+{
+  "id": "297653701",
+  "title": "5\u00ba MeetUp de PyData Granada - Cell Painting y Eficiencia en la nube",
+  "eventUrl": "https://www.meetup.com/pydatagrx/events/297653701",
+  "description": "**== AGENDA ==**\n\n**7:00pm** \\- Apertura de puertas y networking\n\n**7:05pm** \\- Breve presentaci\u00f3n de PyData Granada y bienvenida de nuestro patrocinador Revvity\n\n**7:15pm** **\\- An\u00e1lisis datos en Drug Discovery: Cell Painting**\nEn esta charla exploraremos la t\u00e9cnica de Cell Painting, fundamental en biolog\u00eda celular. Utiliza sondas fluorescentes para marcar componentes clave como el n\u00facleo, membrana y prote\u00ednas, generando im\u00e1genes detalladas de morfolog\u00eda y estructuras internas celulares. La importancia del Cell Painting va m\u00e1s all\u00e1 de las im\u00e1genes, destacando su capacidad para extraer conocimientos. Abordaremos el uso de computaci\u00f3n paralela en cl\u00fasters para el an\u00e1lisis eficiente de grandes conjuntos de datos celulares. En investigaci\u00f3n biom\u00e9dica, esta t\u00e9cnica es valiosa para comprender reacciones celulares ante diversas condiciones. Su potencial prometedor contribuir\u00e1 al desarrollo de terapias m\u00e1s efectivas y personalizadas en el futuro.\n\n**Ponente**: **Alberto Ramos \u00c1lvarez**\n**Bio**: Alberto, licenciado en Ciencias F\u00edsicas, se doctor\u00f3 con premio extraordinario en Santiago de Compostela en la especialidad de materiales cu\u00e1nticos. Ha participado en experimentos en centros de investigaci\u00f3n alrededor del mundo, incluyendo Finlandia y Jap\u00f3n. Trabaj\u00f3 como cient\u00edfico en el ICFO, un centro de excelencia internacional especializado en fot\u00f3nica situado en Barcelona, contribuyendo al dise\u00f1o y construcci\u00f3n de un microscopio de resoluci\u00f3n temporal a escala de femtosegundos. Actualmente, Alberto aplica su conocimiento como cient\u00edfico de datos en Revvity, una destacada compa\u00f1\u00eda estadounidense enfocada en el sector farmac\u00e9utico y la biotecnolog\u00eda.\n\n**7:50pm - Python en la nube: versatilidad y eficiencia**\nEl despliegue de soluciones en la nube es cada vez la opci\u00f3n m\u00e1s elegida por las empresas para confiar el desarrollo de sus proyectos. Si bien existe un amplio abanico de servicios listos para su uso, no siempre se ajustan a los requerimientos necesarios, aumentando como consecuencia los costes y la complejidad de su mantenimiento. En multitud de ocasiones resulta m\u00e1s favorable la programaci\u00f3n de soluciones personalizadas para procesos ETL/ELT en las que el conocimiento sobre Python y el c\u00e1lculo de la eficiencia de un c\u00f3digo son totalmente indispensables para proporcionar alternativas de calidad capaces de cumplir sus funciones bajo una inversi\u00f3n temporal y monetaria controlada.\n\n**Ponente**: **Lidia S\u00e1nchez M\u00e9rida**\n**Bio**: Lidia es Ingeniera Inform\u00e1tica especializada en Ciencia de Datos y actualmente trabaja principalmente como Azure Data Engineer en UST dentro del \u00e1mbito financiero internacional.\n\n**8:25pm - Networking**\n\n\u00bfTe gustar\u00eda hablar en este meetup o en uno futuro? Env\u00edanos tu propuesta a trav\u00e9s de nuestras redes sociales.\n\n**Agradecimientos**\n\n* [NumFOCUS](https://numfocus.org/)\n* [Oficina de Software Libre de la Universidad de Granada](https://osl.ugr.es/)\n* [Python Espa\u00f1a](https://es.python.org/)\n* [Revvity](https://www.revvity.com/)\n\n**C\u00f3digo de conducta**\nLos eventos de PyData Granada se rigen por los c\u00f3digos de conducta de [NumFocus](https://numfocus.org/code-of-conduct) y de la [Python Software Foundation](https://www.python.org/psf/conduct/).\n\n**\u00bfQu\u00e9 es PyData?**\nPyData es una comunidad diversa de personas interesadas en el uso y desarrollo de herramientas de an\u00e1lisis de datos con el objetivo de compartir ideas y aprender. Nos reunimos para discutir las mejores pr\u00e1cticas, nuevos enfoques y tecnolog\u00edas emergentes para la gesti\u00f3n de datos, procesamiento, an\u00e1lisis y visualizaci\u00f3n. Utilizamos muchos lenguajes de programaci\u00f3n, incluyendo (pero no limitado a) Python, Julia y R.\n\n**\u00a1S\u00edguenos en redes!**\n\n* Twitter/X: [@PyDataGRX](https://twitter.com/PyDataGRX)\n* Mastodon: [@PyDataGRX@masto.ai](https://masto.ai/@pydatagrx)\n* LinkedIn: [pydata-grx](https://www.linkedin.com/company/pydata-grx/)",
+  "shortDescription": null,
+  "group": {
+    "id": "36725854",
+    "name": "PyData GRX"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27709506",
+    "name": "Finanzas & I+D+i",
+    "address": "Av. del Conocimiento, 16",
+    "city": "Granada",
+    "postalCode": "18016",
+    "lng": -3.610328,
+    "lat": 37.150276
+  },
+  "onlineVenue": null,
+  "dateTime": "2023-12-14T19:00+01:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2023-12-14T21:00+01:00"
+}
