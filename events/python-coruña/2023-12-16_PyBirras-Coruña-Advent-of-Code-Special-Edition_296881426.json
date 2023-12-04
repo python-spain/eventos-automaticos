@@ -1,0 +1,28 @@
+{
+  "id": "296881426",
+  "title": "PyBirras Coru\u00f1a Advent of Code Special Edition",
+  "eventUrl": "https://www.meetup.com/python-a-coruna/events/296881426",
+  "description": "\u00a1Python Coru\u00f1a cumple un a\u00f1o!\n\nY para celebrarlo vamos a hacer un evento especial, en el que tendremos picoteo variado y gratuito.\n\nY mientras picamos algo de comida tambi\u00e9n picaremos algo de c\u00f3digo.\n\nVamos a llevar un port\u00e1til que conectaremos al proyector del local e iremos resolviendo los retos propuestos en el **Advent of Code** ([https://adventofcode.com/](https://adventofcode.com/))\n\nLa idea es que en cada uno de los retos salga a la palestra una persona distinta a intentar resolverlo. Si sois principiantes os animamos igualmente a salir. Si os qued\u00e1is atascados los dem\u00e1s asistentes os echar\u00e1n una mano.\n\nPara cualquier detalle adicional sobre el evento pod\u00e9is consultar nuestras redes sociales en el siguiente enlace:\n\n[https://linktr.ee/pythoncoruna](https://linktr.ee/pythoncoruna)",
+  "shortDescription": null,
+  "group": {
+    "id": "36742904",
+    "name": "Python A Coru\u00f1a"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27561952",
+    "name": "Ateneo",
+    "address": "R\u00faa Reverendo Padre Jos\u00e9 \u00c1lvarez Cabezas, 1",
+    "city": "A Coru\u00f1a",
+    "postalCode": "15011",
+    "lng": -8.417,
+    "lat": 43.369785
+  },
+  "onlineVenue": null,
+  "dateTime": "2023-12-16T18:00+01:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2023-12-16T20:00+01:00"
+}
