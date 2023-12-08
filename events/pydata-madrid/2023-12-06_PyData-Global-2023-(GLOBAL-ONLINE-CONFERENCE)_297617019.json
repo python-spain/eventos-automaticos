@@ -21,7 +21,7 @@
     "lat": -8.521147
   },
   "onlineVenue": {
-    "url": "https://pydata.org/global2023/tickets"
+    "url": null
   },
   "dateTime": "2023-12-06T12:00+01:00",
   "duration": "PT58H30M",
