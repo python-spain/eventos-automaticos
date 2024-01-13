@@ -1,0 +1,28 @@
+{
+  "id": "298525737",
+  "title": "De irrelevante a esencial: Mi viaje por el universo del testing",
+  "eventUrl": "https://www.meetup.com/python-valencia-meetup/events/298525737",
+  "description": "## Descripci\u00f3n de la charla\n\nCuando cualquier persona se adentra en el mundo de la programaci\u00f3n, se centra en el desarrollo de software, en c\u00f3mo a\u00f1adir m\u00e1s l\u00edneas de c\u00f3digo para que lo que est\u00e1 programando sea capaz de hacer m\u00e1s y m\u00e1s cosas. **Vemos el testing como algo ajeno al desarrollo**, algo poco gratificante y una p\u00e9rdida de tiempo.\nYo sol\u00eda pensar de esta manera, pero me he dado cuenta, que mientras m\u00e1s complejo ha sido lo que he intentado construir, mayor relevancia ha tenido el testing a la hora de poder llevarlo a cabo.\nEn este charla **voy a contar mi experiencia con el testing** en proyectos y empresas muy diferentes; desde peque\u00f1os proyectos de cuatro personas o startups d\u00f3nde los requisitos cambian en un instante, a proyectos gigantes de 15 a\u00f1os en los que hay que coordinarse con empresas de otros pa\u00edses.\nSi te he suscitado un poco de inter\u00e9s y/o te has visto reflejada/o, p\u00e1sate a saludar. En el peor de los casos, te llevar\u00e1s un pu\u00f1ado de an\u00e9cdotas. En el mejor, te abrir\u00e9 los ojos y\u2026 **\u00a1no sabr\u00e1s c\u00f3mo has podido trabajar sin testing hasta ahora!**\n\n## Breve resumen de trayectoria laboral\n\nFran es Ingeniero Inform\u00e1tico por la Universidad de Granada y tiene 10 a\u00f1os de experiencia en el sector. Ha trabajado como Desarrollador Backend, Ingeniero de Calidad (QA), Ingeniero de datos y Cient\u00edfico de datos. Los proyectos en los que ha participado son muy variopintos, podemos destacar el **proyecto** **Galileo** (sistema global de navegaci\u00f3n europeo), reconocimiento de patrones en ropa para **Inditex** u optimizaci\u00f3n de rutas de reparto para **Paack**.\nActualmente est\u00e1 como **L\u00edder de equipo** en el departamento de IoT en **Alfred Smart**, desarrollando una soluci\u00f3n tanto software como hardware para la digitalizaci\u00f3n de cualquier espacio f\u00edsico.",
+  "shortDescription": null,
+  "group": {
+    "id": "16514622",
+    "name": "Python Valencia"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27591803",
+    "name": "wayCO Cabanyal | Coworking Val\u00e8ncia",
+    "address": "Carrer de Mari\u00e0 Cuber, 17",
+    "city": "Val\u00e8ncia",
+    "postalCode": "46011",
+    "lng": -0.334373,
+    "lat": 39.464138
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-01-25T18:30+01:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-01-25T20:30+01:00"
+}
