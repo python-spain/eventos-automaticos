@@ -1,0 +1,28 @@
+{
+  "id": "298754694",
+  "title": "PyBeers Girona Febrer'24 \ud83c\udf7b\ud83d\udc0d",
+  "eventUrl": "https://www.meetup.com/pythongirona/events/298754694",
+  "description": "\ud83c\udf7a\ud83d\udc0d\ud83d\udc65 Vine al Meetup de Python aquest **dijous 1 de febrer a les 19h**! \ud83d\udc65\ud83d\udc0d\ud83c\udf7a\n\n\ud83e\udd1d\ud83c\udffd Uneix-te a la comunitat de Python mentre prenem una cervesa \ud83c\udf7b i compartim les nostres experi\u00e8ncies i projectes! \ud83d\udcbb\ud83c\udf1f\n\n\ud83d\udc49\ud83c\udffd Tant si ets una persona experta en Python com si acabes de comen\u00e7ar, tothom \u00e9s benvingut per aprendre, compartir i passar una bona estona! \ud83e\udd13\ud83d\udcac\n\n\ud83d\udccd[El Sindicat de la Pinta](https://maps.app.goo.gl/e2T55Vyab3qnV6dp6) Carrer de la Barca, 21, 17004 Girona (Si per aforament i n\u00famero de gent apuntada fos necessari canviarem de lloc)\n\n\ud83c\udf89 No t'ho perdis! Vine i passa una nit divertida i informal amb nosaltres. \ud83c\udf89\n\n\u26a1 **Recorda!** \u26a1\nTenim un canal de [Telegram](https://t.me/pygrn) \ud83d\udcf2 obert per a tothom! \ud83c\udf1f\ud83d\udc6b\ud83c\udf10",
+  "shortDescription": null,
+  "group": {
+    "id": "20691695",
+    "name": "Python Girona"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27741135",
+    "name": "El Sindicat",
+    "address": "Carrer de la Barca, 21",
+    "city": "Girona",
+    "postalCode": "17004",
+    "lng": 2.824538,
+    "lat": 41.988934
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-02-01T19:00+01:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-02-01T21:00+01:00"
+}
