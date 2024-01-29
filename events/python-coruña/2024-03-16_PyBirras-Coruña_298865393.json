@@ -1,0 +1,28 @@
+{
+  "id": "298865393",
+  "title": "PyBirras Coru\u00f1a",
+  "eventUrl": "https://www.meetup.com/python-a-coruna/events/298865393",
+  "description": "Convocatoria de PyBirras\n\nPresentaciones:\n\n* Por determinar\n\n* Por determinar\n\nPara cualquier detalle adicional sobre el evento pod\u00e9is consultar nuestras redes sociales en el siguiente enlace:\n\n[https://linktr.ee/pythoncoruna](https://linktr.ee/pythoncoruna)",
+  "shortDescription": null,
+  "group": {
+    "id": "36742904",
+    "name": "Python A Coru\u00f1a"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27561952",
+    "name": "Ateneo",
+    "address": "R\u00faa Reverendo Padre Jos\u00e9 \u00c1lvarez Cabezas, 1",
+    "city": "A Coru\u00f1a",
+    "postalCode": "15011",
+    "lng": -8.417,
+    "lat": 43.369785
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-03-16T18:00+01:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-03-16T20:00+01:00"
+}
