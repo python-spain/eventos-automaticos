@@ -2,7 +2,7 @@
   "id": "298913015",
   "title": "ONLINE: Aplicaciones de vision por computador con un par de funciones de Python",
   "eventUrl": "https://www.meetup.com/python-sevilla/events/298913015",
-  "description": "**EVENTO ONLINE**\n\nEn la charla \"Creando aplicaciones de vision por computador con un par de funciones de Python\" comentaremos los distintos sistemas que deben desarrollarse e integrarse cuando creamos una aplicaci\u00f3n de visi\u00f3n por computador para que pueda procesar video en tiempo real.\n\nIntroduciremos Pipeless, un framework de desarrollo que nos permite crear estas aplicaciones con tan solo un par de funciones Python. Finalmente, mostraremos y comentaremos algunos ejemplos pr\u00e1cticos.\n\nEste evento es impulsado por [IA Generativa Sevilla ](https://www.meetup.com/es-ES/ia-generativa-sevilla/)y organizado conjuntamente con Python Sevilla.",
+  "description": "**EVENTO ONLINE**\n\nEn la charla \"Creando aplicaciones de vision por computador con un par de funciones de Python\" comentaremos los distintos sistemas que deben desarrollarse e integrarse cuando creamos una aplicaci\u00f3n de visi\u00f3n por computador para que pueda procesar video en tiempo real.\n\nIntroduciremos [Pipeless](https://www.pipeless.ai/), un framework de desarrollo que nos permite crear estas aplicaciones con tan solo un par de funciones Python. Finalmente, mostraremos y comentaremos algunos ejemplos pr\u00e1cticos.\n\nEste evento es impulsado por [IA Generativa Sevilla ](https://www.meetup.com/es-ES/ia-generativa-sevilla/)y organizado conjuntamente con Python Sevilla.",
   "shortDescription": null,
   "group": {
     "id": "18959885",
