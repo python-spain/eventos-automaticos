@@ -1,0 +1,28 @@
+{
+  "id": "299136811",
+  "title": "Debian: una comunidad para todos, m\u00e1s all\u00e1 de la tecnolog\u00eda",
+  "eventUrl": "https://www.meetup.com/python-valencia-meetup/events/299136811",
+  "description": "La comunidad Debian es una de las comunidades de software libre m\u00e1s grandes y activas del mundo. Con m\u00e1s de 1200 miembros activos y colaboradores de todo el planeta, Debian se encarga de desarrollar y mantener la distribuci\u00f3n GNU/Linux Debian, una de las m\u00e1s populares y estables del mercado.\nEn esta charla, exploraremos la organizaci\u00f3n y estructura de la comunidad Debian. Descubriremos c\u00f3mo se toman las decisiones, c\u00f3mo se organiza el trabajo y c\u00f3mo se resuelven los conflictos. Tambi\u00e9n conoceremos los diferentes roles y equipos que existen dentro de la comunidad, y las diversas formas en que puedes participar.\n\n## Breve resumen de trayectoria laboral\n\nMi pasi\u00f3n por la tecnolog\u00eda me llev\u00f3 a estudiar Ingenier\u00eda de Telecomunicaciones con especialidad en electr\u00f3nica. Comenc\u00e9 mi carrera desarrollando hardware para sistemas de bloqueo de trenes via sat\u00e9lite, y en mi tiempo libre exploraba el mundo de los microcontroladores y FPGA.\nEn 2005, me un\u00ed a Emdebian, empaquetando utilidades para el desarrollo de sistemas embebidos. Esta experiencia me abri\u00f3 las puertas a una comunidad apasionada por el software libre. Mi compromiso con Debian creci\u00f3 con el tiempo. Organic\u00e9 talleres, me un\u00ed al equipo de administradores de la infrastructura de Debian, ayude en la organizacion de la conferencia anual de Debian, adquiri compromisos como tesorero de la organizaci\u00f3n, etc.En resumen, mi trayectoria profesional ha estado marcada por la pasi\u00f3n por la tecnolog\u00eda y el compromiso con el software libre. A trav\u00e9s de mi participaci\u00f3n en Debian, he tenido la oportunidad de aprender, colaborar y contribuir a un proyecto global que beneficia a miles de personas y empresas alrededor del mundo.",
+  "shortDescription": null,
+  "group": {
+    "id": "16514622",
+    "name": "Python Valencia"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27591803",
+    "name": "wayCO Cabanyal | Coworking Val\u00e8ncia",
+    "address": "Carrer de Mari\u00e0 Cuber, 17",
+    "city": "Val\u00e8ncia",
+    "postalCode": "46011",
+    "lng": -0.334373,
+    "lat": 39.464138
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-02-27T18:30+01:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-02-27T20:30+01:00"
+}
