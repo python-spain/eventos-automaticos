@@ -1,0 +1,28 @@
+{
+  "id": "299074873",
+  "title": "Python Meetup February: Python World Congress",
+  "eventUrl": "https://www.meetup.com/python-barcelona/events/299074873",
+  "description": "For the second month of the year we have two awesome talks about **Pytest** and **about Queering the Map**:\n\\-\\-\\-\\-\n\n* \u27a1\ufe0f **What:** Pytest, a short hike.\n* \ud83d\udce2 **Who**: Itxaso (Txas) Aizpurua ([LinkedIn](https://es.linkedin.com/in/itxasoaizpurua))\n* \u23f1 **Duration**: 45'\n* \ud83d\udc45 **Language**: English\n* \ud83e\uddd0 **Abstract**: Pytest is the go-to testing framework for python. In this talk, we will go through the basics of pytest to get everyone up to speed, and then delve deeper into some concepts like fixtures, mocking, profiling, parallelization, logging capture, etc.\n\n\\-\\-\\-\n\n* \u27a1\ufe0f **What:** Analysis of the use and the discourse of the webpage \"Queering The Map\"\n* \ud83d\udce2 **Who**: Marta Garc\u00eda\n* \u23f1 **Duration**: 15'\n* \ud83d\udc45 **Language**: English\n* \ud83e\uddd0 **Abstract**: In 2017 Lucas LaRochelle created the webpage Queering The Map. Its purpose was to provide a safe space for queer people around the globe to share experiences anonymously, and link them to a physical space. The information of the page arises this question: How does race, gender, sexuality, citizenship, ability, and class affect the ways in which we relate to, move through, and create space?\n\nThis presentation aims to give some insights in the process of answering this question, respecting the anonymity of the community involved, through the analysis of the discourse of the shared experiences and its relationship with the physical space defined by each country.\n\n\\-\\-\\-\\-\n\u27a1\ufe0f Location\n\n* Zurich Offices: Carrer de Bac de Roda, 58 Building D\n\n\\-\\-\\-\\-\n\u27a1\ufe0f Access Control\n\n* \ud83d\udec2 The security access control requires an **attendee list** (full name) and a **means of identification** (DNI, NIE, passport)\n* \u26a0\ufe0f Make sure you register for the event with your **full name** and **ID**. Otherwise you will be REMOVED from the attendance list.\n* \ud83e\udeaa You\u2019ll be asked to provide that ID to access the building.\n* \ud83d\udeb8 People under 18 years old shall be accompanied by a legal guardian\n\n\\-\\-\\-\\-\n\u27a1\ufe0f Only register if you can attend!\n\n* \ud83e\ude91 There are limited seats, so please be responsible when signing up\n* \ud83d\udeb7 If you can't make it, please free up your seat, so someone else can attend. We keep a list with repeated offenders!\n\n\\-\\-\\-\\-\n\u27a1\ufe0f More at [PyBCN.org](https://pybcn.org/)\n\n* \ud83d\udce2 We need talk proposals! [Send yours](https://pybcn.org/pybcn_association/propose-a-talk/)\n* \ud83e\udd84 Wanna [publish a job offer](https://pybcn.org/job-offers)?\n* \ud83d\udc26 Follow [@PyBCN](https://twitter.com/pybcn) for pictures, slides, videos and more",
+  "shortDescription": null,
+  "group": {
+    "id": "831283",
+    "name": "Python Barcelona Meetup"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27752296",
+    "name": "Carrer de Bac de Roda, 58",
+    "address": "Carrer de Bac de Roda, 58",
+    "city": "Barcelona",
+    "postalCode": "08019",
+    "lng": 2.207144,
+    "lat": 41.405636
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-02-21T19:00+01:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-02-21T21:00+01:00"
+}
