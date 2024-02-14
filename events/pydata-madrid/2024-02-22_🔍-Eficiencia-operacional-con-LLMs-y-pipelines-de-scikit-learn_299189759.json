@@ -1,0 +1,28 @@
+{
+  "id": "299189759",
+  "title": "\ud83d\udd0d Eficiencia operacional con LLMs y pipelines de scikit-learn",
+  "eventUrl": "https://www.meetup.com/pydata-madrid/events/299189759",
+  "description": "PyData Madrid vuelve en febrero para hablar de Python, Datos, Visualizaci\u00f3n, Inteligencia Artificial, \u00a1y lo que surja!\n\nEste mes nos juntaremos en las oficinas de Adyen (calle Serrano 37), quienes generosamente han cedido su espacio.\n\nEn esta ocasi\u00f3n, tendremos el placer de contar con dos charlas:\n\n* **Zorana Bankovic** y **Mart\u00edn Iglesias** (19:15-19:45), Senior Data Scientist y Senior Machine Learning Engineer en Adyen respectivamente, hablar\u00e1n de c\u00f3mo est\u00e1n mejoran do la eficiencia operacional de sus equipos usando procesamiento del lenguaje natural y LLMs (en ingl\u00e9s).\n* **Irene Rodr\u00edguez** (20:00-20:30), Lead Data Scientist en Verti, desgranar\u00e1 los secretos de los pipelines de scikit-learn y c\u00f3mo hacer b\u00fasquedas de hiperpar\u00e1metros con ellos (en espa\u00f1ol).\n\nDespu\u00e9s de la reuni\u00f3n, nos quedaremos haciendo *networking* en las oficinas de Adyen.\n\nRecomendaciones generales:\n\n* \u00bfSabes mucho de Python y Datos? \u00bfSabes poco y quieres saber m\u00e1s? \u00a1En ambos casos, te damos la bienvenida!\n* Aplica \"la regla del comecocos\": si est\u00e1s en un c\u00edrculo, deja siempre un hueco para que otra persona se pueda unir.\n* Puede haber asistentes que no hablen bien espa\u00f1ol y que se manejen mejor en ingl\u00e9s. S\u00e9 paciente y \u00a1no dejes que se aburran!\n* En los eventos PyData rige un C\u00f3digo de Conducta [https://pydata.org/code-of-conduct/](https://pydata.org/code-of-conduct/) el resumen traducido: s\u00e9 amable, abstente de insultar y de hacer bromas sexistas, racistas, o excluyentes en general, y nada de insinuaciones sexuales a otras personas.\n\n\\*\\*\\*\nPyData Madrid comes back in February to talk about Python, Data, Visualization, Artificial Intelligence, and more!\n\nThis event will take place at Adyen (37 Serrano st).\n\nThis time, we will have the pleasure of having two talks:\n\n* **Zorana Bankovic** and **Mart\u00edn Iglesias** (19:15-19:45), Senior Data Scientist and Senior Machine Learning Engineer at Adyen respectively, will talk about driving operational efficiency using NLP and LLMs (in English).\n* **Irene Rodr\u00edguez** (20:00-20:30), Lead Data Scientist at Verti, will do a deep dive into scikit-learn pipelines and how to perform hyperparameter search with them (in Spanish).\n\nAfter the meeting, we will stay in the Adyen offices to do some networking.\n\nGeneral recommendations:\n\n* Are you an expert in Python and Data? Are you a beginner and you want to learn more? In both cases, you are very welcome!\n* Apply the \"Pacman rule\": if you're in a circle, leave a gap so that someone else can join.\n* If you don't speak good Spanish, we will do our best to make you feel comfortable. But be mindful that other attendees might want to use their native language in larger conversations. Use this opportunity to practice your Spanish! If you are bored, feel free approach the organizers and say \u00abHi!\u00bb\n* At PyData events there is a Code of Conduct [https://pydata.org/code-of-conduct/](https://pydata.org/code-of-conduct/) super short version: be kind (all else is details), abstain from insulting others or making sexist, racist, or other exclusionary jokes, and do absolutely not make sexual advances to other attendees.",
+  "shortDescription": null,
+  "group": {
+    "id": "23965442",
+    "name": "PyData Madrid"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27576766",
+    "name": "Adyen Madrid",
+    "address": "C. de Serrano, 37",
+    "city": "Madrid",
+    "postalCode": "28001",
+    "lng": -3.687575,
+    "lat": 40.428265
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-02-22T19:00+01:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-02-22T21:00+01:00"
+}
