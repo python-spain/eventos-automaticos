@@ -1,0 +1,28 @@
+{
+  "id": "299310107",
+  "title": "Breaking Barriers and Building Bridges",
+  "eventUrl": "https://www.meetup.com/pyladies-bcn/events/299310107",
+  "description": "Join us for an enlightening evening at Pyladies, where we bring together a diverse range of speakers to delve into the realms of data analysis and community support!\nOur lineup includes two engaging talks and a lightning talk that promises to leave you inspired and informed.\n\\-\\-\\-\\-\n\n* \u27a1\ufe0f **What:** Masterclass: Analyzing the Gender Gap with data analytics\n* \ud83d\udce2 **Who**: [Idoia Mart\u00ed](https://www.linkedin.com/in/idoiamartialuja/)\n* \u23f1 **Duration**: 45'\n* \ud83d\udc45 **Language**: English\n* \ud83e\uddd0 **Abstract**: Many people say the gender gap in income and occupation levels is overstated all over the world, and there are some say that inequality in the labor force is a thing of the past. Is there a REAL gender gap at all? Is it stronger in some industries than in others?Let's try to answer all those questions with REAL data! We are going to work with a dataset retrieved from the [U.S. Bureau of Labor Statistics](https://www.bls.gov/), which shows the median weekly incomes for different occupations.\n\n\\-\\-\\-\\-\n\n* \u27a1\ufe0f **What:** Step4ward: Empowering Women in Tech\n* \ud83d\udce2 **Who**: [Susana V\u00e1zquez](https://www.linkedin.com/in/su-vazquez/)\n* \u23f1 **Duration**: 5'\n* \ud83d\udc45 **Language**: Spanish\n* \ud83e\uddd0 **Abstract**: Come explore step4ward, a non-profit organization passionately crafted BY and FOR women. In just 5 minutes, learn how we're all about supporting women in the tech job market. We provide advice, build a community, and help with interview prep and early career steps. Let's break barriers and boost women in tech together!\n\n\\-\\-\\-\\-\n\n* \u27a1\ufe0f **What:** Analysis of the use and the discourse of \"Queering The Map\"\n* \ud83d\udce2 **Who**: [Marta Garc\u00eda](https://www.linkedin.com/in/marta-garcia-diez/)\n* \u23f1 **Duration**: 15'\n* \ud83d\udc45 **Language**: English\n* \ud83e\uddd0 **Abstract**: In 2017 Lucas LaRochelle created the webpage Queering The Map. Its purpose was to provide a safe space for queer people around the globe to share experiences anonymously, and link them to a physical space. The information of the page arises this question: How does race, gender, sexuality, citizenship, ability, and class affect the ways in which we relate to, move through, and create space?\nThis presentation aims to give some insights in the process of answering this question, respecting the anonymity of the community involved, through the analysis of the discourse of the shared experiences and its relationship with the physical space defined by each country.\n\n\\-\\-\\-\\-\n\u27a1\ufe0f Location\n[Adevinta Spain](https://www.google.com/maps/search/?api=1&query=41.403122%2C%202.192204)\nC/ de la Ciutat de Granada, 150 \u00b7 Barcelona, CT\nAdevinta Auditorium (ask at the registration desk)\n\\-\\-\\-\\-\n\n\u27a1\ufe0f Access Control (IMPORTANT!)\n\n* \ud83d\udec2 The security access control requires an **attendee list** (full name) and a **means of identification** (DNI, NIE, passport) otherwise you will be removed from the list.\n* \u2060Please remember our attendance policy: https://www.meetup.com/PyLadies-BCN/messages/81834174/.\n\nIn short:\n\n* If you are a man with a non-male friend attending the meetup: join the meetup and indicate which PyLady invited you\n* \u2060If you do not have any friend who can add you as their +1, don\u2019t worry! RSVP and send a brief message to the meetup organizer explaining why are you interested in attending that particular meetup.\n* \u2060Code of Conduct\nPlease keep in mind our Code of Conduct: http://www.pyladies.com/CodeOfConduct/\n* \ud83e\udeaa You\u2019ll be asked to provide that ID to access the building.\n* \ud83d\udeb8 People under 18 years old shall be accompanied by a legal guardian\n\n\\-\\-\\-\\-\n\u27a1\ufe0f Only register if you can attend!\n\n* \ud83e\ude91 There are limited seats, so please be responsible when signing up\n* \ud83d\udeb7 If you can't make it, please free up your seat, so someone else can attend. We keep a list of repeated offenders!\n\n\\-\\-\\-\\-\n\u27a1\ufe0f More at [PyBCN.org](https://pybcn.org/)\n\n* \ud83d\udce2 We need talk proposals: [Send yours](https://forms.gle/XfunZPPvBsqEFQLL8)\n* \ud83e\udd84 Wanna [publish a job offer](https://pybcn.org/job-offers)?\n* \ud83d\udc26 Follow [@PyladiesBCN](https://twitter.com/PyLadiesBCN), [@PyBCN](https://twitter.com/pybcn) for pictures, slides, videos and more\n\nDon't miss this opportunity to broaden your horizons, engage in insightful discussions and connect with a community passionate about breaking barriers and fostering inclusivity. See you at Pyladies! \ud83d\ude80\u2728",
+  "shortDescription": null,
+  "group": {
+    "id": "12994802",
+    "name": "PyLadies BCN"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "26699334",
+    "name": "Adevinta Spain",
+    "address": "C/ de la Ciutat de Granada, 150",
+    "city": "Barcelona",
+    "postalCode": "08018",
+    "lng": 2.192204,
+    "lat": 41.403122
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-03-06T19:00+01:00",
+  "duration": "PT2H30M",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-03-06T21:30+01:00"
+}
