@@ -1,0 +1,28 @@
+{
+  "id": "299136028",
+  "title": "Python Girona Mar\u00e7'24: GraphQL i maduixes \ud83d\udc0d\ud83c\udf53",
+  "eventUrl": "https://www.meetup.com/pythongirona/events/299136028",
+  "description": "\ud83d\uddd3\ufe0f **Data**: 14 de mar\u00e7\n\ud83d\udd56 **Hora**: 19:00h\n\ud83d\udccd **Lloc**: Centre Cultural de la Merc\u00e8, Girona\n\nAquest mar\u00e7 ens submergirem en el m\u00f3n de **GraphQL**: una alternativa poderosa a les APIs REST tradicionals. \ud83d\ude80\n\n**Qu\u00e8 aprendrem?**\n\n* **Qu\u00e8 \u00e9s GraphQL**? Descobrirem els fonaments de GraphQL, explorant la seva estructura, funcionament i com es compara amb les APIs REST.\n* **Avantatges i Desavantatges**: Analitzarem en detall els punts forts i els desafiaments de l'\u00fas de GraphQL versus API REST, proporcionant-te una visi\u00f3 clara per prendre decisions informades.\n* **Entrem en mat\u00e8ria**: Aprendrem a crear el nostre propi servidor amb GraphQL fent \u00fas de la llibreria \ud83c\udf53 Strawberry.\n\n**Lightning Talks:** \u26a1 Tindrem una sessi\u00f3 de Lightning Talks on qualsevol persona podr\u00e0 compartir breument (5 minuts) una idea, projecte, consell o qualsevol tema que cregui interessant.\n\n\ud83c\udf7d\ufe0f\ud83d\udc68\u200d\ud83d\udcbb **Sopar i Networking:** I no acaba aqu\u00ed! Despr\u00e9s de la xerrada, **ens quedarem a sopar** a un lloc proper per continuar parlant.\n\nAquest esdeveniment \u00e9s perfecte tant per a persones expertes com per a principiants en el m\u00f3n de Python. T'esperem per compartir i aprendre en aquesta trobada tecnol\u00f2gica. No t'ho perdis! \ud83d\udcbb\u2764\ufe0f\n\n\u26a1 **Recorda!** \u26a1\nTenim un canal de [Telegram](https://t.me/pygrn) \ud83d\udcf2 obert per a tothom! \ud83c\udf1f\ud83d\udc6b\ud83c\udf10",
+  "shortDescription": null,
+  "group": {
+    "id": "20691695",
+    "name": "Python Girona"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27292681",
+    "name": "Centre Cultural de la Merc\u00e8",
+    "address": "Pujada de la Merc\u00e8, 12",
+    "city": "Girona",
+    "postalCode": "17004",
+    "lng": 2.82519,
+    "lat": 41.981735
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-03-14T19:00+01:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-03-14T21:00+01:00"
+}
