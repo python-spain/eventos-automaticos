@@ -1,0 +1,28 @@
+{
+  "id": "299507615",
+  "title": "PyDay 2024 | 1 keynote + 10 charlas rel\u00e1mpago",
+  "eventUrl": "https://www.meetup.com/pydatagrx/events/299507615",
+  "description": "Desde [PyData GRX](https://www.meetup.com/pydatagrx/) y [Python Granada](https://www.meetup.com/python-granada/) os invitamos a participar en el \ud83d\udc0d PyDay 2024. Con motivo del d\u00eda de \u03c0, ambos grupos nos juntamos con un evento especial \ud83c\udf89.\n\nContaremos con \u26a1 10 charlas rel\u00e1mpago de 10 minutos y \ud83d\udce2 una keynote de 25 minutos. Para finalizar, os invitaremos a pizzas \ud83c\udf55 gracias al patrocinio de C\u00edvica.\n\n**\ud83d\uddfa Lugar**\nSal\u00f3n de actos de la E.T.S. de Ingenier\u00edas inform\u00e1tica y de telecomunicaci\u00f3n de la Universidad de Granada\n\n**\ud83d\udd50 Horario provisional**\n18:00 Apertura\n18:10 \u26a1 Charlas rel\u00e1mpago \u26a1\n20:05 Keynote\n20:20 Pizzas patrocinadas por C\u00edvica\n\n**\ud83d\ude4f Agradecimientos**\n\n* [NumFOCUS](https://numfocus.org/)\n* [Oficina de Software Libre de la Universidad de Granada](https://osl.ugr.es/)\n* [ETSIIT](https://etsiit.ugr.es/)\n* [UGR](https://www.ugr.es/)\n* [Python Espa\u00f1a](https://es.python.org/)\n* [C\u00edvica](https://civica-soft.com/)\n\n**\ud83c\udfad C\u00f3digo de conducta**\nLos eventos de PyData Granada se rigen por los c\u00f3digos de conducta de [NumFocus](https://numfocus.org/code-of-conduct) y de la [Python Software Foundation](https://www.python.org/psf/conduct/).\n\n**\u25b6 \u00a1S\u00edguenos en redes!**\n\n* Twitter/X: [@PyDataGRX](https://twitter.com/PyDataGRX) [@python_granada](https://twitter.com/python_granada)\n* Mastodon: [@PyDataGRX@masto.ai](https://masto.ai/@pydatagrx)\n* LinkedIn: [pydata-grx](https://www.linkedin.com/company/pydata-grx/)\n* Telegram: [Python Granada](https://t.me/pythongrx)",
+  "shortDescription": null,
+  "group": {
+    "id": "36725854",
+    "name": "PyData GRX"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "26213426",
+    "name": "E.T.S. of Computer and Telecommunication Engineering",
+    "address": "C. Periodista Daniel Saucedo Aranda, s/n",
+    "city": "Granada",
+    "postalCode": "18014",
+    "lng": -3.624551,
+    "lat": 37.197056
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-03-14T18:00+01:00",
+  "duration": "PT3H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-03-14T21:00+01:00"
+}
