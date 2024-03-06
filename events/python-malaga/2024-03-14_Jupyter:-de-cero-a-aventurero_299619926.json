@@ -1,0 +1,28 @@
+{
+  "id": "299619926",
+  "title": "Jupyter: de cero a aventurero",
+  "eventUrl": "https://www.meetup.com/python_malaga/events/299619926",
+  "description": "Una introducci\u00f3n a Jupyter y su ecosistema. Con esta charla acabar\u00e1s conociendo algunas de las formas de instalar y gestionar Jupyter y sus variantes, veremos c\u00f3mo usarlo no solo para data science e incluso discutiremos algunas extensiones.\n\nEl p\u00fablico objetivo son personas que han tenido poca o ninguna exposici\u00f3n a Jupyter pero que creen que podr\u00eda ayudarle en alg\u00fan proyecto, en su d\u00eda a d\u00eda o simplemente tiene curiosidad.",
+  "shortDescription": null,
+  "group": {
+    "id": "33344430",
+    "name": "Python M\u00e1laga"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "26151065",
+    "name": "Codespace Academy",
+    "address": "C. Compositor Lehmberg Ruiz, 13",
+    "city": "M\u00e1laga",
+    "postalCode": "29007",
+    "lng": -4.433818,
+    "lat": 36.71779
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-03-14T19:00+01:00",
+  "duration": "PT1H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-03-14T20:00+01:00"
+}
