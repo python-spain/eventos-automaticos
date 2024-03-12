@@ -1,0 +1,28 @@
+{
+  "id": "299749589",
+  "title": "\u23e9 Anal\u00edtica acelerada con Shapelets y conformal prediction",
+  "eventUrl": "https://www.meetup.com/pydata-madrid/events/299749589",
+  "description": "PyData Madrid vuelve en marzo para hablar de Python, Datos, Visualizaci\u00f3n, Inteligencia Artificial, \u00a1y lo que surja!\n\nEste mes nos juntaremos en The Bridge (paseo de Recoletos), que generosamente ha cedido su espacio.\n\nTendremos el placer de contar con dos charlas m\u00e1s una r\u00e1pida:\n\n* **Justo Ruiz Ferrer** y **Adri\u00e1n Carrio Fern\u00e1ndez** (19:15-19:45), CEO y Lead Data Scientist de Shapelets respectivamente, hablar\u00e1n sobre bases de datos vectoriales y sus aplicaciones en series temporales (en espa\u00f1ol).\n* **Carl McBride Ellis** (20:00-20:30), Data Scientist freelance, explicar\u00e1 c\u00f3mo aplicar la t\u00e9cnica de conformal prediction usando bibliotecas como MAPIE (en ingl\u00e9s).\n* **Samuel L\u00f3pez Santamar\u00eda** (20:30-20:40), Data Scientist freelance, contar\u00e1 brevemente su experiencia siendo aut\u00f3nomo y dar\u00e1 algunos trucos (en espa\u00f1ol).\n\nDespu\u00e9s de la reuni\u00f3n, nos quedaremos un rato en The Bridge haciendo networking. Pero en esta ocasi\u00f3n no tenemos patrocinador para las bebidas \ud83e\udd72 si nos quieres ayudar, escr\u00edbenos (\u00a1el tiempo apremia!)\n\nRecomendaciones generales:\n\n* \u00bfSabes mucho de Python y Datos? \u00bfSabes poco y quieres saber m\u00e1s? \u00a1En ambos casos, te damos la bienvenida!\n* Aplica \"la regla del comecocos\": si est\u00e1s en un c\u00edrculo, deja siempre un hueco para que otra persona se pueda unir.\n* Puede haber asistentes que no hablen bien espa\u00f1ol y que se manejen mejor en ingl\u00e9s. S\u00e9 paciente y \u00a1no dejes que se aburran!\n* En los eventos PyData rige un C\u00f3digo de Conducta [https://pydata.org/code-of-conduct/](https://pydata.org/code-of-conduct/) el resumen traducido: s\u00e9 amable, abstente de insultar y de hacer bromas sexistas, racistas, o excluyentes en general, y nada de insinuaciones sexuales a otras personas.\n\n\\*\\*\\*\nPyData Madrid comes back in March to talk about Python, Data, Visualization, Artificial Intelligence, and more!\n\nThis event will take place at The Bridge (Paseo de Recoletos).\n\nWe will have two talks plus a short one:\n\n* **Justo Ruiz Ferrer** and **Adri\u00e1n Carrio Fern\u00e1ndez** (19:15-19:45), CEO and Lead Data Scientist at Shapelets respectively, will talk about vector databases and their applications for time series processing (in Spanish).\n* **Carl McBride Ellis** (20:00-20:30), freelance Data Scientist, will explain how to use libraries like MAPIE to apply conformal prediction (in English).\n* **Samuel L\u00f3pez Santamar\u00eda** (20:30-20:40), freelance Data Scientist, will tell us his experience being freelance and give some tips and tricks (in Spanish).\n\nAfter the meeting we will stay a few minutes inside The Bridge to do some networking. But this time we don't have sponsor for the beers \ud83e\udd72 if you want to help, reach out (time is running out!)\n\nGeneral recommendations:\n\n* Are you an expert in Python and Data? Are you a beginner and you want to learn more? In both cases, you are very welcome!\n* Apply the \"Pacman rule\": if you're in a circle, leave a gap so that someone else can join.\n* If you don't speak good Spanish, we will do our best to make you feel comfortable. But be mindful that other attendees might want to use their native language in larger conversations. Use this opportunity to practice your Spanish! If you are bored, feel free approach the organizers and say \u00abHi!\u00bb\n* At PyData events there is a Code of Conduct [https://pydata.org/code-of-conduct/](https://pydata.org/code-of-conduct/) super short version: be kind (all else is details), abstain from insulting others or making sexist, racist, or other exclusionary jokes, and do absolutely not make sexual advances to other attendees.",
+  "shortDescription": null,
+  "group": {
+    "id": "23965442",
+    "name": "PyData Madrid"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "HYBRID",
+  "venue": {
+    "id": "26842039",
+    "name": "The Bridge | Digital Talent Accelerator",
+    "address": "P.\u00ba de Recoletos, 15",
+    "city": "Madrid",
+    "postalCode": "28004",
+    "lng": -3.692671,
+    "lat": 40.42151
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-03-20T19:00+01:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-03-20T21:00+01:00"
+}
