@@ -1,0 +1,28 @@
+{
+  "id": "299261127",
+  "title": "Python Meetup March: Rustacean Python Skills \ud83d\udc0d \ud83e\udd80",
+  "eventUrl": "https://www.meetup.com/python-barcelona/events/299261127",
+  "description": "For the month of march, we have a double session about **Rust** \ud83e\udd80 !:\n\\-\\-\\-\\-\n\n* \u27a1\ufe0f **What: Python and Rust**\n* \ud83d\udce2 **Who**: Dirk L\u00fcdtke\n* \u23f1 **Duration**: 30 minutes\n* \ud83d\udc45 **Language**: English\n* \ud83e\uddd0 **Abstract**: As a passionate Python developer who has recently started to learn Rust, I would like to share my experiences how these two programming languages complement each other and how one can use both of them to optimize the own projects.\n\n\\-\\-\\-\n\n* \u27a1\ufe0f **What: Hands on Polars \ud83d\udc3b\u200d\u2744\ufe0f, an alternative to data frames leveraging in Rust**\n* \ud83d\udce2 **Who**: Javier Mart\u00ednez\n* \u23f1 **Duration**: 30 minutes\n* \ud83d\udc45 **Language**: English\n* \ud83e\uddd0 **Abstract**: Data frames are daily bread and butter in data science. Most of us use Pandas \ud83d\udc3c data frames as the main tool when performing our analysis.\n\nIn this session we are going to introduce Polars a relatively new library written in Rust that could be handy in our toolbox. We will compare its performance, put our hands on it and try to find which is the best way to replace analysis done with Pandas with Polars. All of it with a pinch of Rust.\n\n\\-\\-\\-\\-\n\u27a1\ufe0f Location\nCodurance:\n[Carrer de Pallars 99, 4th floor, room 41, Barcelona, 08018](https://maps.app.goo.gl/Z7eb1XyPJZYfLM3h8)\n\n\\-\\-\\-\\-\n\u27a1\ufe0f Access Control\n\n* \ud83d\udec2 The security access control requires an **attendee list** (full name) and a **means of identification** (DNI, NIE, passport)\n* \u26a0\ufe0f Make sure you register for the event with your **full name** and **ID**. Otherwise, you will be REMOVED from the attendance list.\n* \ud83e\udeaa You\u2019ll be asked to provide that ID to access the building.\n* \ud83d\udeb8 People under 18 years old shall be accompanied by a legal guardian\n\n\\-\\-\\-\\-\n\u27a1\ufe0f Only register if you can attend!\n\n* \ud83e\ude91 There are limited seats, so please be responsible when signing up\n* \ud83d\udeb7 If you can't make it, please free up your seat, so someone else can attend. We keep a list with repeated offenders!\n\n\\-\\-\\-\\-\n\u27a1\ufe0f More at [PyBCN.org](https://pybcn.org/)\n\n* \ud83d\udce2 We need talk proposals! [Send yours](https://pybcn.org/pybcn_association/propose-a-talk/)\n* \ud83e\udd84 Want to [publish a job offer](https://pybcn.org/job-offers)?\n* \ud83d\udc26 Follow [@PyBCN](https://twitter.com/pybcn) for pictures, slides, videos and more",
+  "shortDescription": null,
+  "group": {
+    "id": "831283",
+    "name": "Python Barcelona Meetup"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "26126132",
+    "name": "Codurance",
+    "address": "C. de Pallars, 99",
+    "city": "Barcelona",
+    "postalCode": "08011",
+    "lng": 2.190716,
+    "lat": 41.396088
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-03-21T18:30+01:00",
+  "duration": "PT2H30M",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-03-21T21:00+01:00"
+}
