@@ -1,0 +1,28 @@
+{
+  "id": "299829376",
+  "title": "PyBeers",
+  "eventUrl": "https://www.meetup.com/python-valencia-meetup/events/299829376",
+  "description": "Las PyBeers es un evento que consiste en reunirnos en el sitio indicado para conocer a personas dentro de la comunidad Python, intercambiar opiniones y experiencias a cerca de Python y/o la tecnolog\u00eda en general.\n\nTodas las personas est\u00e1n invitadas a acercarse y participar tanto si eres especialista en Python, una persona reci\u00e9n llegada a la comunidad o si no has tenido ning\u00fan contacto con ella anteriormente.\n\n\u00a1Te esperamos!",
+  "shortDescription": null,
+  "group": {
+    "id": "16514622",
+    "name": "Python Valencia"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27591803",
+    "name": "wayCO Cabanyal | Coworking Val\u00e8ncia",
+    "address": "Carrer de Mari\u00e0 Cuber, 17",
+    "city": "Val\u00e8ncia",
+    "postalCode": "46011",
+    "lng": -0.334373,
+    "lat": 39.464138
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-03-26T18:30+01:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-03-26T20:30+01:00"
+}
