@@ -1,0 +1,28 @@
+{
+  "id": "300567555",
+  "title": "Polars, bearing DataFrame manipulation",
+  "eventUrl": "https://www.meetup.com/pydata-salamanca/events/300567555",
+  "description": "**\u00a1Volvemos con PyData Salamanca!**\nEl pr\u00f3ximo \ud83d\udcc5 Martes 30 de Abril de este 2024 estaremos de vuelta y nos traemos a Alberto Ando para que nos presente Polars.\n\n**#PyBeers**\nTras la charla se propondr\u00e1 un lugar para que nos juntemos y charlemos un rato, para que podamos conocernos un poco y compartir experiencias.\n\n**\ud83d\udce2 \u00a1Buscamos voluntarios!**\nSi te apasiona (o buscas que te apasione) el mundo de los datos, env\u00edanos un correo a pydata[at]dani-pi[dot]com para atenderos. Buscamos colaboradores y divulgadores \ud83d\ude04. An\u00edmate a presentar algo a la comunidad!\n\n**Resumen de la presentaci\u00f3n**\n\"\"\"\nAl trabajar en la manipulaci\u00f3n de datos con DataFrames, encontramos diferentes retos. Estos retos van cambiando seg\u00fan el tipo de datos y m\u00e1s importante, seg\u00fan el tama\u00f1o de nuestros datos. A medida que nuestros conjuntos de datos crecen, tambi\u00e9n lo hacen los obst\u00e1culos. Datos m\u00e1s grandes conllevan operaciones que consumen tiempo y procesos que devoran la memoria, ralentizando nuestro flujo de trabajo y obstaculizando la productividad.\n\nMedidas com\u00fanmente utilizadas como Pandas no son soluciones viables para este tipo de escenarios, y por tanto tenemos que hacer uso de otras herramientas. En esta charla veremos qu\u00e9 es Polars, una librer\u00eda basada en Rust, y como nos permite lidiar con varios de los problemas vistos.\n\n\u00danete a nosotros para entender una nueva forma de lidiar con los datos m\u00e1s r\u00e1pida y optimizando el uso de memoria, de una forma simple y familiar, que transformar\u00e1 tu flujos de trabajo con datos.\n\"\"\"",
+  "shortDescription": null,
+  "group": {
+    "id": "30890235",
+    "name": "PyData Salamanca"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "26066043",
+    "name": "Edificio Multiusos I+D+i Universidad de Salamanca",
+    "address": "C. Espejo, 2",
+    "city": "Salamanca",
+    "postalCode": "37007",
+    "lng": -5.671127,
+    "lat": 40.965298
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-04-30T19:00+02:00",
+  "duration": "PT1H30M",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-04-30T20:30+02:00"
+}
