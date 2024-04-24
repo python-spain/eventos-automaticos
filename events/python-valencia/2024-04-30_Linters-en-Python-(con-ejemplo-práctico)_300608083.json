@@ -1,0 +1,28 @@
+{
+  "id": "300608083",
+  "title": "Linters en Python (con ejemplo pr\u00e1ctico)",
+  "eventUrl": "https://www.meetup.com/python-valencia-meetup/events/300608083",
+  "description": "Entre las diferentes herramientas que disponemos en python para mejorar la calidad de nuestro c\u00f3digo, los linters destacan por su inmediatez y sencillez. En esta charla hablaremos de nuestra experiencia real instalando y usando Ruff, el linter de moda. Adem\u00e1s, veremos un caso pr\u00e1ctico de mejora de c\u00f3digo gracias al uso del linter.\n\n## Breve resumen de trayectoria laboral\n\n* Julio Mart\u00ednez: Staff Engineer en Datamaran. Lleva desde 2004 trabajando en la industria. Empez\u00f3 como desarrollador web, para especializarse en backend y m\u00e1s tarde en big data. Ha trabajado en compa\u00f1\u00edas como Ulabox (Barcelona), Hybrid Theory (Londres) y Datamaran (Valencia - Londres).\n* Elena M. Codonyer : Software Engineer en Datamaran. Lleva desde 2020 trabajando en Datamaran, donde empez\u00f3 como Data Scientist. M\u00e1s tarde se ha especializado en backend, con un inter\u00e9s en la mejora de la calidad de c\u00f3digo.",
+  "shortDescription": null,
+  "group": {
+    "id": "16514622",
+    "name": "Python Valencia"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27591803",
+    "name": "wayCO Cabanyal | Coworking Val\u00e8ncia",
+    "address": "Carrer de Mari\u00e0 Cuber, 17",
+    "city": "Val\u00e8ncia",
+    "postalCode": "46011",
+    "lng": -0.334373,
+    "lat": 39.464138
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-04-30T18:30+02:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-04-30T20:30+02:00"
+}
