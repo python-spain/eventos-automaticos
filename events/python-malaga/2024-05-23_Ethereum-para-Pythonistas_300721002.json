@@ -1,0 +1,28 @@
+{
+  "id": "300721002",
+  "title": "Ethereum para Pythonistas",
+  "eventUrl": "https://www.meetup.com/python_malaga/events/300721002",
+  "description": "18:00-18:30 Introducci\u00f3n, resumen de los pr\u00f3ximos eventos de Python M\u00e1laga y de otras comunidades de nuestra viudad\n18:30-19:30 Ethereum para Pythonistas\n19:30-20:00 Ronda de preguntas y cierre del evento\n\nEn esta charla hablaremos sobre Ethereum, una plataforma blockchain para el desarrollo de aplicaciones descentralizadas y \"trustless\" (es decir, aplicaciones en las que los usuarios no tenemos que confiar en la disponibilidad de un servidor, y aun m\u00e1s importante, en su honestidad, ya que la computaci\u00f3n es distribuida), pero enfoc\u00e1ndonos en qu\u00e9 recursos tenemos como Pythonistas.",
+  "shortDescription": null,
+  "group": {
+    "id": "33344430",
+    "name": "Python M\u00e1laga"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "26151065",
+    "name": "Codespace Academy",
+    "address": "C. Compositor Lehmberg Ruiz, 13",
+    "city": "M\u00e1laga",
+    "postalCode": "29007",
+    "lng": -4.433818,
+    "lat": 36.71779
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-05-23T18:00+02:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-05-23T20:00+02:00"
+}
