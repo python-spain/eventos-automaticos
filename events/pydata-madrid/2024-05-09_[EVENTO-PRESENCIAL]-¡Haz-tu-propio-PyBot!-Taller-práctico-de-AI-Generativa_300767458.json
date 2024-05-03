@@ -1,0 +1,28 @@
+{
+  "id": "300767458",
+  "title": "[EVENTO PRESENCIAL] \u00a1Haz tu propio PyBot! Taller pr\u00e1ctico de AI Generativa",
+  "eventUrl": "https://www.meetup.com/pydata-madrid/events/300767458",
+  "description": "\ud83c\udf89 **\u00a1Regresa PyData Madrid!** \ud83c\udf89\n\u00danete a nosotros este comienzo de mes para una experiencia \u00fanica con un **taller pr\u00e1ctico presencial** dise\u00f1ado para profundizar tus conocimientos y habilidades. \ud83d\udcca\ud83d\udc0d\n\nEste mes nos juntaremos en BBVA AI Factory (Avenida de Manoteras 44), que generosamente ha cedido su espacio.\n\n*\u26a0\ufe0f* **Informaci\u00f3n importante para la inscripci\u00f3n:** Para asegurar tu acceso al edificio y la conexi\u00f3n WiFi durante el evento, necesitamos algunos datos esenciales:\n\n* *Nombre completo*\n* *DNI*\n* *Correo electr\u00f3nico*\n\n\ud83d\udcdd ***Para esta ocasi\u00f3n, es imprescindible completar la inscripci\u00f3n a trav\u00e9s del siguiente formulario:***\n\n*\u270d [Inscripci\u00f3n aqu\u00ed](https://airtable.com/appv514PeSR9AEdHF/pagL3ao0tt7zLrM3B/form)*\n\nTendremos el placer de contar con un taller (en Espa\u00f1ol) impartido por:\n\n* **Alejandro Vidal** (18:00-21:00). *Fundador de Mindmakers.*\n\nEn esta sesi\u00f3n crearemos desde cero un chatbot para asistirnos con nuestro c\u00f3digo de Python. Aprenderemos c\u00f3mo hacer RAG, a\u00f1adir herramientas e incluso c\u00f3mo atacar (y defender) estos sistemas basados en sistemas de lenguaje natural.\n\nUn taller muy aplicado donde desmitificaremos algunos conceptos y acabaremos con conceptos avanzados. No se requiere experiencia previa con LLM. S\u00ed es necesario fluidez con Python y un REPL (usaremos Jupyter). Antes de la sesi\u00f3n se ***requiere tener un cuenta de OpenAI activa y con cr\u00e9ditos para realizar los ejercicios.***\n\nRecomendaciones generales:\n\n* \u00bfSabes mucho de Python y Datos? \u00bfSabes poco y quieres saber m\u00e1s? \u00a1En ambos casos, te damos la bienvenida!\n* Aplica \"la regla del comecocos\": si est\u00e1s en un c\u00edrculo, deja siempre un hueco para que otra persona se pueda unir.\n* Puede haber asistentes que no hablen bien espa\u00f1ol y que se manejen mejor en ingl\u00e9s. S\u00e9 paciente y \u00a1no dejes que se aburran!\n* En los eventos PyData rige un C\u00f3digo de Conducta [https://pydata.org/code-of-conduct/](https://pydata.org/code-of-conduct/) el resumen traducido: s\u00e9 amable, abstente de insultar y de hacer bromas sexistas, racistas, o excluyentes en general, y nada de insinuaciones sexuales a otras personas.\n\n\\*\\*\\*\n\ud83c\udf89 **PyData Madrid is back!** \ud83c\udf89\n\nJoin us at the start of this month for a unique experience featuring a practical workshop designed to deepen your knowledge and skills. \ud83d\udcca\ud83d\udc0d\n\nThis month, we'll gather at BBVA AI Factory (Avenida de Manoteras 44), who has generously provided their space.\n\n\u26a0\ufe0f **Important Registration Information:** To ensure your access to the building and WiFi connectivity during the event, we need some essential information:\n\n* Full Name\n* DNI (National ID number)\n* Email Address\n\n\ud83d\udcdd \\*\\****For this occasion, it will also be necessary to sign up using the following form:***\n\n*\u270d[Sign up here](https://airtable.com/appv514PeSR9AEdHF/pagL3ao0tt7zLrM3B/form)*\n\nWe are pleased to have a workshop with:\n\n* **Alejandro Vidal (18:00-21:00**). *Founder of MindMakers.*\n\nIn this session, we will create a chatbot from scratch to assist us with our Python coding. We'll learn how to make RAG, add tools, and even how to attack (and defend) these systems based on natural language processing.\nA highly applied workshop where we will demystify some concepts and finish with advanced topics. No previous experience with LLMs is required. **Fluency in Python and a REPL (we will use Jupyter) is necessary. Before the session, you must have an active OpenAI account with credits to carry out the exercises.**\n\nGeneral recommendations:\n\n* Are you an expert in Python and Data? Are you a beginner and you want to learn more? In both cases, you are very welcome!\n* Apply the \"Pacman rule\": if you're in a circle, leave a gap so that someone else can join.\n* If you don't speak good Spanish, we will do our best to make you feel comfortable. But be mindful that other attendees might want to use their native language in larger conversations. Use this opportunity to practice your Spanish! If you are bored, feel free approach the organizers and say \u00abHi!\u00bb\n* At PyData events there is a Code of Conduct [https://pydata.org/code-of-conduct/](https://pydata.org/code-of-conduct/) super short version: be kind (all else is details), abstain from insulting others or making sexist, racist, or other exclusionary jokes, and do absolutely not make sexual advances to other attendees.",
+  "shortDescription": null,
+  "group": {
+    "id": "23965442",
+    "name": "PyData Madrid"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "HYBRID",
+  "venue": {
+    "id": "27597721",
+    "name": "BBVA AI Factory",
+    "address": "Av. de Manoteras, 44",
+    "city": "Madrid",
+    "postalCode": "28050",
+    "lng": -3.664584,
+    "lat": 40.487144
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-05-09T18:00+02:00",
+  "duration": "PT3H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-05-09T21:00+02:00"
+}
