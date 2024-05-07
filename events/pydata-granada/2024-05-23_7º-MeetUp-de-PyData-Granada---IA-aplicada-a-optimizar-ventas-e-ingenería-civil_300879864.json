@@ -1,0 +1,28 @@
+{
+  "id": "300879864",
+  "title": "7\u00ba MeetUp de PyData Granada - IA aplicada a optimizar ventas e ingener\u00eda civil",
+  "eventUrl": "https://www.meetup.com/pydatagrx/events/300879864",
+  "description": "**== \ud83d\udd52 AGENDA ==**\n**6:15pm** \\- Apertura de puertas y networking\n**6:25pm** \\- Breve presentaci\u00f3n de [PyData Granada](https://www.meetup.com/pydatagrx) y bienvenida de nuestro sponsor [Certinia](https://certinia.com/)\n**6:35pm** **\\- C\u00f3mo el modelado de datos y el aprendizaje autom\u00e1tico optimizan las actividades de ventas para el crecimiento empresarial**\nEn la era del Big Data, las empresas tienen acceso a grandes cantidades de informaci\u00f3n, pero es la utilizaci\u00f3n eficaz de estos datos lo que diferencia a las empresas de \u00e9xito. Aqu\u00ed es donde entran en juego el modelado de datos y el aprendizaje autom\u00e1tico, que ofrecen potentes herramientas para optimizar las actividades de ventas e impulsar el crecimiento empresarial. Esta charla explora c\u00f3mo estas t\u00e9cnicas, implementadas utilizando Polars para el modelado de datos y scikit-learn para el aprendizaje autom\u00e1tico, pueden revolucionar las estrategias de ventas. Exploraremos la importancia de la calidad de los datos, el modelado eficiente de datos y la aplicaci\u00f3n de algoritmos de aprendizaje autom\u00e1tico para mejorar el rendimiento de las ventas y lograr un crecimiento sostenible.\n**Ponentes**:\n\n* **Jos\u00e9 Antonio Ruiz Mill\u00e1n** es Data Engineer del equipo de datos de Certinia.\n* **Jos\u00e9 Santos Salvador** es Data Engineer del equipo de datos de Certinia.\n\n**7:05pm - El gemelo digital en ingenier\u00eda civil**\nLa ingenier\u00eda civil se encuentra en una coyuntura cr\u00edtica del siglo XXI, enfrentando una serie de desaf\u00edos y oportunidades que demandan un cambio en las pr\u00e1cticas y metodolog\u00edas tradicionales. Con numerosas estructuras construidas llegando al final de su vida \u00fatil, surge la necesidad imperiosa de implantar soluciones sostenibles y tecnol\u00f3gicamente avanzadas. Con el fin de abordar este desaf\u00edo, se presenta un marco conceptual integral de gemelo digital, considerando aspectos como el envejecimiento de las infraestructuras y su digitalizaci\u00f3n, la necesidad de modelos anal\u00edticos que funcionen en tiempo real y la escasez de datos para su entrenamiento. Se investigan estrategias para la operaci\u00f3n y mantenimiento, as\u00ed como la adopci\u00f3n cohesionada de tecnolog\u00edas digitales, como el Modelado de Informaci\u00f3n de Construcci\u00f3n (BIM), el Internet de las Cosas (IoT) y la Inteligencia Artificial (IA), empleando modelos de deep learning tanto generativos (conditional WGAN-GP) como predictivos (regresores y clasificadores basados en CNNs).\n**Ponente**:\n\n* **Mar\u00eda Meg\u00eda Carde\u00f1oso** es ingeniera de caminos, canales y puertos por la Universidad de Granada, con 20 a\u00f1os de experiencia en obra civil y proyectos en Espa\u00f1a y Am\u00e9rica, y 5 a\u00f1os en ciencia de datos y machine learning. Consultora para la UE en los programas H2020 y Horizonte Europa, es especialista en I+D+i y reci\u00e9n doctorada en la tecnolog\u00eda del gemelo digital. [LinkedIn](www.linkedin.com/in/maria-megia-cardenoso).\n\n**7:35pm - Networking**\n\u00bfTe gustar\u00eda hablar en este meetup o en uno futuro? Env\u00edanos tu propuesta a trav\u00e9s de nuestras redes sociales.\n\n**\ud83d\ude4f Agradecimientos**\n\n* [NumFOCUS](https://numfocus.org/)\n* [Oficina de Software Libre de la Universidad de Granada](https://osl.ugr.es/)\n* [Python Espa\u00f1a](https://es.python.org/)\n* [Certinia](https://certinia.com/)\n\n**\ud83c\udfad C\u00f3digo de conducta**\nLos eventos de PyData Granada se rigen por los c\u00f3digos de conducta de [NumFocus](https://numfocus.org/code-of-conduct) y de la [Python Software Foundation](https://www.python.org/psf/conduct/).\n\n**\u2728 \u00bfQu\u00e9 es PyData?**\nPyData es una comunidad diversa de personas interesadas en el uso y desarrollo de herramientas de an\u00e1lisis de datos con el objetivo de compartir ideas y aprender. Nos reunimos para discutir las mejores pr\u00e1cticas, nuevos enfoques y tecnolog\u00edas emergentes para la gesti\u00f3n de datos, procesamiento, an\u00e1lisis y visualizaci\u00f3n. Utilizamos muchos lenguajes de programaci\u00f3n, incluyendo (pero no limitado a) Python, Julia y R.\n\n**\u25b6 \u00a1S\u00edguenos en redes!**\n\n* Twitter/X: [@PyDataGRX](https://twitter.com/PyDataGRX)\n* Mastodon: [@PyDataGRX@masto.ai](https://masto.ai/@pydatagrx)\n* LinkedIn: [pydata-grx](https://www.linkedin.com/company/pydata-grx/)",
+  "shortDescription": null,
+  "group": {
+    "id": "36725854",
+    "name": "PyData GRX"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27807790",
+    "name": "Certinia",
+    "address": "Av. San Rafael, 1",
+    "city": "Armilla",
+    "postalCode": "18100",
+    "lng": -3.616573,
+    "lat": 37.15368
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-05-23T18:15+02:00",
+  "duration": "PT2H45M",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-05-23T21:00+02:00"
+}
