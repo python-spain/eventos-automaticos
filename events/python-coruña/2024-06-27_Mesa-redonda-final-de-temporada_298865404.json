@@ -1,0 +1,28 @@
+{
+  "id": "298865404",
+  "title": "Mesa redonda final de temporada",
+  "eventUrl": "https://www.meetup.com/python-a-coruna/events/298865404",
+  "description": "Se acerca el par\u00f3n estival de julio y agosto y para terminar a lo grande la temporada de eventos vamos a realizar una mesa redonda en la que varios representantes (algunos a\u00fan por confirmar) de las distintas comunidades locales charlan sobre varios temas (a\u00fan por definir tambi\u00e9n) relacionados con la tecnolog\u00eda y el desarrollo de software.\n\nLos que vay\u00e1is como p\u00fablico tambi\u00e9n tendr\u00e9is vuestra oportunidad de expresar vuestras opiniones para que el evento sea m\u00e1s din\u00e1mico y enriquecedor para todos.\n\nEl evento se celebrar\u00e1 en las oficinas de Sngular (c/Sor Joaquina, 2), empresa que adem\u00e1s de cedernos el espacio tambi\u00e9n nos patrocina el networking con unas bebidas.\n\nTras el evento, algunos nos quedaremos a cenar por la zona del evento para seguir charlando un rato m\u00e1s.",
+  "shortDescription": null,
+  "group": {
+    "id": "36742904",
+    "name": "Python A Coru\u00f1a"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27589173",
+    "name": "R\u00faa Sor Joaquina, 2",
+    "address": "R\u00faa Sor Joaquina, 2",
+    "city": "A Coru\u00f1a",
+    "postalCode": "15011",
+    "lng": -8.419471,
+    "lat": 43.372894
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-06-27T19:30+02:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-06-27T21:30+02:00"
+}
