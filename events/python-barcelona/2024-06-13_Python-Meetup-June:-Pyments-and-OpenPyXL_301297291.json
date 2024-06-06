@@ -1,0 +1,28 @@
+{
+  "id": "301297291",
+  "title": "Python Meetup June: Pyments and OpenPyXL",
+  "eventUrl": "https://www.meetup.com/python-barcelona/events/301297291",
+  "description": "For the month of june, we have two amazing talks about **Online Payments** and **OpenPYXL**!\n\\-\\-\\-\nSchedule:\n\n* \ud83d\udc4b 18:30: Hi!\n* \ud83d\udde3\ufe0f 19:00: Talks!\n* \ud83c\udf55 **&** \ud83c\udf7b 20:00: Networking, food and drinks!\n* \ud83d\udc4b 21:00: Bye!\n\n\\-\\-\\-\n\n* \u27a1\ufe0f **What:** Pyments: How To Design Payment Applications In Python\n* \ud83d\udce2 **Who**: Alvaro Duran\n* \u23f1 **Duration**: 30 minutes\n* \ud83d\udc45 **Language**: English\n* \ud83e\uddd0 **Abstract**: \"Payments are a massive part of how the world works. But most engineers know very little about it. That\u2019s sad, because, as more and more of business happens online, there\u2019s an increasing demand for payment applications that are scalable, and maintainable. Besides, Python is a great programming language to build payment applications! It is very interoperable, has a thriving open source community, and even non-engineers can contribute significantly to software built with it. In payments, readability counts, too!\nIn this talk, we\u2019re going to dive deep into how to build money software effectively. You\u2019ll learn why Python and payments are a match made in heaven, and how to leverage the language to build your own payment applications, in-house, fast, and effectively. That way, you\u2019ll cut some intermediaries in the process, saving your company a lot of money. It is no wonder why software engineers that can build payment applications are in high demand, they can point to their code and say \u201cthat prints money\u201d.\"\n\n\\-\\-\\-\\-\n\n* \u27a1\ufe0f **What:** Mastering Excel Automation with OpenPYXL\n* \ud83d\udce2 **Who**:Jordi Bosch\n* \u23f1 **Duration**: 30 minutes\n* \ud83d\udc45 **Language**: Spanish\n* \ud83e\uddd0 **Abstract**: Tired about complex VBA macros and functions? Join the Excel revolution as we see how OpenPYXL Python library changes how we work with spreadsheets. We'll discover how to handle data with a touch of Python magic.\nBy the end, you\u2019ll be an Excel expert, easily automating tasks and managing complex data with a few clicks. Get ready to improve your data skills!\n\n\\-\\-\\-\\-\n\u27a1\ufe0f Location:\n\\- Gartner \\- Hexagon Building\\, \u00c0laba\\, 121\\, 08018 Barcelona\n\n\\-\\-\\-\\-\n\u27a1\ufe0f Access Control\n\n* \ud83d\udec2 The security access control requires an **attendee list** (full name) and a **means of identification** (DNI, NIE, passport)\n* \u26a0\ufe0f Make sure you register for the event with your **full name** and **ID**. Otherwise, you will be REMOVED from the attendance list.\n* \ud83e\udeaa You\u2019ll be asked to provide that ID to access the building.\n* \ud83d\udeb8 People under 18 years old shall be accompanied by a legal guardian\n\n\\-\\-\\-\\-\n\u27a1\ufe0f Only register if you can attend!\n\n* \ud83e\ude91 There are limited seats, so please be responsible when signing up\n* \ud83d\udeb7 If you can't make it, please free up your seat, so someone else can attend. We keep a list with repeated offenders!\n\n\\-\\-\\-\\-\n\u27a1\ufe0f More at [PyBCN.org](https://pybcn.org/)\n\n* \ud83d\udce2 We need talk proposals! [Send yours](https://pybcn.org/pybcn_association/propose-a-talk/)\n* \ud83e\udd84 Want to [publish a job offer](https://pybcn.org/job-offers)?\n* \ud83d\udc26 Follow [@PyBCN](https://twitter.com/pybcn) for pictures, slides, videos and more",
+  "shortDescription": null,
+  "group": {
+    "id": "831283",
+    "name": "Python Barcelona Meetup"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27688171",
+    "name": "Gartner - Center of Excellence",
+    "address": "C/ de Sancho de \u00c1vila, 47",
+    "city": "Barcelona",
+    "postalCode": "08018",
+    "lng": 2.189932,
+    "lat": 41.398815
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-06-13T18:30+02:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-06-13T20:30+02:00"
+}
