@@ -11,15 +11,7 @@
   "isNetworkEvent": false,
   "isOnline": false,
   "eventType": "HYBRID",
-  "venue": {
-    "id": "26317402",
-    "name": "Making Science",
-    "address": "C. de L\u00f3pez de Hoyos, 135",
-    "city": "Madrid",
-    "postalCode": "28002",
-    "lng": -3.669883,
-    "lat": 40.447197
-  },
+  "venue": null,
   "onlineVenue": null,
   "dateTime": "2024-07-04T19:00+02:00",
   "duration": "PT2H",
