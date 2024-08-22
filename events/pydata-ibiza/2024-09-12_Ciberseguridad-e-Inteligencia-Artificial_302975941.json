@@ -1,0 +1,28 @@
+{
+  "id": "302975941",
+  "title": "Ciberseguridad e Inteligencia Artificial",
+  "eventUrl": "https://www.meetup.com/pydata-eivissa-ibiza/events/302975941",
+  "description": "\u00a1Nos complace anunciar el segundo evento de PyData en Ibiza en septiembre!\n\nEl evento se realizar\u00e1 en la UIB (antiguo edificio de la Comandancia, carrer del Calvari, 1).\n\nModerar\u00e1n el evento Javier Mar\u00edn Tur y C\u00e9sar Ruiz Gorrochategui, organizadores principales de PyData Eivissa, y contaremos con cuatro charlas:\n\n* **Alberto Mart\u00edn de los Santos** y **Javi Torner Riaza** (19:00-19:30), director de Ciberseguridad y coordinador SOC en Inetum, arrancar\u00e1n con sendas ponencias \"Concienciaci\u00f3n en ciberseguridad: impacto de un ciberataque\" y \"Protegiendo el Futuro Digital: El D\u00eda a D\u00eda de un Analista de Ciberseguridad\".\n* **Marta G\u00f3mez Mac\u00edas** (19:30-20:00), ingeniera de software en VirusTotal, impartir\u00e1 la ponencia \"Ciberamenazas dirigidas a analistas de datos y programadores Python\".\n* **Pau Rodr\u00edguez L\u00f3pez** (19:45-20:10), research scientist en Apple, nos hablar\u00e1 sobre mitigaci\u00f3n de toxicidad en modelos de lenguaje.\n\nEl cierre correr\u00e1 a cargo de Toni Mar\u00ed Ribas, Jefe de estudios FP, IES Sa Colomina.\n\nDespu\u00e9s de las charlas, ofreceremos bebidas y picoteo patrocinados en el mismo lugar para continuar con el networking.\n\nEl evento cuenta con el apoyo del Ayuntamiento de Ibiza, el Consell de Ibiza y la C\u00e1mara de Comercio, as\u00ed como de la organizaci\u00f3n sin \u00e1nimo de lucro NumFOCUS.",
+  "shortDescription": null,
+  "group": {
+    "id": "36715005",
+    "name": "PyData Eivissa/Ibiza"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27218459",
+    "name": "Sede Uib ",
+    "address": "Carrer del calvari 1. Antiguo edificio de La Comandancia.",
+    "city": "Ibiza",
+    "postalCode": "meetup645",
+    "lng": 1.432948,
+    "lat": 38.90589
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-09-12T19:00+02:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-09-12T21:00+02:00"
+}
