@@ -1,0 +1,28 @@
+{
+  "id": "303334284",
+  "title": "PyBirras Septiembre 2024",
+  "eventUrl": "https://www.meetup.com/python-sevilla/events/303334284",
+  "description": "Aprovechamos que la calor nos da un poco de tregua para volver a vernos las caras.\n\nEn el canal de Telegram hemos hablado sobre la posibilidad de proponer a la Asociaci\u00f3n de Python Espa\u00f1a que la PyConEs 2025 se celebre en nuestra ciudad.\n\nAntes de liarnos la manta en la cabeza nos gustar\u00eda saber cuantos estar\u00edais dispuesto a ayudar, un evento de este tipo necesita ayuda de muchos tipos de perfiles y durante periodos de tiempo muy diferentes, as\u00ed que queremos hablar con vosotros para que entend\u00e1is lo que implica y en que grado pod\u00e9is ayudar. No hace falta experiencia previa y hay diferentes tipos de trabajo para cada uno.\n\nTodas las personas est\u00e1n invitadas a acercarse y participar tanto si eres especialista en Python, una persona reci\u00e9n llegada a la comunidad o si no has tenido ning\u00fan contacto con ella anteriormente.\n\nOs esperamos en Corral de Esquivel, Alameda de H\u00e9rcules, 38 Sevilla\n\nTenemos un [c\u00f3digo de conducta](https://github.com/python-sevilla/meetups/blob/code_of_conduct/code_of_conduct.md) y aprovechamos para recordar, que todos las personas que asistan a los eventos de Python Sevilla deben aceptarlo y respetarlo durante todas las actividades y comunicaciones relacionadas con el grupo.\n\nPara m\u00e1s informaci\u00f3n pod\u00e9is contactar con nosotros por Telegram en el canal https://t.me/pythonsevilla",
+  "shortDescription": null,
+  "group": {
+    "id": "18959885",
+    "name": "Python Sevilla"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27123395",
+    "name": "Corral de Esquivel",
+    "address": "Alameda de H\u00e9rcules, 38",
+    "city": "Sevilla",
+    "postalCode": "41002",
+    "lng": -5.994058,
+    "lat": 37.399857
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-09-20T18:00+02:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-09-20T20:00+02:00"
+}
