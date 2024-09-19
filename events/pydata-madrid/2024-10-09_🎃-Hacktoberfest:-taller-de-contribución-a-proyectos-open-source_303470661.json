@@ -1,0 +1,28 @@
+{
+  "id": "303470661",
+  "title": "\ud83c\udf83 Hacktoberfest: taller de contribuci\u00f3n a proyectos open source",
+  "eventUrl": "https://www.meetup.com/pydata-madrid/events/303470661",
+  "description": "Un a\u00f1o m\u00e1s, \u00a1PyData Madrid participa en **Hacktoberfest**!\n\nHacktoberfest es un evento anual que se celebra durante el mes de octubre orientado a promover la colaboraci\u00f3n en proyectos open source.\n\nDurante este mes, desarrolladores de todo el mundo se unen para a\u00f1adir nuevas funcionalidades, corregir errores o mejorar la documentaci\u00f3n de proyectos de c\u00f3digo abierto. Es una oportunidad fant\u00e1stica para involucrarte en la comunidad open source, aprender, desarrollar tus habilidades y divertirte, incluso hay premios para aquellos que hagan varias contribuciones.\n\n**\u00bfQui\u00e9n puede participar en Hacktoberfest?**\n\n\u00a1Cualquiera! Uno de los principios de Hacktoberfest es que todo el mundo es bienvenido. Para nuestro taller hay algunos requisitos:\n\n* Cuenta en GitHub\n* Conocimientos de Python (algunas tareas ser\u00e1n m\u00e1s dif\u00edciles que otras)\n* Conocimientos de Git\n* Tener ganas de participar y buena actitud (a veces contribuir no ser\u00e1 f\u00e1cil)\n\nPuedes utilizar el IDE que te resulte m\u00e1s c\u00f3modo o usar [Gitpod](https://gitpod.io), un entorno de desarrollo colaborativo en la nube compatible con VS Code.\n\nPor \u00faltimo, \u00a1no olvides traer tu port\u00e1til bien cargado!.\n\n**\u00bfEn qu\u00e9 consiste este evento?**\n\nEl taller se llevar\u00e1 a cabo de 18:00 a 21:00 en las instalaciones de **Datais** (c/ Mar\u00eda de Molina, 39), que generosamente ha cedido su espacio.\n\nAl arrancar daremos algunos trucos b\u00e1sicos y nos repartiremos en grupos para contribuir a diferentes proyectos. *La lista final de proyectos a\u00fan est\u00e1 en progreso*.\n\nEl a\u00f1o pasado conseguimos hacer 4 pull requests a SciPy, scikit-learn, y pandas. \u00bfCu\u00e1ntas podremos hacer este a\u00f1o?\n\n**Programa del taller:**\n\n* **Introducci\u00f3n** (18:00-18:15): presentaremos PyData Madrid, explicaremos la mec\u00e1nica del taller y formaremos equipos de trabajo.\n* ***Hacking*** (18:15-20:30): durante este tiempo contaremos con mentores que os ayudar\u00e1n para que pod\u00e1is mandar pull requests.\n* **Cierre** (20:30-21:00): haremos una ronda para comentar nuestros avances y cerraremos el taller. *Incluye charla sorpresa*.\n\nAl acabar, iremos a tomar algo a un bar cercano.\n\nRecuerda que en los eventos PyData rige un C\u00f3digo de Conducta [https://pydata.org/code-of-conduct/](https://pydata.org/code-of-conduct/) el resumen traducido: s\u00e9 amable, abstente de insultar y de hacer bromas sexistas, racistas, o excluyentes en general, y nada de insinuaciones sexuales a otras personas.",
+  "shortDescription": null,
+  "group": {
+    "id": "23965442",
+    "name": "PyData Madrid"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27888742",
+    "name": "Datais",
+    "address": "C/Maria de Molina, 39",
+    "city": "Madrid",
+    "postalCode": "meetup1",
+    "lng": -3.680033,
+    "lat": 40.437744
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-10-09T18:00+02:00",
+  "duration": "PT3H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-10-09T21:00+02:00"
+}
