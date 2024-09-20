@@ -1,0 +1,28 @@
+{
+  "id": "303481407",
+  "title": "8\u00ba MeetUp de PyData Granada",
+  "eventUrl": "https://www.meetup.com/pydatagrx/events/303481407",
+  "description": "**\ud83d\udd52 AGENDA**\n**7:00pm** \\- Apertura de puertas y networking\n\n**7:05pm** \\- Breve presentaci\u00f3n de [PyData Granada](https://www.meetup.com/pydatagrx) y bienvenida de la [Fundaci\u00f3n PTS](https://ptsgranada.com/fundacion/)\n\n**7:15pm** **\\- Datos abiertos en tiempos modernos\\. Problemas\\, soluciones y algunas ideas\\.**\nColaborar y usar datos para tomar decisiones es una tarea complicada, m\u00e1s a\u00fan cuando hay que usar datos p\u00fablicos de varias fuentes. Sin embargo, gracias a nuevas tecnolog\u00edas y est\u00e1ndares, es posible crear portales de datos abiertos que faciliten la colaboraci\u00f3n y la reutilizaci\u00f3n de los datos.\n\u00bfPor qu\u00e9 no aprovechar tecnolog\u00edas que usan las empresas para mejorar la calidad de los datos abiertos y fomentar la colaboraci\u00f3n? En esta charla veremos c\u00f3mo se puede crear un portal de datos abiertos moderno usando herramientas (DuckDB, Dagster, dbt) y est\u00e1ndares abiertos (Arrow, Parquet).\n**Ponente**:\n\n* **[David Gasquez](https://davidgasquez.com/)** es un programador especializado en el mundo de los datos. Durante los \u00faltimos 8 a\u00f1os, ha trabajado como ingeniero de datos para varias empresas. Actualmente trabaja para Protocol Labs manteniendo su portal de datos abiertos.\n\n**7:50pm - 2\u00aa charla por confirmar**\n\n**8:25pm - Networking**\n\n**\ud83d\udce2 Llamada a propuestas**\n\u00bfTe gustar\u00eda compartir tus conocimientos y buenas pr\u00e1cticas? Env\u00edanos tu propuesta a trav\u00e9s de nuestras redes sociales o contacta con alguien del equipo de organizaci\u00f3n.\n\n**\ud83d\ude4f Agradecimientos**\n\n* [NumFOCUS](https://numfocus.org/)\n* [Oficina de Software Libre de la Universidad de Granada](https://osl.ugr.es/)\n* [Python Espa\u00f1a](https://es.python.org/)\n* [Fundaci\u00f3n PTS](https://ptsgranada.com/fundacion/)\n\n**\ud83c\udfad C\u00f3digo de conducta**\nLos eventos de PyData Granada se rigen por los c\u00f3digos de conducta de [NumFocus](https://numfocus.org/code-of-conduct) y de la [Python Software Foundation](https://www.python.org/psf/conduct/).\n\n**\u2728 \u00bfQu\u00e9 es PyData?**\nPyData es una comunidad diversa de personas interesadas en el uso y desarrollo de herramientas de an\u00e1lisis de datos con el objetivo de compartir ideas y aprender. Nos reunimos para discutir las mejores pr\u00e1cticas, nuevos enfoques y tecnolog\u00edas emergentes para la gesti\u00f3n de datos, procesamiento, an\u00e1lisis y visualizaci\u00f3n. Utilizamos muchos lenguajes de programaci\u00f3n, incluyendo (pero no limitado a) Python, Julia y R.\n\n**\u25b6 \u00a1S\u00edguenos en redes!**\n\n* Twitter/X: [@PyDataGRX](https://twitter.com/PyDataGRX)\n* Mastodon: [@PyDataGRX@masto.ai](https://masto.ai/@pydatagrx)\n* LinkedIn: [pydata-grx](https://www.linkedin.com/company/pydata-grx/)",
+  "shortDescription": null,
+  "group": {
+    "id": "36725854",
+    "name": "PyData GRX"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27889148",
+    "name": "Fundaci\u00f3n Parque Tecnol\u00f3gico de la Salud",
+    "address": "Avenida del Conocimiento, s/n",
+    "city": "Granada",
+    "postalCode": "meetup16",
+    "lng": -3.602121,
+    "lat": 37.147686
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-10-17T19:00+02:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-10-17T21:00+02:00"
+}
