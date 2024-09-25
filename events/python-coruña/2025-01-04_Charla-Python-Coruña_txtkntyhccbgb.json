@@ -1,0 +1,28 @@
+{
+  "id": "txtkntyhccbgb",
+  "title": "Charla Python Coru\u00f1a",
+  "eventUrl": "https://www.meetup.com/python-a-coruna/events/txtkntyhccbgb",
+  "description": "Charla por determinar\n\nPra calquer detalle adicional sobre o evento podedes consultar as nosas redes sociais no seguinte enlace:\n\n[https://linktr.ee/pythoncoruna](https://linktr.ee/pythoncoruna)",
+  "shortDescription": null,
+  "group": {
+    "id": "36742904",
+    "name": "Python A Coru\u00f1a"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27561952",
+    "name": "Ateneo",
+    "address": "R\u00faa Reverendo Padre Jos\u00e9 \u00c1lvarez Cabezas, 1",
+    "city": "A Coru\u00f1a",
+    "postalCode": "15011",
+    "lng": -8.417,
+    "lat": 43.369785
+  },
+  "onlineVenue": null,
+  "dateTime": "2025-01-04T18:30+01:00",
+  "duration": "PT1H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2025-01-04T19:30+01:00"
+}
