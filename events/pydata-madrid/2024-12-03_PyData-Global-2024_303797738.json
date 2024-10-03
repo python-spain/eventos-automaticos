@@ -1,0 +1,28 @@
+{
+  "id": "303797738",
+  "title": "PyData Global 2024",
+  "eventUrl": "https://www.meetup.com/pydata-madrid/events/303797738",
+  "description": "**PyData Global 2024 is a 3-day virtual event for the international community of data scientists, data engineers, and developers of data analysis tools to share ideas and learn from each other.**\n\n**During the conference, attendees will have the opportunity to attend live keynote sessions and talks, lightning talks, and get to know fellow members of the PyData Community.**\n\n**The event will be virtually hosted.**\n\n**CFP Deadline: October 14th**\n\n**Tickets coming soon!**\n\n[https://pydata.org/global2024/](https://pydata.org/global2024/)",
+  "shortDescription": null,
+  "group": {
+    "id": "23965442",
+    "name": "PyData Madrid"
+  },
+  "isNetworkEvent": true,
+  "isOnline": true,
+  "eventType": "ONLINE",
+  "venue": {
+    "id": "26906060",
+    "name": "Online event",
+    "address": "",
+    "city": "",
+    "postalCode": "",
+    "lng": 179.1962,
+    "lat": -8.521147
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-12-03T12:00+01:00",
+  "duration": "PT59H30M",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-12-05T23:30+01:00"
+}
