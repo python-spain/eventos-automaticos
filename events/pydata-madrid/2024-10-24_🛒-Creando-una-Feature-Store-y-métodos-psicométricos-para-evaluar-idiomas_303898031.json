@@ -1,0 +1,28 @@
+{
+  "id": "303898031",
+  "title": "\ud83d\uded2 Creando una Feature Store y m\u00e9todos psicom\u00e9tricos para evaluar idiomas",
+  "eventUrl": "https://www.meetup.com/pydata-madrid/events/303898031",
+  "description": "PyData Madrid vuelve en octubre para hablar de Python, Datos, Visualizaci\u00f3n, Inteligencia Artificial, \u00a1y lo que surja!\n\nEste mes es especial ya que es el primer meetup coorganizado con el equipo de **MLOps Community Madrid**.\n\nPor favor, **ap\u00fantate solamente en una plataforma:** a este evento en Meetup o **al de MLOps en [Luma](https://lu.ma/ehl909bh)**)\n\nEl evento se realizar\u00e1 en **The Bridge** (Paseo de Recoletos, 15), que generosamente ha cedido su espacio.\n\nTendremos el placer de contar con dos charlas:\n\n* **Alejandro Vidal** (18:45-19:30) nos hablar\u00e1 sobre su desarrollo de una feature store en Python, las herramientas usadas para ello y por qu\u00e9 las alternativas actuales no encajaban con su prop\u00f3sito (en espa\u00f1ol).\n* **Ignacio Peletier y Jes\u00fas L\u00f3pez** (19:45-20:30) nos hablar\u00e1n sobre m\u00e9todos psicom\u00e9tricos para evaluar el nivel de ingl\u00e9s (en espa\u00f1ol).\n\nDespu\u00e9s de la reuni\u00f3n, nos iremos a un bar cercano para hacer networking.\n\nRecomendaciones generales:\n\n* \u00bfSabes mucho de Python y Datos? \u00bfSabes poco y quieres saber m\u00e1s? \u00a1En ambos casos, te damos la bienvenida!\n* Aplica \"la regla del comecocos\": si est\u00e1s en un c\u00edrculo, deja siempre un hueco para que otra persona se pueda unir.\n* Puede haber asistentes que no hablen bien espa\u00f1ol y que se manejen mejor en ingl\u00e9s. S\u00e9 paciente y \u00a1no dejes que se aburran!\n* En los eventos PyData rige un C\u00f3digo de Conducta [https://pydata.org/code-of-conduct/](https://pydata.org/code-of-conduct/). El resumen traducido: s\u00e9 amable, abstente de insultar y de hacer bromas sexistas, racistas o excluyentes en general, y nada de insinuaciones sexuales a otras personas.\n\n\\*\\*\\*\n\nPyData Madrid returns in October to talk about Python, Data, Visualization, Artificial Intelligence, and whatever else comes up!\n\nThis month is special because it's the first meetup co-organized with the **MLOps Community Madrid** team. (Please sign up either for our event or theirs on [Luma](https://lu.ma/ehl909bh))\n\nThe event will take place at **The Bridge** (Paseo de Recoletos, 15), who has generously offered their space.\n\nWe will have the pleasure of featuring two talks:\n\n* **Alejandro Vidal (18:45-19:30)** will talk about his development of a feature store in Python, the tools used for it, and why current alternatives didn't fit his purpose (in Spanish).\n* **Ignacio Peletier and Jes\u00fas L\u00f3pez (19:45-20:30)** will discuss psychometric methods to evaluate English proficiency (in Spanish).\n\nAfter the meeting, we will go to a nearby bar for networking.\n\n**General recommendations:**\n\n* Do you know a lot about Python and Data? Do you know little and want to learn more? In both cases, you are very welcome!\n* Apply the \"Pacman rule\": if you're in a circle, always leave a gap so that another person can join.\n* There may be attendees who do not speak Spanish well and are more comfortable in English. Be patient and don't let them get bored!\n* At PyData events, a Code of Conduct applies: [https://pydata.org/code-of-conduct/](https://pydata.org/code-of-conduct/). The translated summary: be kind, refrain from insulting and making sexist, racist, or generally exclusionary jokes, and absolutely no sexual advances towards other attendees.",
+  "shortDescription": null,
+  "group": {
+    "id": "23965442",
+    "name": "PyData Madrid"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "26842039",
+    "name": "The Bridge | Digital Talent Accelerator",
+    "address": "P.\u00ba de Recoletos, 15",
+    "city": "Madrid",
+    "postalCode": "28004",
+    "lng": -3.692671,
+    "lat": 40.42151
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-10-24T18:30+02:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-10-24T20:30+02:00"
+}

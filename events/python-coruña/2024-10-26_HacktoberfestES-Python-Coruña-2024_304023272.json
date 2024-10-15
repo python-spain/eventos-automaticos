@@ -1,0 +1,28 @@
+{
+  "id": "304023272",
+  "title": "HacktoberfestES Python Coru\u00f1a 2024",
+  "eventUrl": "https://www.meetup.com/python-a-coruna/events/304023272",
+  "description": "**\u00bfQu\u00e9 es el Hacktoberfest?**\nEl Hacktoberfest es un evento anual de la comunidad OpenSource para promover el c\u00f3digo abierto.\nCon HacktoberfestES queremos adaptar el evento global a la comunidad de habla hispana y facilitar la participaci\u00f3n seleccionado algunos proyectos y creando espacios y actividades donde la gente se conozca y pueda aprender.\n\n**\u00bfQui\u00e9n puede participar?**\nTodos los niveles y lenguajes de programaci\u00f3n son bienvenidos. No pasa nada si eres primerizo/a: este evento existe precisamente para ayudar a la gente novata a salvar la barrera de las primeras contribuciones.\n\n**Programa del evento**\n10:00-10:30 Charla introductoria\n10:30-11:00 Explicaci\u00f3n proyectos propuestos\n11:00-12:00 Coffee Break\n12:00-14:00 Realizaci\u00f3n proyectos propuestos\n14:00-16:00 Comida\n16:00-18:00 Realizaci\u00f3n proyectos propuestos\n18:00-19:00 Coffee break\n19:00-20:30 Realizaci\u00f3n proyectos propuestos\n20:30-21:00 Despedida y cierre de evento\n\nPara cualquier duda sobre el evento o alg\u00fan comentario que quieras hacernos, te recordamos el enlace donde puedes ver todas nuestras redes sociales: [https://linktr.ee/pythoncoruna](https://linktr.ee/pythoncoruna)",
+  "shortDescription": null,
+  "group": {
+    "id": "36742904",
+    "name": "Python A Coru\u00f1a"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27905744",
+    "name": "Centro Universitario Riazor",
+    "address": "R\u00faa Almirante L\u00e1ngara s/n,",
+    "city": "A Coru\u00f1a",
+    "postalCode": "meetup18",
+    "lng": -8.419907,
+    "lat": 43.369465
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-10-26T10:00+02:00",
+  "duration": "PT11H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-10-26T21:00+02:00"
+}
