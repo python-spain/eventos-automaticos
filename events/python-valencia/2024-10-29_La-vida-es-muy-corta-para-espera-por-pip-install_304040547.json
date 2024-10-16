@@ -1,0 +1,28 @@
+{
+  "id": "304040547",
+  "title": "La vida es muy corta para espera por pip install",
+  "eventUrl": "https://www.meetup.com/python-valencia-meetup/events/304040547",
+  "description": "**Primero la charla**\nSi estas cansado de esperar esos eternos minutos que toma instalar tus paquetes usando pip. De tener 500 virtualenv para gestionar tus proyectos y herramientas. O de que poetry se ponga un poco espcialito en la configuraci\u00f3n siendo igual de lento. Ven a la charla y descubre el terremoto que ha causado uv en la comunidad de Python en unos pocos meses.\n\n**Despu\u00e9s conocerse**\nTras la charla os invitamos a quedaros un poco mas para conocer a los miembros de la comunidad y hacer un poco de networking. En esta ocasi\u00f3n os invitamos a la primera ronda, simplemente di que vienes de Python Valencia en el Caf\u00e9 de CO.",
+  "shortDescription": null,
+  "group": {
+    "id": "16514622",
+    "name": "Python Valencia"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "26441708",
+    "name": "Wayco Abastos | Coworking Val\u00e8ncia",
+    "address": "C/ de l'Historiador Diago, 3",
+    "city": "Val\u00e8ncia",
+    "postalCode": "46003",
+    "lng": -0.383667,
+    "lat": 39.467403
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-10-29T18:30+01:00",
+  "duration": "PT2H30M",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-10-29T21:00+01:00"
+}
