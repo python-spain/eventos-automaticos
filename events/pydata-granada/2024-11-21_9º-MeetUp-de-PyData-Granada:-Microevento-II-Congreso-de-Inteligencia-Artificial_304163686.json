@@ -1,0 +1,28 @@
+{
+  "id": "304163686",
+  "title": "9\u00ba MeetUp de PyData Granada: Microevento II Congreso de Inteligencia Artificial",
+  "eventUrl": "https://www.meetup.com/pydatagrx/events/304163686",
+  "description": "\ud83c\udf9f\ud83c\udfab Adem\u00e1s de en este MeetUp, **debes registrarte en el II Congreso de Inteligencia Artificial de Andaluc\u00eda para poder asistir.**\n\n**\u27a1 [REG\u00cdSTRATE AQU\u00cd](https://www.registrocongresoia.com/) \u2b05**\n\n**\ud83d\udd52 AGENDA**\n**7:00pm** **\\- Computaci\u00f3n cu\u00e1ntica en la era de la IA: Una perspectiva desde la f\u00edsica\\.**\n\nEn esta charla con perspectiva divulgativa daremos un paseo por las bases de la computaci\u00f3n cu\u00e1ntica y sus propiedades f\u00edsicas, para acabar conociendo algunos algoritmos cu\u00e1nticos que podr\u00edan potenciar y acelerar la IA. Con la librer\u00eda de Python Qiskit veremos ejemplos pr\u00e1cticos de como implementar estos algoritmos con circuitos cu\u00e1nticos.\n\n**Ponente**:\n\n* **[Noelia S\u00e1nchez G\u00f3mez](https://www.linkedin.com/in/noelia-s%C3%A1nchez-g%C3%B3mez-8641b1214/):** Graduada en F\u00edsica, estudiante del M\u00e1ster de FisyMat de la UGR y becaria de investigaci\u00f3n JAE en el Instituto de Estructura de la Materia.\n\n**7:30pm - IA no Code: Creando un producto de IA en 30 minutos**\n\n\u00bfQu\u00e9 pensar\u00edas si te dijera que voy a crear, delante de ti, un producto perfectamente funcional en vivo, en directo y en media hora? \u00a1Pues cr\u00e9elo! Tendemos a pensar que introducir la IA en procesos de nuestro d\u00eda a d\u00eda es complejo y que requiere de muchos conocimientos t\u00e9cnicos, sin embargo, en esta charla te demuestro lo contrario. Veremos c\u00f3mo, con las herramientas adecuadas, podemos generar un prototipo de un producto que gire entorno a la IA generativa con im\u00e1genes funcionando en muy poco tiempo \u00a1y sin tirar ni una sola l\u00ednea de c\u00f3digo!\n\n**Ponente**:\n\n* **[Andr\u00e9s Matesanz](https://www.linkedin.com/in/aimatesanz/)** es Computer Vision Research Engineer en Sngular y cuenta con m\u00e1s de 5 a\u00f1os de experiencia en el desarrollo de tecnolog\u00edas que permiten a los ordenadores \"ver\". Su trayectoria profesional se centra en proyectos de I+D, as\u00ed como en la automatizaci\u00f3n de procesos de desarrollo de software.\n\n**\ud83d\udce2 Llamada a propuestas**\n\u00bfTe gustar\u00eda compartir tus conocimientos y buenas pr\u00e1cticas? Env\u00edanos tu propuesta a trav\u00e9s de nuestras redes sociales o contacta con alguien del equipo de organizaci\u00f3n.\n\n**\ud83d\ude4f Agradecimientos**\n\n* [NumFOCUS](https://numfocus.org/)\n* [Oficina de Software Libre de la Universidad de Granada](https://osl.ugr.es/)\n* [Python Espa\u00f1a](https://es.python.org/)\n* [Junta de Andaluc\u00eda](https://www.juntadeandalucia.es/)\n* [Agencia Digital de Andaluc\u00eda](https://www.juntadeandalucia.es/organismos/ada.html)\n\n**\ud83c\udfad C\u00f3digo de conducta**\nLos eventos de PyData Granada se rigen por los c\u00f3digos de conducta de [NumFocus](https://numfocus.org/code-of-conduct) y de la [Python Software Foundation](https://www.python.org/psf/conduct/).\n\n**\u2705 Certificados de asistencia**\nSi necesitas un certificado de asistencia ind\u00edcalo durante el registro y ac\u00e9rcate a recogerlo cuando termine el evento. No se generar\u00e1n certificados a posteriori.\n\n**\u2728 \u00bfQu\u00e9 es PyData?**\nPyData es una comunidad diversa de personas interesadas en el uso y desarrollo de herramientas de an\u00e1lisis de datos con el objetivo de compartir ideas y aprender. Nos reunimos para discutir las mejores pr\u00e1cticas, nuevos enfoques y tecnolog\u00edas emergentes para la gesti\u00f3n de datos, procesamiento, an\u00e1lisis y visualizaci\u00f3n. Utilizamos muchos lenguajes de programaci\u00f3n, incluyendo (pero no limitado a) Python, Julia y R.\n\n**\u25b6 \u00a1S\u00edguenos en redes!**\n\n* Twitter/X: [@PyDataGRX](https://twitter.com/PyDataGRX)\n* Mastodon: [@PyDataGRX@masto.ai](https://masto.ai/@pydatagrx)\n* LinkedIn: [pydata-grx](https://www.linkedin.com/company/pydata-grx/)",
+  "shortDescription": null,
+  "group": {
+    "id": "36725854",
+    "name": "PyData GRX"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "24422826",
+    "name": "Palacio De Congresos",
+    "address": "Paseo Del Viol\u00f3n, 19, 18006, Granada",
+    "city": "Granada",
+    "postalCode": "meetup16",
+    "lng": -3.59879,
+    "lat": 37.16559
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-11-21T19:00+01:00",
+  "duration": "PT1H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-11-21T20:00+01:00"
+}
