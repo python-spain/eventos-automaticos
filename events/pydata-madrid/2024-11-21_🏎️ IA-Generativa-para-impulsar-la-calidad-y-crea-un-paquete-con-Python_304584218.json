@@ -1,0 +1,28 @@
+{
+  "id": "304584218",
+  "title": "\ud83c\udfce\ufe0f\u00a0IA Generativa para impulsar la calidad y crea un paquete con Python",
+  "eventUrl": "https://www.meetup.com/pydata-madrid/events/304584218",
+  "description": "PyData Madrid vuelve en noviembre para hablar de Python, Datos, Visualizaci\u00f3n, Inteligencia Artificial, \u00a1Y lo que surja!\n\nEste mes el evento se realizar\u00e1 en las oficinas de Moeve (antes Cepsa) que generosamente ha cedido su espacio en P\u00ba de la Castellana, 259A.\n\nTendremos el placer de contar con dos charlas:\n\n* **Jes\u00fas Genil** (19:15-19:45), Agile Support Model en Moeve, hablar\u00e1 sobre c\u00f3mo la IA generativa aporta en el ciclo de vida de los productos digitales, ayudando a tener productos estables, eficientes y que aportan el valor que se espera de ellos (en espa\u00f1ol).\n* **Diego San Andr\u00e9s** (20:00-20:30), Operational Administrator en Axactor, nos contar\u00e1 c\u00f3mo desarroll\u00f3 Similator, desde los primeros pasos hasta la publicaci\u00f3n en PyPI (en espa\u00f1ol).\n\nDespu\u00e9s de la reuni\u00f3n, nos quedaremos haciendo *networking* en las instalaciones de Moeve.\n\n**Recomendaciones generales:**\n\n* \u00bfSabes mucho de Python y Datos? \u00bfSabes poco y quieres saber m\u00e1s? \u00a1En ambos casos, te damos la bienvenida!\n* Aplica \"la regla del comecocos\": si est\u00e1s en un c\u00edrculo, deja siempre un hueco para que otra persona se pueda unir.\n* Puede haber asistentes que no hablen bien espa\u00f1ol y que se manejen mejor en ingl\u00e9s. S\u00e9 paciente y \u00a1No dejes que se aburran!\n* En los eventos PyData rige un C\u00f3digo de Conducta [https://pydata.org/code-of-conduct/](https://pydata.org/code-of-conduct/) el resumen traducido: s\u00e9 amable, abstente de insultar y de hacer bromas sexistas, racistas, o excluyentes en general, y nada de insinuaciones sexuales a otras personas.\n\n\\*\\*\\*\n\nPyData Madrid returns in November to talk about Python, Data, Visualization, Artificial Intelligence, and whatever else comes up!\n\nThis month, the event will take place at Moeve's offices (formerly Cepsa), which has generously offered their space at P\u00ba de la Castellana, 259A.\n\nThis time, we are excited to present these two talks:\n\n* **Jes\u00fas Genil** (19:15-19:45), Agile Support Model at Moeve, will discuss how generative AI contributes to the digital products lifecycle, helping to create stable and efficient products that deliver the expected value (in Spanish).\n* **Diego San Andr\u00e9s** (20:00-20:30), Operational Administrator at Axactor, will share how he developed Similator, from the initial steps to its publication on PyPI (in Spanish).\n\nAfter the meeting, we will stay for networking at Moeve's facilities.\n\n**General recommendations:**\n\n* Are you an expert in Python and Data? Are you a beginner and want to learn more? In both cases, you are very welcome!\n* Apply the \"Pac-man rule\": if you're in a circle, leave a gap so that someone else can join.\n* If you don't speak good Spanish, we will do our best to make you feel comfortable. But be mindful that other attendees might want to use their native language in larger conversations. Use this opportunity to practice your Spanish! If you are bored, feel free to approach the organizers and say \u00abHi!\u00bb\n* At PyData events there is a Code of Conduct [https://pydata.org/code-of-conduct/](https://pydata.org/code-of-conduct/) Super short version: be kind (all else is details), abstain from insulting others or making sexist, racist, or other exclusionary jokes, and do absolutely not make sexual advances to other attendees.",
+  "shortDescription": null,
+  "group": {
+    "id": "23965442",
+    "name": "PyData Madrid"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27923203",
+    "name": "Moeve",
+    "address": "Paseo de la Castellana, 259A",
+    "city": "Madrid",
+    "postalCode": "meetup1",
+    "lng": -3.687263,
+    "lat": 40.475925
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-11-21T19:00+01:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-11-21T21:00+01:00"
+}
