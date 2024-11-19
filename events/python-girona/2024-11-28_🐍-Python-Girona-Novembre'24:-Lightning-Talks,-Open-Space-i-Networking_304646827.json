@@ -1,0 +1,28 @@
+{
+  "id": "304646827",
+  "title": "\ud83d\udc0d Python Girona Novembre'24: Lightning Talks, Open Space i Networking",
+  "eventUrl": "https://www.meetup.com/pythongirona/events/304646827",
+  "description": "\ud83d\uddd3\ufe0f **Data**: Dijous, 28 de novembre\n\ud83d\udd56 **Hora**: 19:00h\n\ud83d\udccd **Lloc**: El Modern. Centre Audiovisual i Digital\n\nAquest meetup arriba amb un format \u00fanic i din\u00e0mic! \ud83c\udf89\n\n\ud83c\udf1f **Qu\u00e8 farem?**\n\n\u27a1\ufe0f **Lightning Talks**: Presentacions curtes i intenses, ideals per compartir idees, projectes o eines interessants. Apunta\u2019t el mateix dia o fes-nos-ho saber pel canal de Telegram \ud83d\udc49 [https://t.me/pygrn](https://t.me/pygrn)\n\n\u27a1\ufe0f **Open Space**: Un espai per parlar sobre el que m\u00e9s us motiva o explorar temes nous de manera col\u00b7laborativa.\n\n\u27a1\ufe0f **Networking**: Connecta amb altres apassionats de Python mentre gaudeixes d\u2019un ambient relaxat amb beguda i alguna cosa per picar.\n\n\ud83e\udd1d **No t\u2019ho perdis! Veniu a aprendre, inspirar-vos i fer comunitat.**\n\n\ud83d\udc49 Reserva la teva pla\u00e7a a Meetup\n\n\u26a1 **Recorda!** \u26a1\nTenim un canal de [Telegram](https://t.me/pygrn) \ud83d\udcf2 obert per a tothom! \ud83c\udf1f\ud83d\udc6b\ud83c\udf10\n\nAmb la col\u00b7laboraci\u00f3 de [GeeksCAT](https://geekscat.org/) i el finan\u00e7ament de l'Ajuntament de Girona.",
+  "shortDescription": null,
+  "group": {
+    "id": "20691695",
+    "name": "Python Girona"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27886268",
+    "name": "El Modern. Centre Audiovisual i Digital",
+    "address": "Carrer Nou del Teatre, 16",
+    "city": "Girona",
+    "postalCode": "meetup74",
+    "lng": 2.825583,
+    "lat": 41.98249
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-11-28T19:00+01:00",
+  "duration": "PT1H30M",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-11-28T20:30+01:00"
+}
