@@ -1,0 +1,28 @@
+{
+  "id": "304673357",
+  "title": "PyBirras Noviembre 2024",
+  "eventUrl": "https://www.meetup.com/python-sevilla/events/304673357",
+  "description": "Aprovechamos las buenas noticias para volver a vernos las caras.\n\nTras plantear la posibilidad de proponer Sevilla como sede de la PyConES 2025, tenemos la gran noticia de que Sevilla ha sido elegida como la sede de la pr\u00f3xima edici\u00f3n.\n\nAprovecharemos estas Pybirras para hablar de todo el proceso realizado y de todo lo que viene a partir de ahora.\n\nTodas las personas est\u00e1n invitadas a acercarse y participar tanto si eres especialista en Python, una persona reci\u00e9n llegada a la comunidad o si no has tenido ning\u00fan contacto con ella anteriormente.\n\nOs esperamos en Corral de Esquivel, Alameda de H\u00e9rcules, 38 Sevilla\n\nTenemos un [c\u00f3digo de conducta](https://github.com/python-sevilla/meetups/blob/code_of_conduct/code_of_conduct.md) y aprovechamos para recordar, que todos las personas que asistan a los eventos de Python Sevilla deben aceptarlo y respetarlo durante todas las actividades y comunicaciones relacionadas con el grupo.\n\nPara m\u00e1s informaci\u00f3n pod\u00e9is contactar con nosotros por Telegram en el canal https://t.me/pythonsevilla",
+  "shortDescription": null,
+  "group": {
+    "id": "18959885",
+    "name": "Python Sevilla"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27123395",
+    "name": "Corral de Esquivel",
+    "address": "Alameda de H\u00e9rcules, 38",
+    "city": "Sevilla",
+    "postalCode": "41002",
+    "lng": -5.994058,
+    "lat": 37.399857
+  },
+  "onlineVenue": null,
+  "dateTime": "2024-11-27T19:00+01:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2024-11-27T21:00+01:00"
+}
