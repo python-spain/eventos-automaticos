@@ -1,0 +1,28 @@
+{
+  "id": "305606180",
+  "title": "\ud83c\udf54 Analizando restaurantes fantasma y Geoprocesamiento con QGIS",
+  "eventUrl": "https://www.meetup.com/pydata-madrid/events/305606180",
+  "description": "## Detalles\n\nPyData Madrid vuelve en Enero para hablar de Python, Datos, Visualizaci\u00f3n, Inteligencia Artificial, \u00a1Y lo que surja!\n\nEn esta ocasi\u00f3n se trata de una edici\u00f3n muy especial, organizada conjuntamente con la comunidad de **GeoInquietos Madrid** (https://geoinquietos.org/grupos/madrid/).\n\nEste mes el evento se realizar\u00e1 en las oficinas de TomTom que generosamente ha cedido su espacio en Calle de Agustin de Foxa 4, 28036 (planta 8).\n\n***Importante*** *\u26a0\ufe0f Necesitamos tu nombre completo y DNI, no olvides introducirlo en el formulario de registro. Usa el campo \"raz\u00f3n para asistir\" para el DNI.*\n\nTendremos el placer de contar con dos charlas:\n\n* **Kiko Mart\u00edn y Toni Almagro** (19:15-19:45), Senior Data Scientist y Staff Data Scientist en TomTom respectivamente, hablar\u00e1n sobre restaurantes fantasma y como los evita un cient\u00edfico de datos (en espa\u00f1ol).\n* **V\u00edctor Olaya** (20:00-20:30), Principal Software Engineer en CARTO, nos hablar\u00e1 de c\u00f3mo realizar an\u00e1lisis geoespacial con Processing, el marco de geoprocesos de QGIS (en espa\u00f1ol).\n\nDespu\u00e9s de la reuni\u00f3n, nos quedaremos haciendo *networking* en las instalaciones de TomTom.\n\n**Recomendaciones generales:**\n\n* \u00bfSabes mucho de Python y Datos? \u00bfSabes poco y quieres saber m\u00e1s? \u00a1En ambos casos, te damos la bienvenida!\n* Aplica \"la regla del comecocos\": si est\u00e1s en un c\u00edrculo, deja siempre un hueco para que otra persona se pueda unir.\n* Puede haber asistentes que no hablen bien espa\u00f1ol y que se manejen mejor en ingl\u00e9s. S\u00e9 paciente y \u00a1No dejes que se aburran!\n* En los eventos PyData rige un C\u00f3digo de Conducta [https://pydata.org/code-of-conduct/](https://pydata.org/code-of-conduct/) el resumen traducido: s\u00e9 amable, abstente de insultar y de hacer bromas sexistas, racistas, o excluyentes en general, y nada de insinuaciones sexuales a otras personas.\n\n\\*\\*\\*\nPyData Madrid returns in January to talk about Python, Data, Visualization, Artificial Intelligence, and whatever else comes up!\nThis month, the event will take place at TomTom's offices which has generously offered their space at Agustin de Foxa 4, 28036 (8th floor).\n\n***Important*** *\u26a0\ufe0f We need your full name and ID, do not forget to enter it in the registration form.* *Use the \u201creason for attending\u201d field for the ID.*\nThis time, we are excited to present these two talks:\n\n* **Kiko Mart\u00edn & Toni Almagro** (19:15-19:45), Senior Data Scientist and Staff Data Scientist at TomTom respectively, will talk about ghost kitchens and how a data scientist can help avoid them (in Spanish).\n* **V\u00edctor Olaya** (20:00-20:30), Principal Software Engineer at CARTO, will present how to perform geospatial analysis using Processing, the geoprocessing framework of QGIS (in Spanish).\n\nAfter the meeting, we will stay for networking at TomTom's facilities.\n**General recommendations:**\n\n* Are you an expert in Python and Data? Are you a beginner and want to learn more? In both cases, you are very welcome!\n* Apply the \"Pac-man rule\": if you're in a circle, leave a gap so that someone else can join.\n* If you don't speak good Spanish, we will do our best to make you feel comfortable. But be mindful that other attendees might want to use their native language in larger conversations. Use this opportunity to practice your Spanish! If you are bored, feel free to approach the organizers and say \u00abHi!\u00bb\n* At PyData events there is a Code of Conduct [https://pydata.org/code-of-conduct/](https://pydata.org/code-of-conduct/) Super short version: be kind (all else is details), abstain from insulting others or making sexist, racist, or other exclusionary jokes, and do absolutely not make sexual advances to other attendees.",
+  "shortDescription": null,
+  "group": {
+    "id": "23965442",
+    "name": "PyData Madrid"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27913919",
+    "name": "Edificio Aqua",
+    "address": "Calle de Agustin de Foxa 4, 28036, Madrid",
+    "city": "Madrid",
+    "postalCode": "meetup1",
+    "lng": -3.688126,
+    "lat": 40.467186
+  },
+  "onlineVenue": null,
+  "dateTime": "2025-01-23T19:00+01:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2025-01-23T21:00+01:00"
+}
