@@ -1,0 +1,28 @@
+{
+  "id": "305628596",
+  "title": "PyBirras Enero 2025",
+  "eventUrl": "https://www.meetup.com/python-sevilla/events/305628596",
+  "description": "\u00a1Buenas! \u00a1Y feliz a\u00f1o!, Pythonista (todav\u00eda se puede decir, suponemos)\n\nVolvemos a convocar la habitual PyBirra mensual para volver a vernos las caras.\n\nEsta vez nos gustar\u00eda hablar de prop\u00f3sitos para este a\u00f1o que reci\u00e9n comienza. \u00bfQu\u00e9 esper\u00e1is de la comunidad? \u00bfC\u00f3mo podeis ayudar? \u00bfQuer\u00e9is impartir una charla o taller? \u00bfNecesit\u00e1is feedback o colaboraci\u00f3n con alg\u00fan pet project?\n\nTambi\u00e9n quisi\u00e9ramos compartir algunos detalles de la pr\u00f3xima PyConES 2025 que, si no te has despistado demasiado, sabr\u00e1s que es en Sevilla y se realizar\u00e1 del 17 al 19 de Octubre.\n\nTodas las personas est\u00e1n invitadas a acercarse y participar tanto si eres especialista en Python, una persona reci\u00e9n llegada a la comunidad o si no has tenido ning\u00fan contacto con ella anteriormente.\n\nPero presta atenci\u00f3n, sobre todo si eres un ser de la tierra media. Esta vez os esperamos en la Taberna del Drag\u00f3n Verde, en la calle Avicena 17, 41009 de Sevilla.\n\nTenemos un [c\u00f3digo de conducta](https://github.com/python-sevilla/meetups/blob/code_of_conduct/code_of_conduct.md) y aprovechamos para recordar, que todos las personas que asistan a los eventos de Python Sevilla deben aceptarlo y respetarlo durante todas las actividades y comunicaciones relacionadas con el grupo.\n\nPara m\u00e1s informaci\u00f3n pod\u00e9is contactarnos en [nuestro canal de Telegram](https://t.me/+RDW8HGGszK6AO8f4).",
+  "shortDescription": null,
+  "group": {
+    "id": "18959885",
+    "name": "Python Sevilla"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "24531126",
+    "name": "Taberna del Drag\u00f3n Verde",
+    "address": "Calle Avicena 17",
+    "city": "Sevilla",
+    "postalCode": "",
+    "lng": -5.9939,
+    "lat": 37.405468
+  },
+  "onlineVenue": null,
+  "dateTime": "2025-01-28T19:00+01:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2025-01-28T21:00+01:00"
+}
