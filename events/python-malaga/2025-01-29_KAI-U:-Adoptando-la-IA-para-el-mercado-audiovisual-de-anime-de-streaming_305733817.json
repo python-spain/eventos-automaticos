@@ -1,0 +1,30 @@
+{
+  "id": "305733817",
+  "title": "KAI-U: Adoptando la IA para el mercado audiovisual de anime de streaming",
+  "eventUrl": "https://www.meetup.com/python_malaga/events/305733817",
+  "description": "*(English description below)*\n\n\ud83c\uddef\ud83c\uddf5 \u00bfTe gusta ver anime?\n\ud83d\udcfa \u00bfAlguna vez has querido probar a verlo?\n\ud83c\udd95 Tal vez conozcas tanto sobre el mundillo, que quieras experimentar algo nuevo.\n\nKAI-U ofrece un **sistema de recomendaci\u00f3n** para consumidores, alineado con un modelo predictivo para **plataformas de streaming** que permite obtener m\u00e9tricas sobre lo que los fans suelen consumir.\n\n\u00danete al futuro del anime a trav\u00e9s de la revoluci\u00f3n en \ud83e\udd16 **Inteligencia Artificial**.\n\nEn esta sesi\u00f3n comprenderemos la complejidad del anime, con una industria billonaria apoyada por la pasi\u00f3n de millones de personas, mientras aprendemos a aplicar el \ud83d\udde3\ufe0f **Procesamiento del Lenguaje Natural** y el \ud83e\uddbe **Aprendizaje Autom\u00e1tico**.\n\nEste proyecto ser\u00e1 presentado por *Nicol\u00e1s Trujillo* y *JC Avecilla*, ambos aplicando su experiencia para crear un **sistema de recomendaci\u00f3n** y un **modelo predictivo** para este caso de uso espec\u00edfico.\n\nLa sesi\u00f3n ser\u00e1 en \ud83c\uddea\ud83c\uddf8 espa\u00f1ol, con la **presentaci\u00f3n del producto**, seguida de una **sesi\u00f3n de preguntas y respuestas** donde los asistentes podr\u00e1n interactuar con nuestros ponentes.\n\nTras el evento, de \ud83d\udd52 una **hora de duraci\u00f3n**, los asistentes podr\u00e1n disfrutar de un \ud83c\udfc6 **trivial con premio**, y un \ud83c\udf7a **evento de networking** para que los asistentes puedan discutir acerca de la charla.\n\n**Horario del evento:**\n\n\ud83d\udeaa18:15 \u2014 Apertura de puertas\n\ud83d\udde3\ufe0f 18:30 \u2014 Empieza la charla\n\ud83c\udfc6 19:30 \u2014 Trivial con premio\n\ud83c\udf7a 19:40 \u2014 Evento de networking con \ud83c\udf55 pyzzas\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\n\ud83c\uddef\ud83c\uddf5 Do you enjoy watching anime?\n\ud83d\udcfa Ever wanted to give a try?\n\ud83c\udd95 Maybe you know so much about it, that you want to experience something new!\n\nKAI-U offers a **recommendation system** for consumers, aligned with a **predictive model** for streaming platforms allowing for metrics on what fans usually consume.\n\nJoin the future of Anime through the \ud83e\udd16 **Artificial Intelligence** revolution.\n\nOn this engaging session, we will understand the complexity of anime, with an millonaire industry supported passionate individuals, while learning how to apply \ud83d\udde3\ufe0f **Natural Language Processing** and \ud83e\uddbe **Machine Learning**.\n\nThis project will be presented by *Nicol\u00e1s Trujillo* and *JC Avecilla*, both applying their expertise to create a **recomendation system** and a **predictive model** for this specific use case.\n\nThe session will be in \ud83c\uddea\ud83c\uddf8 Spanish, featuring **the presentation about the product** followed by **Q&A session** where attendees can engage with our speakers.\n\nFollowing the \ud83d\udd52 **one-hour event**, attendees will enjoy a \ud83c\udfc6 **trivia game with a prize**, and a \ud83c\udf7a **networking event** for attendees to discuss the talk.\n\n**Horario del evento:**\n\n\ud83d\udeaa18:15 \u2014 Opening doors\n\ud83d\udde3\ufe0f 18:30 \u2014 the talk begins\n\ud83c\udfc6 19:30 \u2014 Trivia with prize\n\ud83c\udf7a 19:40 \u2014 Networking event with \ud83c\udf55py-zzas",
+  "shortDescription": null,
+  "group": {
+    "id": "33344430",
+    "name": "Python M\u00e1laga"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "HYBRID",
+  "venue": {
+    "id": "27960506",
+    "name": "Plytix",
+    "address": "Alameda Principal, 24, planta 3 (Plytix), M\u00e1laga",
+    "city": "M\u00e1laga",
+    "postalCode": "meetup6",
+    "lng": -4.423956,
+    "lat": 36.717697
+  },
+  "onlineVenue": {
+    "url": null
+  },
+  "dateTime": "2025-01-29T18:30+01:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2025-01-29T20:30+01:00"
+}
