@@ -1,0 +1,28 @@
+{
+  "id": "305754770",
+  "title": "PyData Virginia 2025",
+  "eventUrl": "https://www.meetup.com/pydata-mallorca/events/305754770",
+  "description": "Mark your calendars for PyData Virginia 2025, coming to Charlottesville on April 18-19! This two-day, in-person event at the Violet Crown Cinema is the ultimate place for data scientists, engineers, and developers to swap ideas and learn new info.\n\nWant to share your ideas?\n[Submit your talk proposal by Feb. 10](https://pydata.org/virginia2025/call-for-proposals)!\n\nSnag your tickets before they're gone!\n[Buy Here](https://ti.to/pydata/pydata-virginia-2025)",
+  "shortDescription": null,
+  "group": {
+    "id": "20418738",
+    "name": "PyData Mallorca"
+  },
+  "isNetworkEvent": true,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "26102619",
+    "name": "Violet Crown Charlottesville",
+    "address": "200 W Main St",
+    "city": "Charlottesville",
+    "postalCode": "22902",
+    "lng": -78.48252,
+    "lat": 38.03084
+  },
+  "onlineVenue": null,
+  "dateTime": "2025-04-18T14:00+02:00",
+  "duration": "PT33H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2025-04-19T23:00+02:00"
+}
