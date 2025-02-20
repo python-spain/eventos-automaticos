@@ -1,0 +1,28 @@
+{
+  "id": "306014145",
+  "title": "PerfStep: Performance 360\u00ba. Integrando Locust con Behave",
+  "eventUrl": "https://www.meetup.com/python-valencia-meetup/events/306014145",
+  "description": "**Primero la charla**\nEn esta charla hablaremos del fascinante mundo de las pruebas de rendimiento.\n\nEn base a un ciclo normal de pruebas, descubriremos qu\u00e9 ventajas nos ofrece el uso de Locust como una librer\u00eda python a diferencia del resto de herramientas para pruebas de rendimiento.\n\nPor \u00faltimo, desarrollaremos un ejemplo de prueba de capacidad desde el manejo de Locust en su formato web hasta la completa integraci\u00f3n con la herramienta PerfStep de desarrollo propio.\n\n**Despu\u00e9s conocerse**\nTras la charla os invitamos a quedaros un poco mas para conocer a los miembros de la comunidad y hacer un poco de networking.",
+  "shortDescription": null,
+  "group": {
+    "id": "16514622",
+    "name": "Python Valencia"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27591803",
+    "name": "wayCO Cabanyal | Coworking Val\u00e8ncia",
+    "address": "Carrer de Mari\u00e0 Cuber, 17",
+    "city": "Val\u00e8ncia",
+    "postalCode": "46011",
+    "lng": -0.334373,
+    "lat": 39.464138
+  },
+  "onlineVenue": null,
+  "dateTime": "2025-02-27T18:30+01:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2025-02-27T20:30+01:00"
+}
