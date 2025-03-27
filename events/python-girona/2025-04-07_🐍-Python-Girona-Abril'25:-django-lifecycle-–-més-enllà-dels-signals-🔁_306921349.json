@@ -1,0 +1,28 @@
+{
+  "id": "306921349",
+  "title": "\ud83d\udc0d Python Girona Abril'25: django-lifecycle \u2013 m\u00e9s enll\u00e0 dels signals \ud83d\udd01",
+  "eventUrl": "https://www.meetup.com/pythongirona/events/306921349",
+  "description": "\ud83d\uddd3\ufe0f **Data:** 7 d\u2019abril (dilluns)\n\ud83d\udd56 **Hora:** 19:00h \u2013 20:30h\n\ud83d\udccd **Lloc:** El Modern. Centre Audiovisual i Digital \u2013 Girona\n\nAquest abril tenim un convidat molt especial: **Enrique Soria**, mantenidor de l\u2019eina open source [django-lifecycle](https://rsinger86.github.io/django-lifecycle/). Una oportunitat genial per aprofundir en el m\u00f3n de Django i descobrir com gestionar els canvis d\u2019estat dels models de manera neta, eficient i pythonica \ud83d\udc0d\u2728\n\n\ud83d\udd0d **Qu\u00e8 aprendrem?**\n\u2705 Introducci\u00f3 a `django-lifecycle`\n\u2705 Com funciona i quins problemes resol\n\u2705 Casos d\u2019\u00fas reals en projectes Django\n\u2705 Preguntes obertes i debat amb la comunitat\n\n\ud83d\udce3 Nivell de la xerrada: Apte per a tothom amb inter\u00e8s en Django, tant si ja el fas servir com si el vols descobrir!\n\n\u26a1 **Lightning Talks:**\nCom sempre, obrirem l\u2019espai perqu\u00e8 qualsevol assistent pugui compartir un projecte, idea o recurs en menys de 5 minuts!\n\n\ud83c\udf55 **Sopar i Networking:**\nDespr\u00e9s de la sessi\u00f3, anirem a sopar per seguir compartint idees i fer comunitat.\n\nTant si ets expert com si est\u00e0s comen\u00e7ant amb Python o Django, aquest meetup \u00e9s per tu!\n\n**Vine, apr\u00e8n i connecta!** \ud83d\ude80\ud83d\udcac\n\n\ud83d\udcf2 Uneix-te al nostre Telegram: [t.me/pygrn](https://t.me/pygrn)\n\nAmb la col\u00b7laboraci\u00f3 de **GeeksCAT** i el suport de l\u2019**Ajuntament de Girona**.",
+  "shortDescription": null,
+  "group": {
+    "id": "20691695",
+    "name": "Python Girona"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27886268",
+    "name": "El Modern. Centre Audiovisual i Digital",
+    "address": "Carrer Nou del Teatre, 16",
+    "city": "Girona",
+    "postalCode": "meetup74",
+    "lng": 2.825583,
+    "lat": 41.98249
+  },
+  "onlineVenue": null,
+  "dateTime": "2025-04-07T19:00+02:00",
+  "duration": "PT1H30M",
+  "timezone": "Europe/Madrid",
+  "endTime": "2025-04-07T20:30+02:00"
+}
