@@ -1,0 +1,28 @@
+{
+  "id": "307182961",
+  "title": "C\u00f3mo pasar de la placa al script sin ser programador",
+  "eventUrl": "https://www.meetup.com/python-valencia-meetup/events/307182961",
+  "description": "**Primero la charla**\nEn esta ocasi\u00f3n Guillermo nos hablar\u00e1 de su experiencia en el proceso de creaci\u00f3n de robots, partiendo del primer prototipo hasta el segundo, y c\u00f3mo herramientas como Cursor o Windsurf pueden facilitar el trabajo de desarrollar la l\u00f3gica necesaria, incluso sin ser programador.\n\nNo os perd\u00e1is esta ocasi\u00f3n para hablar de Python, robots y aprendizaje asistido por IA.\n\n**Despu\u00e9s conocerse**\nTras la charla os invitamos a quedaros un poco m\u00e1s para conocer a los miembros de la comunidad y hacer un poco de networking.",
+  "shortDescription": null,
+  "group": {
+    "id": "16514622",
+    "name": "Python Valencia"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27591803",
+    "name": "wayCO Cabanyal | Coworking Val\u00e8ncia",
+    "address": "Carrer de Mari\u00e0 Cuber, 17",
+    "city": "Val\u00e8ncia",
+    "postalCode": "46011",
+    "lng": -0.334373,
+    "lat": 39.464138
+  },
+  "onlineVenue": null,
+  "dateTime": "2025-04-29T18:30+02:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2025-04-29T20:30+02:00"
+}
