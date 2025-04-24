@@ -1,0 +1,28 @@
+{
+  "id": "307212919",
+  "title": "Python Meetup April: The Spring Meetup",
+  "eventUrl": "https://www.meetup.com/python-barcelona/events/307212919",
+  "description": "For the month of April, we have two awesome talks about **Python Decorators** and **building a load balancer using the new NoGIL biilds**.\n\n\\-\\-\\-\nSchedule:\n\n* \ud83d\udc4b & \ud83d\udde3\ufe0f 18:45: Welcome and Talks\n* \ud83c\udf55 **&** \ud83c\udf7b 20:00: Networking, food and drinks!\n* \ud83d\udc4b 21:00: Bye!\n\n\\-\\-\\-\n\n* \u27a1\ufe0f **What:** Why Decorators?\n* \ud83d\udce2 **Who**: Dirk L\u00fcdtke\n* \u23f1 **Duration**: 30 minutes\n* \ud83d\udc45 **Language**: English\n* \ud83e\uddd0 **Abstract**: Python first introduced decorators way back in 2004 with version 2.4, as a powerful tool for enhancing the behavior of functions and (later on) classes all in a neat and concise way. You are probably familiar with some popular decorators like @classmethod, @app.route (Flask), @validator (Pydantic), and @tf.function (TensorFlow). While most of us happily use them, few actually create our own. Decorators are convenient, but they\u2019re not without their quirks. As I write this, I\u2019m still a little on the fence about using them too liberally. But fear not! By the time we get to the talk, I'll share some intriguing insights, show you where decorators truly shine, and highlight a few hilarious examples of flagrant misuse.\n\n\\-\\-\\-\\-\n\n* \u27a1\ufe0f **What:** Building a NoGIL Load Balancer in 30 minutes\n* \ud83d\udce2 **Who**: Alvaro Duran\n* \u23f1 **Duration**: 30 minutes\n* \ud83d\udc45 **Language**: English\n* \ud83e\uddd0 **Abstract**: Load balancers are widespread nowadays because most software systems are web-centric and service oriented. However, they\u2019re extremely complex to build, because they must be very performant and use sophisticated algorithms to route traffic. Until recently, you couldn\u2019t use Python to build one, because even though it would make the code simpler, the GIL prevented multiple threads from executing Python at the same time.\n\nNow that you can, what are the practical implications in your day-to-day work?\nIn this talk, we\u2019re going to live code a load balancer in Python. This will help us understand the pros and cons of using modules such as asyncio, threading and concurrent.futures, and what changes when we remove the GIL from the way.\nWhether you\u2019re building systems that demand concurrency (such as AI models or DevOps pipelines), or you\u2019re just curious about how tools like gUnicorn or Starlette work under the hood, you\u2019ll come away with practical insights on how to start off the NoGIL era on the right foot.\n\n\\-\\-\\-\\-\n\u27a1\ufe0f Location:\n[Cloudworks Passeig de Gr\u00e0cia - Gran Via de les Corts Catalanes, 613, 1era planta, Eixample, 08007 Barcelona](https://maps.app.goo.gl/AAjENFQr626oAXQe8)\n\\-\\-\\-\\-\n\u27a1\ufe0f Access Control\n\n* \ud83d\udec2 The security access control requires an **attendee list** (full name) and a **means of identification** (DNI, NIE, passport)\n* \u26a0\ufe0f Make sure you register for the event with your **full name** and **ID**. Otherwise, you will be REMOVED from the attendance list.\n* \ud83e\udeaa You\u2019ll be asked to provide that ID to access the building.\n* \ud83d\udeb8 People under 18 years old shall be accompanied by a legal guardian\n\n\\-\\-\\-\\-\n\u27a1\ufe0f Only register if you can attend!\n\n* \ud83e\ude91 There are limited seats, so please be responsible when signing up\n* \ud83d\udeb7 If you can't make it, please free up your seat, so someone else can attend. We keep a list with repeated offenders!\n\n\\-\\-\\-\\-\n\u27a1\ufe0f More at https://pybcn.org:\n\n* \ud83d\udce2 We want talk proposals! [Send yours](https://pybcn.org/pybcn_association/propose-a-talk/)\n* \ud83e\udd84 Want to [publish a job offer](https://pybcn.org/job-offers)?\n* \ud83d\udc26 Follow [@PyBCN](https://twitter.com/pybcn), [@PyBCN in BlueSky](https://bsky.app/profile/pybcn.org) for pictures, slides, videos and more",
+  "shortDescription": null,
+  "group": {
+    "id": "831283",
+    "name": "Python Barcelona Meetup"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27789524",
+    "name": "Cloudworks",
+    "address": "Gran Via de les Corts Catalanes, 613, 1era planta, Eixample, 08007 Barcelona, 1era planta, Eixample, 08007",
+    "city": "Barcelona",
+    "postalCode": "meetup2",
+    "lng": 2.16847,
+    "lat": 41.390343
+  },
+  "onlineVenue": null,
+  "dateTime": "2025-04-30T18:45+02:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2025-04-30T20:45+02:00"
+}

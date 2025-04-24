@@ -1,0 +1,28 @@
+{
+  "id": "307040086",
+  "title": "(Data || ML)Ops, how \"Ops\" get into data's world",
+  "eventUrl": "https://www.meetup.com/pydata-salamanca/events/307040086",
+  "description": "**\u00a1Volvemos con PyData Salamanca!**\nEl pr\u00f3ximo \ud83d\udcc5 Martes 6 de Mayo de este 2025 estaremos de vuelta y nos traemos a Jose Manuel Navarro para que nos ense\u00f1e pr\u00e1cticas para las operaciones de datos.\n\n**#PyBeers**\nTras la charla se propondr\u00e1 un lugar para que nos juntemos y charlemos un rato, para que podamos conocernos un poco y compartir experiencias.\n\n**\ud83d\udce2 \u00a1Buscamos voluntarios!**\nSi te apasiona (o buscas que te apasione) el mundo de los datos, env\u00edanos un correo a pydata[at]dani-pi[dot]com para atenderos. Buscamos colaboradores y divulgadores \ud83d\ude04. An\u00edmate a presentar algo a la comunidad!\n\n**Resumen de la presentaci\u00f3n**\n\"\"\"\nUna de las innovaciones m\u00e1s grandes del mundo del desarrollo de software, tras las metodolog\u00edas \u00e1giles de hace 30 a\u00f1os, ha sido la cultura DevOps. Tal ha sido tal su impacto, que se ha ido copiando la coletilla \u201cops\u201d a distintos campos.\n\nPero\u2026 qu\u00e9 significa exactamente? Y por qu\u00e9 el mundo de los datos y el machine learning son el escenario perfecto para poner en pr\u00e1ctica los valores de una cultura orientada a \u201cOps\u201d?\n\nEn esta CharlaOps, aprender\u00e1s que no es suficiente escribir (buen) c\u00f3digo, ni tener petabytes en tu datalake, ni entrenar modelos de deep learning como si no hubiera un ma\u00f1ana, sino que todo debe estar construido sobre una cultura y unas pr\u00e1cticas que garanticen que el castillo de naipes no se te va a caer encima.\n\"\"\"",
+  "shortDescription": null,
+  "group": {
+    "id": "30890235",
+    "name": "PyData Salamanca"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "28042754",
+    "name": "Complejo Pe\u00f1uelas de San Blas",
+    "address": "Calle Pe\u00f1uelas de San Blas",
+    "city": "Salamanca",
+    "postalCode": "meetup40",
+    "lng": -5.670098,
+    "lat": 40.96366
+  },
+  "onlineVenue": null,
+  "dateTime": "2025-05-06T19:00+02:00",
+  "duration": "PT1H30M",
+  "timezone": "Europe/Madrid",
+  "endTime": "2025-05-06T20:30+02:00"
+}
