@@ -1,0 +1,28 @@
+{
+  "id": "307718807",
+  "title": "Agentes y el Futuro de la Interoperabilidad (MCP y A2A)",
+  "eventUrl": "https://www.meetup.com/python-valencia-meetup/events/307718807",
+  "description": "**Primero la charla**\nEn esta charla introductoria exploraremos el papel de los agentes de inteligencia artificial en la interoperabilidad y c\u00f3mo protocolos emergentes como MCP (Model Context Protocol) y A2A (Agent2Agent) est\u00e1n transformando la forma en que los modelos de IA colaboran y acceden a informaci\u00f3n. Se dar\u00e1 una visi\u00f3n general de estos conceptos y su impacto en la colaboraci\u00f3n entre modelos de IA. Finalmente se mostrar\u00e1 un ejemplo pr\u00e1ctico para ilustrar su funcionamiento en un escenario real.\n\n**Despu\u00e9s conocerse**\nTras la charla os invitamos a quedaros un poco m\u00e1s para conocer a los miembros de la comunidad y hacer un poco de networking.",
+  "shortDescription": null,
+  "group": {
+    "id": "16514622",
+    "name": "Python Valencia"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27591803",
+    "name": "wayCO Cabanyal | Coworking Val\u00e8ncia",
+    "address": "Carrer de Mari\u00e0 Cuber, 17",
+    "city": "Val\u00e8ncia",
+    "postalCode": "46011",
+    "lng": -0.334373,
+    "lat": 39.464138
+  },
+  "onlineVenue": null,
+  "dateTime": "2025-05-28T18:30+02:00",
+  "duration": "PT1H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2025-05-28T19:30+02:00"
+}
