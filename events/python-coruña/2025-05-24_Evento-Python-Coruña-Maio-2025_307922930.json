@@ -1,0 +1,28 @@
+{
+  "id": "307922930",
+  "title": "Evento Python Coru\u00f1a Maio 2025",
+  "eventUrl": "https://www.meetup.com/python-a-coruna/events/307922930",
+  "description": "Desta volta imos ter a charla \"Introduccion a Event Sourcing con Python\" con Nacho Esp\u00f3sito que nos achegar\u00e1 a este tipo de patr\u00f3n de arquitectura de software.\n\nEstades todos convidados a esta charla, que pecha a tempada 2024/25 de Python Coru\u00f1a.\n\n[https://linktr.ee/pythoncoruna](https://linktr.ee/pythoncoruna)",
+  "shortDescription": null,
+  "group": {
+    "id": "36742904",
+    "name": "Python A Coru\u00f1a"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27561952",
+    "name": "Ateneo",
+    "address": "R\u00faa Reverendo Padre Jos\u00e9 \u00c1lvarez Cabezas, 1",
+    "city": "A Coru\u00f1a",
+    "postalCode": "15011",
+    "lng": -8.417,
+    "lat": 43.369785
+  },
+  "onlineVenue": null,
+  "dateTime": "2025-05-24T18:15+02:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2025-05-24T20:15+02:00"
+}
