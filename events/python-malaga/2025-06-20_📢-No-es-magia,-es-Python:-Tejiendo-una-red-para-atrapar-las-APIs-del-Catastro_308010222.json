@@ -1,0 +1,28 @@
+{
+  "id": "308010222",
+  "title": "\ud83d\udce2 No es magia, es Python: Tejiendo una red para atrapar las APIs del Catastro",
+  "eventUrl": "https://www.meetup.com/python_malaga/events/308010222",
+  "description": "**\u00bfAlguna vez has visto en vivo c\u00f3mo tus t\u00edos se pelean por las tierras o la casa de tu abuelo pero no saben bien d\u00f3nde est\u00e1n, la superficie que tienen...?** En estas situaciones lo mejor es ir **al Catastro**, donde tienen la info p\u00fablica siempre que tengas al menos una Referencia, pero navegar por ella se hace tedioso. **\u00bfY si tu sentido ar\u00e1cnido (o de programador) se activase de pronto y decidieras automatizar el c\u00f3mo conseguir toda la info que tengan?** Supongo que todo poder conlleva una responsabilidad...\n\n**Acompa\u00f1a a tu amigo y vecino... \u00a1*Spiderman*!** (vale, no, soy Iv\u00e1n, ten\u00eda que hacer la gracia) en esta aventura scrapenado y tratando de entender las redes y APIs del Catastro para poder concentrarlo todo en un s\u00f3lo paquete de Python disponible en pip. Veremos en esta historia que acab\u00f3 en la creaci\u00f3n de [ESCatastroLib](https://pypi.org/project/ESCatastroLib/) c\u00f3mo se encontraron esas APIs, tratar de usar requests para conseguir la informaci\u00f3n, meterlo todo en un paquete de pip usando Hatch (como nuestro lanza telara\u00f1as particular) para subirlo a PyPI e incluso usar una librer\u00eda como Folium para poder ver la informaci\u00f3n geogr\u00e1fica en un mapa desde Python.\n\n**Sala:** Sala Benalm\u00e1dena\n**Conferencia:** [OpenSouthCode 2025](https://www.opensouthcode.org/conferences/opensouthcode2025)\n**Idioma:** Espa\u00f1ol\n**Dificultad:** F\u00e1cil\n\nEsta charla pertenece al congreso [OpenSouthCode 2025](https://www.opensouthcode.org/conferences/opensouthcode2025/). Recomendamos registrarse a [trav\u00e9s del formulario web](https://www.opensouthcode.org/conferences/opensouthcode2025/register) del evento. Durante el d\u00eda se desarrollar\u00e1n m\u00e1s actividades, no s\u00f3lo de Python, las cuales pueden interesarte y [recomendamos leer](https://www.opensouthcode.org/conferences/opensouthcode2025/schedule).",
+  "shortDescription": null,
+  "group": {
+    "id": "33344430",
+    "name": "Python M\u00e1laga"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "26178960",
+    "name": "La T\u00e9rmica",
+    "address": "Av. de los Guindos, 48",
+    "city": "M\u00e1laga",
+    "postalCode": "29004",
+    "lng": -4.445437,
+    "lat": 36.68937
+  },
+  "onlineVenue": null,
+  "dateTime": "2025-06-20T15:30+02:00",
+  "duration": "PT45M",
+  "timezone": "Europe/Madrid",
+  "endTime": "2025-06-20T16:15+02:00"
+}
