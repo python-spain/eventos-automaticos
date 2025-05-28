@@ -1,0 +1,28 @@
+{
+  "id": "308010271",
+  "title": "\ud83d\udce2 Micropython: programaci\u00f3n f\u00e1cil de microcontroladores para todos",
+  "eventUrl": "https://www.meetup.com/python_malaga/events/308010271",
+  "description": "Hasta hace no mucho, para programar microcontroladores requer\u00edamos utilizar variantes de lenguajes como C/C++, quedando fuera de nuestro alcance lenguajes populares y sencillos como **Python**. No obstante, los nuevos microcontroladores como *ESP32* o *Raspberry Pi Pico*, m\u00e1s potentes y con mayores recursos, han abierto la puerta a variantes de estos lenguajes, como es el caso de **Micropython**. Veremos los primeros pasos, ejemplos pr\u00e1cticos como **control de leds**, formas de **comunicaci\u00f3n**, instalaci\u00f3n de paquetes, limitaciones y m\u00e1s. Se recomienda disponer de conocimientos previos de Python, aunque no es esencial. Si no conoces el mundo de los microcontroladores, \u00a1esta es tu charla! Micropython es una de las formas m\u00e1s f\u00e1ciles, c\u00f3modas, r\u00e1pidas y divertidas de adentrarse.\n\n**Sala:** Sala Benalm\u00e1dena\n**Conferencia:** [OpenSouthCode 2025](https://www.opensouthcode.org/conferences/opensouthcode2025)\n**Idioma:** Espa\u00f1ol\n**Dificultad:** F\u00e1cil\n\nEsta charla pertenece al congreso [OpenSouthCode 2025](https://www.opensouthcode.org/conferences/opensouthcode2025/). Recomendamos registrarse a [trav\u00e9s del formulario web](https://www.opensouthcode.org/conferences/opensouthcode2025/register) del evento. Durante el d\u00eda se desarrollar\u00e1n m\u00e1s actividades, no s\u00f3lo de Python, las cuales pueden interesarte y [recomendamos leer](https://www.opensouthcode.org/conferences/opensouthcode2025/schedule).",
+  "shortDescription": null,
+  "group": {
+    "id": "33344430",
+    "name": "Python M\u00e1laga"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "26178960",
+    "name": "La T\u00e9rmica",
+    "address": "Av. de los Guindos, 48",
+    "city": "M\u00e1laga",
+    "postalCode": "29004",
+    "lng": -4.445437,
+    "lat": 36.68937
+  },
+  "onlineVenue": null,
+  "dateTime": "2025-06-20T16:30+02:00",
+  "duration": "PT45M",
+  "timezone": "Europe/Madrid",
+  "endTime": "2025-06-20T17:15+02:00"
+}
