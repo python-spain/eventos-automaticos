@@ -1,0 +1,28 @@
+{
+  "id": "308010304",
+  "title": "\ud83d\udce2 Pruebas Unitarias con Pytest: DDT, TDD y BDD",
+  "eventUrl": "https://www.meetup.com/python_malaga/events/308010304",
+  "description": "En esta charla exploraremos el mundo de las pruebas unitarias en Python utilizando **Pytest**, uno de los frameworks m\u00e1s populares y potentes. Comenzaremos por entender la importancia de las **pruebas unitarias** en el desarrollo de software moderno y c\u00f3mo contribuyen a la creaci\u00f3n de c\u00f3digo m\u00e1s robusto y mantenible.\n\nIntroduciremos tres metodolog\u00edas clave: **Data-Driven Testing** *(DDT)*, **Test-Driven Development** (TDD) y **Behavior-Driven Development** *(BDD)*. Veremos c\u00f3mo cada una de ellas aborda las pruebas desde una perspectiva diferente, y c\u00f3mo Pytest nos facilita su implementaci\u00f3n.\n\nA trav\u00e9s de ejemplos pr\u00e1cticos y concisos, los asistentes descubrir\u00e1n c\u00f3mo escribir sus primeras pruebas con *Pytest*, **ejecutar tests**, **interpretar los resultados** y aprovechar algunas de las funcionalidades b\u00e1sicas del framework. Esta charla es ideal para desarrolladores que se inician en el testing con Python o que desean conocer las ventajas de Pytest.\n\n**Sala:** Sala Benalm\u00e1dena\n**Conferencia:** [OpenSouthCode 2025](https://www.opensouthcode.org/conferences/opensouthcode2025)\n**Idioma:** Espa\u00f1ol\n**Dificultad:** F\u00e1cil\n\nEsta charla pertenece al congreso [OpenSouthCode 2025](https://www.opensouthcode.org/conferences/opensouthcode2025/). Recomendamos registrarse a [trav\u00e9s del formulario web](https://www.opensouthcode.org/conferences/opensouthcode2025/register) del evento. Durante el d\u00eda se desarrollar\u00e1n m\u00e1s actividades, no s\u00f3lo de Python, las cuales pueden interesarte y [recomendamos leer](https://www.opensouthcode.org/conferences/opensouthcode2025/schedule).",
+  "shortDescription": null,
+  "group": {
+    "id": "33344430",
+    "name": "Python M\u00e1laga"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "26178960",
+    "name": "La T\u00e9rmica",
+    "address": "Av. de los Guindos, 48",
+    "city": "M\u00e1laga",
+    "postalCode": "29004",
+    "lng": -4.445437,
+    "lat": 36.68937
+  },
+  "onlineVenue": null,
+  "dateTime": "2025-06-20T17:30+02:00",
+  "duration": "PT45M",
+  "timezone": "Europe/Madrid",
+  "endTime": "2025-06-20T18:15+02:00"
+}
