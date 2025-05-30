@@ -1,0 +1,28 @@
+{
+  "id": "308010349",
+  "title": "\ud83d\udce2 Acelera tu c\u00f3digo Python con Rust",
+  "eventUrl": "https://www.meetup.com/python_malaga/events/308010349",
+  "description": "Combinar Python con lenguajes compilados est\u00e1 m\u00e1s visto que el tebeo. Y sin embargo, Rust ha demostrado ser un acompa\u00f1amiento especialmente s\u00f3lido para Python, gracias en parte a las excelentes herramientas de desarrollo disponibles. En esta charla hablaremos en detalle de c\u00f3mo puedes crear tu primera extensi\u00f3n Rust para Python.\n\n**Sala:** Sala Fuengirola\n**Conferencia:** [OpenSouthCode 2025](https://www.opensouthcode.org/conferences/opensouthcode2025)\n**Idioma:** Espa\u00f1ol\n**Dificultad:** F\u00e1cil\n\nEsta charla pertenece al congreso [OpenSouthCode 2025](https://www.opensouthcode.org/conferences/opensouthcode2025/). Recomendamos registrarse a [trav\u00e9s del formulario web](https://www.opensouthcode.org/conferences/opensouthcode2025/register) del evento. Durante el d\u00eda se desarrollar\u00e1n m\u00e1s actividades, no s\u00f3lo de Python, las cuales pueden interesarte y [recomendamos leer](https://www.opensouthcode.org/conferences/opensouthcode2025/schedule).",
+  "shortDescription": null,
+  "group": {
+    "id": "33344430",
+    "name": "Python M\u00e1laga"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "26178960",
+    "name": "La T\u00e9rmica",
+    "address": "Av. de los Guindos, 48",
+    "city": "M\u00e1laga",
+    "postalCode": "29004",
+    "lng": -4.445437,
+    "lat": 36.68937
+  },
+  "onlineVenue": null,
+  "dateTime": "2025-06-21T11:00+02:00",
+  "duration": "PT45M",
+  "timezone": "Europe/Madrid",
+  "endTime": "2025-06-21T11:45+02:00"
+}
