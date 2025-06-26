@@ -1,0 +1,28 @@
+{
+  "id": "308557354",
+  "title": "\ud83d\udcb6 Del click al cr\u00e9dito: lo que no ves y acelera tu c\u00f3digo Python con Rust",
+  "eventUrl": "https://www.meetup.com/pydata-madrid/events/308557354",
+  "description": "PyData Madrid vuelve en junio para hablar de Python, Datos, Visualizaci\u00f3n, Inteligencia Artificial, \u00a1Y lo que surja!\n\nDetalles e inscripci\u00f3n en Guild: https://guild.host/events/tbc-evento-junio-2r4clc",
+  "shortDescription": null,
+  "group": {
+    "id": "23965442",
+    "name": "PyData Madrid"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "28092718",
+    "name": "Grupo WiZink",
+    "address": "c/ Ulises 16",
+    "city": "Madrid",
+    "postalCode": "meetup1",
+    "lng": -3.654491,
+    "lat": 40.456593
+  },
+  "onlineVenue": null,
+  "dateTime": "2025-06-26T19:00+02:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2025-06-26T21:00+02:00"
+}
