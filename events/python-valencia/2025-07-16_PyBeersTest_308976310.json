@@ -1,0 +1,28 @@
+{
+  "id": "308976310",
+  "title": "PyBeersTest",
+  "eventUrl": "https://www.meetup.com/python-valencia-meetup/events/308976310",
+  "description": "\u00a1Vuelven las PyBeers!\n\nVolvemos en esta ocasi\u00f3n para despedir el curso hasta Septiembre junto con nuestros amigos de la comunidad de testing. Compartiremos una tarde de networking, ideas y experiencias.\n\nNo importa si eres desarrollador, dise\u00f1ador, especialista en Python, est\u00e1s empezando en el mundo tech o solo tienes curiosidad por conocer m\u00e1s. Este evento es para todas las personas que quieran pasar un buen rato y aprender juntos.\n\n\u00a1Te esperamos!",
+  "shortDescription": null,
+  "group": {
+    "id": "16514622",
+    "name": "Python Valencia"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "23657115",
+    "name": "Ruzanuvol Cerveceria Artesenal ",
+    "address": "Calle Luis Santangel 3",
+    "city": "Valencia",
+    "postalCode": "",
+    "lng": -0.367908,
+    "lat": 39.46326
+  },
+  "onlineVenue": null,
+  "dateTime": "2025-07-16T18:30+02:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2025-07-16T20:30+02:00"
+}
