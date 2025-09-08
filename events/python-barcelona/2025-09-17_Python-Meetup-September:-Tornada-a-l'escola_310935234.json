@@ -1,0 +1,28 @@
+{
+  "id": "310935234",
+  "title": "Python Meetup September: Tornada a l'escola",
+  "eventUrl": "https://www.meetup.com/python-barcelona/events/310935234",
+  "description": "We are going back to school in September! For this month's Meetup, we are partnering with **Barcelona Activa - Cibern\u00e0rium** to offer two introductory sessions in Catalan: **Python i productivitat** and **Python for Generation Z**.\n\nRegistration is handled directly by Cibern\u00e0rium.\n\n**In order to register, please use the following link:**\n**[https://cibernarium.barcelonactiva.cat/ficha-actividad?activityId=1463507](https://cibernarium.barcelonactiva.cat/ficha-actividad?activityId=1463507)**\n\n\\-\\-\\-\nSchedule:\n\n* \ud83d\udc4b & \ud83d\udde3\ufe0f 18:30: Welcome and Talks\n* \ud83c\udf55 **&** \ud83c\udf7b 20:00: Networking, food and drinks!\n* \ud83d\udc4b 21:00: Bye!\n\n\\-\\-\\-\n\n* \u27a1\ufe0f **What:** Python i productivitat: Com sobreviure a la vida moderna\n* \ud83d\udce2 **Who**: *Silvia Ampuero*\n* \u23f1 **Duration**: 45 minutes\n* \ud83d\udc45 **Language**: Catalan\n* \ud83e\uddd0 **Abstract**: En la xerrada descobrir\u00e0s com Python et pot ajudar a automatitzar tasques quotidianes amb poques l\u00ednies de codi. Es parlar\u00e0 de llibreries com Pandas, Matplotlib o les que permeten integrar-te amb Telegram i reconeixement de veu, eines que et permetran passar de la idea a la realitat de manera r\u00e0pida i intu\u00eftiva.\n\n\\-\\-\\-\\-\n\n* \u27a1\ufe0f **What:** Python for Generation Z\n* \ud83d\udce2 **Who**: N\u00faria Pujol Vilanova\n* \u23f1 **Duration**: 30 minutes\n* \ud83d\udc45 **Language**: Catalan\n* \ud83e\uddd0 **Abstract**: En aquesta xerrada descobrir\u00e0s frameworks com FastAPI i llibreries com Streamlit, uv i Marimo, que permeten transformar idees en aplicacions reals, visuals i interactives de manera r\u00e0pida i intu\u00eftiva. Aquestes eines, perfectament alineades amb el ritme i els interessos dels joves, fan que aprendre Python sigui un proc\u00e9s m\u00e9s motivador i adequat per al desenvolupament professional. Ideal per a qui vulgui con\u00e8ixer com portar les seves idees a la realitat amb Python de manera efica\u00e7, creativa i \u00e0gil.\n\n\\-\\-\\-\\-\n\u27a1\ufe0f Location:\n[Cibern\u00e0rium 22@ - Carrer Roc Boronat, 117-127, 08018 Barcelona](https://maps.app.goo.gl/pFZaS2RQXA47ici27)\n\\-\\-\\-\\-\n\u27a1\ufe0f More at https://pybcn.org:\n\n* \ud83d\udce2 We want talk proposals! [Send yours](https://pybcn.org/pybcn_association/propose-a-talk/)\n* \ud83e\udd84 Want to [publish a job offer](https://pybcn.org/job-offers)?\n* \ud83d\udc26 Follow [@PyBCN](https://twitter.com/pybcn), [@PyBCN in BlueSky](https://bsky.app/profile/pybcn.org) for pictures, slides, videos and more",
+  "shortDescription": null,
+  "group": {
+    "id": "831283",
+    "name": "Python Barcelona Meetup"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "25227616",
+    "name": "Auditori Cibern\u00e0rium - MEDIATIC",
+    "address": "Roc Boronat, 117 - EDIFICIO MEDIATIC",
+    "city": "08018",
+    "postalCode": "",
+    "lng": 2.194519,
+    "lat": 41.40248
+  },
+  "onlineVenue": null,
+  "dateTime": "2025-09-17T18:00+02:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2025-09-17T20:00+02:00"
+}
