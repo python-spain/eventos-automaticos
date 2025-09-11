@@ -1,0 +1,28 @@
+{
+  "id": "310987213",
+  "title": "\ud83d\udcda Web scraping pol\u00edglota y Redes Neuronales Bayesianas",
+  "eventUrl": "https://www.meetup.com/pydata-madrid/events/310987213",
+  "description": "Informaci\u00f3n y registro en https://guild.host/events/web-scraping-polglota-guc54i",
+  "shortDescription": null,
+  "group": {
+    "id": "23965442",
+    "name": "PyData Madrid"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27888559",
+    "name": "The Valley Business & Tech School",
+    "address": "Calle de Arapiles 13",
+    "city": "Madrid",
+    "postalCode": "meetup1",
+    "lng": -3.706315,
+    "lat": 40.43266
+  },
+  "onlineVenue": null,
+  "dateTime": "2025-09-18T19:00+02:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2025-09-18T21:00+02:00"
+}
