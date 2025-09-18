@@ -1,0 +1,28 @@
+{
+  "id": "311098830",
+  "title": "La magia de Streamlit: de scripts de Python a web apps",
+  "eventUrl": "https://www.meetup.com/python-valencia-meetup/events/311098830",
+  "description": "**Primero la charla**\n\u00bfTe gustar\u00eda transformar esos scripts dif\u00edciles de entender en aplicaciones web con una interfaz bonita, funcional y mobile-friendly?\n\n\u00danete a esta charla para descubrir c\u00f3mo Streamlit convierte tu c\u00f3digo en herramientas que cualquiera puede usar: desde tu jefe hasta tu pareja.\n\nCon Streamlit no necesitas saber HTML, CSS ni JavaScript. Podr\u00e1s crear formularios, paneles interactivos y hasta chats para probar los \u00faltimos modelos de inteligencia artificial. Su componente de chat te permitir\u00e1 interactuar f\u00e1cilmente con tus agentes de IA y sacarles el m\u00e1ximo provecho.\n\nSi trabajas con datos, aqu\u00ed te sentir\u00e1s como en casa. Streamlit se integra perfectamente con bibliotecas como Pandas, Matplotlib, Plotly, Bokeh o Folium, y hasta puedes mostrar mapas interactivos con Mapbox. Explora tus dataframes, ord\u00e9nalos, b\u00fascalos e interact\u00faa con ellos sin complicaciones.\n\nSi ya sabes Python y quieres empezar a construir sin enredarte con el frontend, esta charla te dar\u00e1 una visi\u00f3n clara, pr\u00e1ctica e inspiradora de todo lo que puedes lograr con Streamlit.\n\n**Despu\u00e9s conocerse**\nTras la charla os invitamos a quedaros un poco m\u00e1s para conocer a los miembros de la comunidad y hacer un poco de networking.\n\n**D\u00f3nde:**\nOficinas de GuruSup: Calle de Guillem de Castro 9, piso 7\nhttps://www.linkedin.com/company/gurusup/",
+  "shortDescription": null,
+  "group": {
+    "id": "16514622",
+    "name": "Python Valencia"
+  },
+  "isNetworkEvent": false,
+  "isOnline": false,
+  "eventType": "PHYSICAL",
+  "venue": {
+    "id": "27925152",
+    "name": "C/Guillem de Castro 9,",
+    "address": "C/Guillem de Castro 9, 7\u00aa Planta",
+    "city": "Valencia",
+    "postalCode": "meetup3",
+    "lng": -0.380725,
+    "lat": 39.467945
+  },
+  "onlineVenue": null,
+  "dateTime": "2025-09-30T18:30+02:00",
+  "duration": "PT2H",
+  "timezone": "Europe/Madrid",
+  "endTime": "2025-09-30T20:30+02:00"
+}
